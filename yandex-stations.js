@@ -13,7 +13,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-dorognoe-radio",
         "name": "Дорожное радио",
-        "stream": "http://dorognoe.hostingradio.ru:8000/radio",
+        "stream": "https://dorognoe.hostingradio.ru:8041/dorognoe128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/dorognoe-radio",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/29541/img.69972566ff26fe468fe16007/300x300",
         "description": "Музыка для тех, кто за рулём.",
@@ -24,7 +24,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-radio-dacha",
         "name": "Радио Дача",
-        "stream": "http://dcha.hostingradio.ru:8027/dcha128.mp3",
+        "stream": "https://dcha.hostingradio.ru:8041/dcha128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/radio-dacha",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/40584/img.69283b3d8131456c3828133a/300x300",
         "description": "Уют, ностальгия и радость.",
@@ -79,7 +79,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-love-radio",
         "name": "Love Radio",
-        "stream": "http://love.hostingradio.ru:8027/love128.mp3",
+        "stream": "https://love.hostingradio.ru:8041/love128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/love-radio",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28052/img.69283a718131456c38281322/300x300",
         "description": "Музыка, что говорит «люблю».",
@@ -112,7 +112,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-jazz",
         "name": "Радио JAZZ",
-        "stream": "http://jazz.hostingradio.ru:8027/jazz128.mp3",
+        "stream": "https://jazz.hostingradio.ru:8041/jazz128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/jazz",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/70683/img.69283a13e25f054e30c6ed93/300x300",
         "description": "Мир джаза.",
@@ -123,7 +123,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-radio-pi-fm",
         "name": "ПИ FM",
-        "stream": "http://pifm.hostingradio.ru/pifm128.mp3",
+        "stream": "https://cdn.pifm.ru/mp3",
         "sourceUrl": "https://radio.yandex.ru/station/radio-pi-fm",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/70683/img.6985f4f27514ec7b931a908e/300x300",
         "description": "Мир! Лайф! Драйв!",
@@ -145,7 +145,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-business-fm",
         "name": "Business FM",
-        "stream": "http://businessfm.hostingradio.ru:8027/businessfm128.mp3",
+        "stream": "https://bfm.hostingradio.ru:9075/fm",
         "sourceUrl": "https://radio.yandex.ru/station/business-fm",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28052/img.69ce4d1439235242ca958bdd/300x300",
         "description": "Первое деловое радио.",
@@ -156,7 +156,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-rbk",
         "name": "Радио РБК",
-        "stream": "http://rbc.hostingradio.ru:8000/rbc128.mp3",
+        "stream": "https://rbc.hostingradio.ru:8041/rbc128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/rbk",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28592/img.6978d08c7ff809447a5317af/300x300",
         "description": "Деловое радио.",
@@ -200,7 +200,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-nashe-classic",
         "name": "Классик рок",
-        "stream": "http://nashe1.hostingradio.ru/nasheclassic.mp3",
+        "stream": "https://nashe1.hostingradio.ru:80/nasheclassic.mp3",
         "sourceUrl": "https://www.nashe.ru/",
         "logoUrl": "https://www.nashe.ru/storage/18263/conversions/nashe-classic-thumb.jpg",
         "description": "Золотая классика рока.",
@@ -211,7 +211,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-nashe-punk",
         "name": "Панки хой!",
-        "stream": "http://nashe1.hostingradio.ru/nashepunks.mp3",
+        "stream": "https://nashe1.hostingradio.ru:80/nashepunks.mp3",
         "sourceUrl": "https://www.nashe.ru/",
         "logoUrl": "https://www.nashe.ru/storage/18265/conversions/nashe-punk-thumb.jpg",
         "description": "Панк и хардкор.",
@@ -222,7 +222,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-nashe-sing",
         "name": "Щас спою",
-        "stream": "http://nashe1.hostingradio.ru/nashesongs.mp3",
+        "stream": "https://nashe1.hostingradio.ru:80/nashesongs.mp3",
         "sourceUrl": "https://www.nashe.ru/",
         "logoUrl": "https://www.nashe.ru/storage/18267/conversions/nashe-sing-thumb.jpg",
         "description": "Акустика и живой звук.",
