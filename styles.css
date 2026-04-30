@@ -114,10 +114,12 @@ body::after {
 }
 
 .brand-logo {
-  height: 56px;
+  height: 48px;
   width: auto;
   object-fit: contain;
-  border-radius: 12px;
+  border-radius: 0;
+  background: transparent;
+  mix-blend-mode: lighten;
 }
 
 .eyebrow {
@@ -336,9 +338,8 @@ input::placeholder {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(140deg, rgba(255, 122, 24, 0.36), transparent 40%),
-    radial-gradient(circle at 80% 20%, rgba(66, 211, 200, 0.2), transparent 25%),
-    linear-gradient(145deg, rgba(255, 255, 255, 0.06), transparent 60%);
+    linear-gradient(140deg, rgba(0,0,0,0.55), rgba(0,0,0,0.25)),
+    url('./6.jpg') center/cover no-repeat;
 }
 
 .hero-copy {
@@ -560,6 +561,15 @@ input::placeholder {
 .queue-meta small,
 .station-meta small {
   color: var(--muted);
+}
+
+.queue-meta strong,
+.station-meta strong {
+  color: #ffffff;
+}
+
+.queue-item {
+  cursor: pointer;
 }
 
 .queue-count {
