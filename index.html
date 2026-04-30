@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Все радиостанции</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <img src="./logo.jpg" alt="Radioteka" class="brand-logo" />
+          <div>
+            <p class="eyebrow">Интернет-радио в прямом эфире</p>
+            <h1>Все радиостанции в одном месте</h1>
+          </div>
+        </div>
+
+        <div class="topbar-actions">
+          <div class="search-wrap">
+            <label class="search-field" for="station-search">
+              <span>Поиск</span>
+              <input
+                id="station-search"
+                type="search"
+                placeholder="Найти станцию или жанр"
+                autocomplete="off"
+              />
+            </label>
+
+            <div id="search-suggestions" class="search-suggestions" hidden></div>
+          </div>
+
+          <label class="timer-field" for="sleep-timer">
+            <span>Таймер сна</span>
+            <select id="sleep-timer">
+              <option value="0">Выключен</option>
+              <option value="15">15 минут</option>
+              <option value="30">30 минут</option>
+              <option value="60">60 минут</option>
+            </select>
+          </label>
+        </div>
+      </header>
+
+      <main class="layout-grid">
+        <section class="hero-panel">
+          <div class="hero-backdrop"></div>
+          <div class="hero-copy">
+            <p class="eyebrow">Сейчас в эфире</p>
+            <div class="hero-station-row">
+              <div id="station-badge" class="station-badge">GS</div>
+              <div>
+                <h2 id="current-title">Радио онлайн</h2>
+                <p id="current-description" class="current-description">
+                  Выберите станцию и слушайте прямой эфир.
+                </p>
+              </div>
+            </div>
+
+            <div id="current-tags" class="tag-row"></div>
+
+            <div class="control-row">
+              <button id="play-toggle" class="primary-button" type="button">Слушать</button>
+              <button id="next-station" class="ghost-button" type="button">Случайная станция</button>
+              <button id="favorite-toggle" class="icon-button" type="button" aria-label="Добавить в избранное">
+                ☆
+              </button>
+            </div>
+
+            <div class="status-row">
+              <span id="play-state">Готово к воспроизведению</span>
+            </div>
+
+            <div class="visualizer" aria-hidden="true">
+              <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+            </div>
+          </div>
+        </section>
+
+        <aside class="queue-panel">
+          <div class="panel-heading">
+            <p class="eyebrow">Поток</p>
+            <h3>Очередь станций</h3>
+          </div>
+
+          <div id="favorites-summary" class="summary-card">
+            <span>Избранное</span>
+            <strong>0 сохранено</strong>
+          </div>
+
+          <div id="queue-list" class="queue-list"></div>
+        </aside>
+
+        <section class="catalog-panel">
+          <div class="panel-heading catalog-heading">
+            <div>
+              <p class="eyebrow">Каталог</p>
+              <h3>Подборка станций</h3>
+            </div>
+            <div class="filter-pills" id="genre-filters"></div>
+          </div>
+
+          <div id="station-grid" class="station-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <audio id="radio-player" preload="auto"></audio>
+    <script src="./yandex-stations.js"></script>
+    <script src="./stations-data.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
