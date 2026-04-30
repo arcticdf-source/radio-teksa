@@ -35,7 +35,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-retro-fm",
         "name": "Ретро FM",
-        "stream": "http://retro.hostingradio.ru:8041/retro128.mp3",
+        "stream": "https://retro.hostingradio.ru:8041/retro128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/retro-fm",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28052/img.69283c01e25f054e30c6edb3/300x300",
         "description": "Лучшие хиты 70-х, 80-х, 90-х.",
