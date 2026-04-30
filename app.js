@@ -461,6 +461,7 @@ function selectStation(id, autoplay = true) {
   render();
 
   if (autoplay) {
+    if (typeof ym === 'function') ym(108990669, 'reachGoal', 'play_station', { station: id });
     playCurrentStation();
   }
 }
@@ -504,6 +505,7 @@ searchInput.addEventListener("input", (event) => {
   state.search = event.target.value;
   state.showSuggestions = true;
   state.visibleCount = 60;
+  if (state.search.length === 3 && typeof ym === 'function') ym(108990669, 'reachGoal', 'search');
   renderSearchSuggestions();
   renderGrid();
 });
