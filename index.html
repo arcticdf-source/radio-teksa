@@ -3,23 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Радиотека — все радиостанции в одном месте</title>
-    <meta name="description" content="699 радиостанций онлайн в прямом эфире. Слушайте НАШЕ Радио, Шансон, Ретро FM, Эрмитаж и сотни других станций бесплатно." />
-    <meta name="keywords" content="радио онлайн, интернет радио, слушать радио, радиостанции, прямой эфир" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://radio-teka.com/" />
-    <meta property="og:title" content="Радиотека — все радиостанции в одном месте" />
-    <meta property="og:description" content="699 радиостанций онлайн в прямом эфире. Слушайте бесплатно." />
-    <meta property="og:image" content="https://radio-teka.com/logo.jpg" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <link rel="canonical" href="https://radio-teka.com/" />
+    <title>Все радиостанции</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Space+Grotesk:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css?v=2" />
+    <link rel="stylesheet" href="./styles.css" />
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript">
         (function(m,e,t,r,i,k,a){
@@ -39,40 +30,40 @@
       <header class="topbar">
         <div class="brand-block">
           <img src="./logo.jpg" alt="Radioteka" class="brand-logo" />
-        </div>
-
-        <div class="topbar-search">
-          <div class="search-wrap">
-            <svg class="search-icon-svg" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l3.5 3.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
-            <input
-              id="station-search"
-              class="main-search-input"
-              type="search"
-              placeholder="Поиск по радиостанциям..."
-              autocomplete="off"
-            />
-            <div id="search-suggestions" class="search-suggestions" hidden></div>
+          <div>
+            <p class="eyebrow">Интернет-радио в прямом эфире</p>
+            <h1>Все радиостанции в одном месте</h1>
           </div>
         </div>
 
-        <nav class="topbar-nav" id="topbar-nav">
-          <button class="nav-btn active" data-view="stations" type="button">Все станции</button>
-          <button class="nav-btn" data-view="genres" type="button">Жанры</button>
-          <button class="nav-btn" data-view="cities" type="button">Города</button>
-        </nav>
+        <div class="topbar-actions">
+          <div class="search-wrap">
+            <label class="search-field" for="station-search">
+              <span>Поиск</span>
+              <input
+                id="station-search"
+                type="search"
+                placeholder="Найти станцию или жанр"
+                autocomplete="off"
+              />
+            </label>
 
-        <label class="timer-field" for="sleep-timer">
-          <span>Таймер сна</span>
-          <select id="sleep-timer">
-            <option value="0">Выключен</option>
-            <option value="15">15 минут</option>
-            <option value="30">30 минут</option>
-            <option value="60">60 минут</option>
-          </select>
-        </label>
+            <div id="search-suggestions" class="search-suggestions" hidden></div>
+          </div>
+
+          <label class="timer-field" for="sleep-timer">
+            <span>Таймер сна</span>
+            <select id="sleep-timer">
+              <option value="0">Выключен</option>
+              <option value="15">15 минут</option>
+              <option value="30">30 минут</option>
+              <option value="60">60 минут</option>
+            </select>
+          </label>
+        </div>
       </header>
 
-      <main class="layout-grid" id="main-layout">
+      <main class="layout-grid">
         <section class="hero-panel">
           <div class="hero-backdrop"></div>
           <div class="hero-copy">
@@ -133,16 +124,12 @@
           <div id="station-grid" class="station-grid"></div>
         </section>
       </main>
-
-      <div id="genre-view" class="browse-view" hidden></div>
-      <div id="city-view" class="browse-view" hidden></div>
-
     </div>
 
     <audio id="radio-player" preload="auto"></audio>
-    <script src="./yandex-stations.js?v=2"></script>
+    <script src="./yandex-stations.js"></script>
     <script src="./stations-data.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
-    <script src="./app.js?v=2"></script>
+    <script src="./app.js"></script>
   </body>
 </html>

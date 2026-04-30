@@ -45,77 +45,14 @@ function normalizeImportedSource(value) {
 }
 
 const genreMatchers = [
-  { genre: "Новости",      pattern: /news|вести.?fm|sputnik|говорит|коммерсант|solov|\bмаяк\b|business.?fm|бизнес.?fm/i },
-  { genre: "Юмор",        pattern: /comedy|юмор/i },
-  { genre: "Детское",     pattern: /kids|\bдет|baby|колыб|детский.?хор/i },
-  { genre: "Религиозное", pattern: /христиан|православ|\bвера\b|радонеж|благо|слово.?бож|dwg|молитв|церков|bhaкti/i },
-  { genre: "Классика",    pattern: /\bclassic|орфей|оркестр|\badagio|адажио|filharmon|splash.?classical|swiss.?internet.?radio.?class|neoclassical/i },
-  { genre: "Хард-рок",   pattern: /hard.?rock|\bmetal\b|металл|grindot|грайнд|хардкор/i },
-  { genre: "Русский рок", pattern: /русский.?рок|рок.атака|pirate.?rock|пиратское.?rock|калейдоскоп.?рок|рок.канал/i },
-  { genre: "Рок",         pattern: /\brock\b|\bрок\b|maximum|ультра|fresh.?rock|anti.?radio|\bскала\b/i },
-  { genre: "Хип-хоп",    pattern: /hip.?hop|hiphop|\brap\b|rnb\.fm|rusrap|breakbeat|street.?beat|phonk/i },
-  { genre: "Транс",       pattern: /trance|\bтранс\b/i },
-  { genre: "Хаус",        pattern: /\bhouse\b|deep.?house|soulful.?house|soho.?fm|soundpark.?deep|\bdeep.?fm\b|best.?deep/i },
-  { genre: "Техно",       pattern: /techno|техно/i },
-  { genre: "Диско",       pattern: /disco|disko|дискотека/i },
-  { genre: "Электронная", pattern: /\bedm\b|electronic|\bdnb\b|drum.?n.?bass|drumfunk|dj.?radio|synth|electro|электростан/i },
-  { genre: "Танцевальная",pattern: /\bdance\b|dancefloor|mixadance|party.?dance|\bтанц|danceflo/i },
-  { genre: "Джаз",        pattern: /jazz|джаз/i },
-  { genre: "Блюз",        pattern: /blues|блюз/i },
-  { genre: "R&B / Соул",  pattern: /\br.b\b|\bsoul\b|\bfunk\b|фанк|соул/i },
-  { genre: "Чиллаут",     pattern: /chill|lounge|relax|costa.?del.?mar|\bibiza\b|cafe.?del.?mar|buddha|атмосфера|slow.?radio|yoga|\bspa\b|абсолют.?парк/i },
-  { genre: "Эмбиент",     pattern: /ambient|drone|whispering|new.?age|meditation|медитац/i },
-  { genre: "Фолк",        pattern: /folk|народн|татар|казак|этниче|celtic|балалайк/i },
-  { genre: "Регги",       pattern: /reggae|регги/i },
-  { genre: "Шансон",      pattern: /шансон|душевн|наш.?шансон|бродяга/i },
-  { genre: "Ретро",       pattern: /retro|ретро|oldies|nostalg|\b80s\b|\b90s\b|vintage|старое.?добр|ностальжи|советск|caroline.?flash/i },
-  { genre: "Разговорное", pattern: /\bкниг|литер|аудиокниг|модель.?для.?сборки|радиотеатр|старое.?радио|\bbook\b/i },
-  { genre: "Спорт",       pattern: /sport|спорт|fitness/i },
-  { genre: "Поп",         pattern: /\bpop\b|хит|европа.?плюс|маруся|страна.?fm|радио.?7\b|nice.?fm|русское.?радио|like.?fm/i },
-];
-
-const cityMatchers = [
-  { city: "Москва",           pattern: /москв|\bmoscow\b|говорит.?москв|\bnfm\b|\bmfm\b|\bdj.?radio.?russia\b/i },
-  { city: "Санкт-Петербург",  pattern: /санкт.петерб|\bспб\b|питер|\bspb|петербург|\bнева\b|\bпетр\b.радио|\bgrad.petrov\b|град.петров/i },
-  { city: "Екатеринбург",     pattern: /екатеринбург/i },
-  { city: "Новосибирск",      pattern: /новосибирск|\bнск\b|nsk54/i },
-  { city: "Красноярск",       pattern: /красноярск/i },
-  { city: "Краснодар",        pattern: /краснодар/i },
-  { city: "Казань",           pattern: /казань|казан/i },
-  { city: "Ростов-на-Дону",   pattern: /ростов/i },
-  { city: "Нижний Новгород",  pattern: /нижний.?новгород|н\.новгород|\bр52\b/i },
-  { city: "Самара",           pattern: /\bсамар/i },
-  { city: "Уфа",              pattern: /\bуфа\b/i },
-  { city: "Омск",             pattern: /\bомск/i },
-  { city: "Пермь",            pattern: /\bпермь\b|\bperm\b/i },
-  { city: "Барнаул",          pattern: /барнаул/i },
-  { city: "Иркутск",          pattern: /иркутск/i },
-  { city: "Волгоград",        pattern: /волгоград/i },
-  { city: "Орск",             pattern: /\bорск\b/i },
-  { city: "Брянск",           pattern: /брянск/i },
-  { city: "Владивосток",      pattern: /владивосток|лемма/i },
-  { city: "Камчатка",         pattern: /kamchatka|камчатка/i },
-  { city: "Хабаровск",        pattern: /хабаровск/i },
-  { city: "Ставрополь",       pattern: /ставрополь/i },
-  { city: "Кисловодск",       pattern: /кисловодск/i },
-  { city: "Челябинск",        pattern: /челябинск|интерволна/i },
-  { city: "Воронеж",          pattern: /воронеж/i },
-  { city: "Орёл",             pattern: /орёл|\bорел\b/i },
-  { city: "Абакан",           pattern: /абакан|хакасия/i },
-  { city: "Владимир",         pattern: /\bвладимир\b/i },
-  { city: "Саратов",          pattern: /саратов/i },
-  { city: "Ижевск",           pattern: /ижевск/i },
-  { city: "Тверь",            pattern: /\bтверь\b/i },
-  { city: "Вологда",          pattern: /вологда/i },
-  { city: "Липецк",           pattern: /липецк/i },
-  { city: "Новочеркасск",     pattern: /новочеркасск/i },
-  { city: "Севастополь",      pattern: /севастополь/i },
-  { city: "Киров",            pattern: /\bкиров\b/i },
-  { city: "Чайковский",       pattern: /чайковский.?г|г\.чайковский/i },
-  { city: "Кудрово",          pattern: /кудрово/i },
-  { city: "Анапа",            pattern: /анап/i },
-  { city: "Магадан",          pattern: /колыма/i },
-  { city: "Северо-Уральск",   pattern: /североуральск/i },
+  { genre: "Новости", pattern: /news|вести|sputnik|бизнес|маяк|solov|говорит/i },
+  { genre: "Рок", pattern: /rock|рок|maximum|ультра|скала/i },
+  { genre: "Джаз", pattern: /jazz|джаз|blues/i },
+  { genre: "Ретро", pattern: /retro|ретро|носталь/i },
+  { genre: "Поп", pattern: /pop|хит|radio 7|европа|маруся|русск|love|like|top/i },
+  { genre: "Чилаут", pattern: /chill|deep|lounge|relax|атмосфера/i },
+  { genre: "Шансон", pattern: /шансон|душевн/i },
+  { genre: "Разговорное", pattern: /talk|book|книга|аудио/i }
 ];
 
 function hashColor(seed) {
@@ -143,15 +80,9 @@ function buildBadge(name) {
 }
 
 function inferGenre(station) {
-  const haystack = [station.name, station.description, ...(station.tags ?? [])].join(" ");
+  const haystack = [station.name, station.description].join(" ");
   const match = genreMatchers.find((entry) => entry.pattern.test(haystack));
   return match?.genre ?? station.genre ?? "Радио";
-}
-
-function inferCity(station) {
-  const haystack = [station.name, station.description, ...(station.tags ?? [])].join(" ");
-  const match = cityMatchers.find((entry) => entry.pattern.test(haystack));
-  return match?.city ?? null;
 }
 
 function normalizeStation(station) {
@@ -166,8 +97,7 @@ function normalizeStation(station) {
     description: normalizeImportedDescription(station.description),
     listeners: normalizeImportedSource(station.listeners),
     tags,
-    genre: inferGenre(station),
-    city: station.city ?? inferCity(station)
+    genre: inferGenre(station)
   };
 }
 
@@ -177,23 +107,10 @@ const rawStations = [
 ];
 const stations = rawStations.map(normalizeStation);
 
-const genres = ["Все", ...new Set(stations.map((s) => s.genre))];
-const cities = ["Все", ...[
-  "Москва", "Санкт-Петербург", "Екатеринбург", "Новосибирск", "Красноярск",
-  "Краснодар", "Казань", "Ростов-на-Дону", "Нижний Новгород", "Самара",
-  "Уфа", "Омск", "Пермь", "Барнаул", "Иркутск", "Волгоград", "Орск",
-  "Брянск", "Владивосток", "Камчатка", "Хабаровск", "Ставрополь", "Кисловодск",
-  "Челябинск", "Воронеж", "Орёл", "Абакан", "Владимир", "Саратов", "Ижевск",
-  "Тверь", "Вологда", "Липецк", "Новочеркасск", "Севастополь", "Киров",
-  "Чайковский", "Кудрово", "Анапа", "Магадан", "Северо-Уральск"
-].filter((c) => stations.some((s) => s.city === c))];
-
 const state = {
   currentId: (stations.find(s => s.id === "yx-nashe") ?? stations[0]).id,
   favorites: new Set(),
-  view: "stations",
   genre: "Все",
-  city: "Все",
   search: "",
   showSuggestions: false,
   isPlaying: false,
@@ -218,10 +135,6 @@ const queueList = document.querySelector("#queue-list");
 const stationGrid = document.querySelector("#station-grid");
 const genreFilters = document.querySelector("#genre-filters");
 const searchSuggestions = document.querySelector("#search-suggestions");
-const topbarNav = document.querySelector("#topbar-nav");
-const mainLayout = document.querySelector("#main-layout");
-const genreView = document.querySelector("#genre-view");
-const cityView = document.querySelector("#city-view");
 
 const genres = ["Все", ...new Set(stations.map((station) => station.genre))];
 
@@ -333,9 +246,7 @@ function filteredStations() {
   }
 
   return stations.filter((station) => {
-    const genreOk = state.genre === "Все" || station.genre === state.genre;
-    const cityOk  = state.city  === "Все" || station.city  === state.city;
-    return genreOk && cityOk;
+    return state.genre === "Все" || station.genre === state.genre;
   });
 }
 
@@ -461,60 +372,6 @@ function render() {
   renderGenres();
   renderGrid();
   renderSearchSuggestions();
-}
-
-const GENRE_ICONS = {
-  "\u041f\u043e\u043f": "\ud83c\udfb5", "\u0420\u043e\u043a": "\ud83c\udfb8", "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u043e\u043a": "\ud83c\udfb8", "\u0425\u0438\u043f-\u0445\u043e\u043f": "\ud83c\udfb9", "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f": "\ud83d\udd0c",
-  "\u0422\u0440\u0430\u043d\u0441": "\ud83d\udc7e", "\u0425\u0430\u0443\u0441": "\ud83c\udfe0", "\u0422\u0435\u0445\u043d\u043e": "\ud83e\udd16", "\u0414\u0438\u0441\u043a\u043e": "\ud83d\udd7a", "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u043b\u044c\u043d\u0430\u044f": "\ud83d\udc83",
-  "\u0414\u0436\u0430\u0437": "\ud83c\udfb7", "\u0411\u043b\u044e\u0437": "\ud83c\udfb6", "R&B / \u0421\u043e\u0443\u043b": "\ud83c\udfa4", "\u0427\u0438\u043b\u043b\u0430\u0443\u0442": "\ud83c\udf0a", "\u042d\u043c\u0431\u0438\u0435\u043d\u0442": "\ud83c\udf1f",
-  "\u041a\u043b\u0430\u0441\u0441\u0438\u043a\u0430": "\ud83c\udfbb", "\u0428\u0430\u043d\u0441\u043e\u043d": "\ud83c\udfa9", "\u0420\u0435\u0442\u0440\u043e": "\ud83d\udce1", "\u0424\u043e\u043b\u043a": "\ud83c\udf31", "\u0420\u0435\u0433\u0433\u0438": "\u26a1",
-  "\u0425\u0430\u0440\u0434-\u0440\u043e\u043a": "\ud83e\udd18", "\u0414\u0435\u0442\u0441\u043a\u043e\u0435": "\ud83d\udc76", "\u042e\u043c\u043e\u0440": "\ud83d\ude02", "\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u043e\u0435": "\ud83d\udcac",
-  "\u041d\u043e\u0432\u043e\u0441\u0442\u0438": "\ud83d\udcf0", "\u0421\u043f\u043e\u0440\u0442": "\u26bd", "\u0420\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u043e\u0435": "\u271d\ufe0f", "\u0420\u0430\u0434\u0438\u043e": "\ud83d\udce1"
-};
-
-function renderGenreView() {
-  const tiles = genres.filter(g => g !== "\u0412\u0441\u0435").map((genre) => {
-    const count = stations.filter(s => s.genre === genre).length;
-    const icon = GENRE_ICONS[genre] ?? "\ud83c\udfa7";
-    const [c1, c2] = hashColor(genre);
-    return `
-      <button class="browse-tile" data-select-genre="${genre}" type="button" style="--c1:${c1};--c2:${c2}">
-        <span class="browse-tile-icon">${icon}</span>
-        <span class="browse-tile-name">${genre}</span>
-        <span class="browse-tile-count">${count} \u0441\u0442\u0430\u043d\u0446\u0438\u0439</span>
-      </button>`;
-  });
-  genreView.innerHTML = `<div class="tiles-grid">${tiles.join("")}</div>`;
-}
-
-function renderCityView() {
-  const tiles = cities.filter(c => c !== "\u0412\u0441\u0435").map((city) => {
-    const count = stations.filter(s => s.city === city).length;
-    const [c1, c2] = hashColor(city);
-    return `
-      <button class="browse-tile" data-select-city="${city}" type="button" style="--c1:${c1};--c2:${c2}">
-        <span class="browse-tile-icon">\ud83d\udccd</span>
-        <span class="browse-tile-name">${city}</span>
-        <span class="browse-tile-count">${count} \u0441\u0442\u0430\u043d\u0446\u0438\u0439</span>
-      </button>`;
-  });
-  cityView.innerHTML = `<div class="tiles-grid">${tiles.join("")}</div>`;
-}
-
-function setView(view) {
-  state.view = view;
-
-  mainLayout.hidden = view !== "stations";
-  genreView.hidden  = view !== "genres";
-  cityView.hidden   = view !== "cities";
-
-  topbarNav.querySelectorAll(".nav-btn").forEach((btn) => {
-    btn.classList.toggle("active", btn.dataset.view === view);
-  });
-
-  if (view === "genres")   renderGenreView();
-  if (view === "cities")   renderCityView();
-  if (view === "stations") render();
 }
 
 function updateStatus(message) {
@@ -767,33 +624,6 @@ player.addEventListener("error", () => {
   state.isPlaying = false;
   updateStatus("Поток недоступен. Попробуйте другую станцию.");
   render();
-});
-
-// Навигация: Все станции / Жанры / Города
-topbarNav.addEventListener("click", (event) => {
-  const btn = event.target.closest("[data-view]");
-  if (!btn) return;
-  setView(btn.dataset.view);
-});
-
-// Клик по жанровому тайлу
-genreView.addEventListener("click", (event) => {
-  const tile = event.target.closest("[data-select-genre]");
-  if (!tile) return;
-  state.genre = tile.dataset.selectGenre;
-  state.city = "\u0412\u0441\u0435";
-  state.visibleCount = 60;
-  setView("stations");
-});
-
-// Клик по городскому тайлу
-cityView.addEventListener("click", (event) => {
-  const tile = event.target.closest("[data-select-city]");
-  if (!tile) return;
-  state.city = tile.dataset.selectCity;
-  state.genre = "\u0412\u0441\u0435";
-  state.visibleCount = 60;
-  setView("stations");
 });
 
 render();
