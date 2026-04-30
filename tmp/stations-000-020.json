@@ -1,0 +1,282 @@
+[
+  {
+    "id": "rp-3",
+    "externalId": 3,
+    "name": "Business FM 107.4",
+    "stream": "https://bfmreg.hostingradio.ru/spb.bfm128.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/3",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/3.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-30",
+    "externalId": 30,
+    "name": "VCR AUDITORIUM",
+    "stream": "https://uk2.streamingpulse.com/ssl/vcr1",
+    "sourceUrl": "https://radiopotok.ru/radio/30",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/30.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-34",
+    "externalId": 34,
+    "name": "Discover Trance Radio",
+    "stream": "https://1.restream.one/34_1",
+    "sourceUrl": "https://radiopotok.ru/radio/34",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/34.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-35",
+    "externalId": 35,
+    "name": "Радио PREMIUM",
+    "stream": "https://hls.rpfm.ru/rpfm/playlist.m3u8",
+    "sourceUrl": "https://radiopotok.ru/radio/35",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/35.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-36",
+    "externalId": 36,
+    "name": "Fréquence 3",
+    "stream": "https://frequence3.net-radio.fr/frequence3-128.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/36",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/36.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-38",
+    "externalId": 38,
+    "name": "1.FM – TOP 40",
+    "stream": "https://strm112.1.fm/top40_mobile_mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/38",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/38.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-42",
+    "externalId": 42,
+    "name": "Adagio.FM",
+    "stream": "https://5.restream.one/42_1",
+    "sourceUrl": "https://radiopotok.ru/radio/42",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/42.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-44",
+    "externalId": 44,
+    "name": "Swiss Internet Radio Classical",
+    "stream": "https://1.restream.one/44_1",
+    "sourceUrl": "https://radiopotok.ru/radio/44",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/44.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-50",
+    "externalId": 50,
+    "name": "Radio Paradise",
+    "stream": "https://5.restream.one/50_1",
+    "sourceUrl": "https://radiopotok.ru/radio/50",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/50.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-51",
+    "externalId": 51,
+    "name": "idobi Radio",
+    "stream": "https://idobiradio.idobi.com/;",
+    "sourceUrl": "https://radiopotok.ru/radio/51",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/51.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-55",
+    "externalId": 55,
+    "name": "JazzRadio",
+    "stream": "https://streaming.radio.co/s774887f7b/listen",
+    "sourceUrl": "https://radiopotok.ru/radio/55",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/55.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-56",
+    "externalId": 56,
+    "name": "Radio Dismuke",
+    "stream": "https://1.restream.one/56_1",
+    "sourceUrl": "https://radiopotok.ru/radio/56",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/56.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-57",
+    "externalId": 57,
+    "name": "Swiss Jazz - Swing",
+    "stream": "https://1.restream.one/57_1",
+    "sourceUrl": "https://radiopotok.ru/radio/57",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/57.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-59",
+    "externalId": 59,
+    "name": "KCSM Jazz 91",
+    "stream": "https://ice5.securenetsystems.net/KCSM?type=.flv",
+    "sourceUrl": "https://radiopotok.ru/radio/59",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/59.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-60",
+    "externalId": 60,
+    "name": "WDNA Serious Jazz",
+    "stream": "https://us9.streamingpulse.com/ssl/WDNA",
+    "sourceUrl": "https://radiopotok.ru/radio/60",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/60.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-61",
+    "externalId": 61,
+    "name": "Radio Swiss Jazz",
+    "stream": "https://stream.srg-ssr.ch/m/rsj/aacp_96?type=.flv",
+    "sourceUrl": "https://radiopotok.ru/radio/61",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/61.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-63",
+    "externalId": 63,
+    "name": "Бизнес ФМ",
+    "stream": "https://bfm.hostingradio.ru:8004/fm",
+    "sourceUrl": "https://radiopotok.ru/radio/63",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/63.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-64",
+    "externalId": 64,
+    "name": "Юмор FM",
+    "stream": "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
+    "sourceUrl": "https://radiopotok.ru/radio/64",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/64.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-67",
+    "externalId": 67,
+    "name": "Radio Record",
+    "stream": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "sourceUrl": "https://radiopotok.ru/radio/67",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/67.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-68",
+    "externalId": 68,
+    "name": "L-radio",
+    "stream": "https://air.unmixed.ru/lradio256moscow",
+    "sourceUrl": "https://radiopotok.ru/radio/68",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/68.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  }
+]

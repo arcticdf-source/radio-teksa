@@ -1,0 +1,702 @@
+[
+  {
+    "id": "rp-2093",
+    "externalId": 2093,
+    "name": "Новороссия ROCKS",
+    "stream": "https://5.restream.one/2093_1",
+    "sourceUrl": "https://radiopotok.ru/radio/2093",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2093.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2095",
+    "externalId": 2095,
+    "name": "BREAKBEATZONE RADIO STATION",
+    "stream": "https://radio.bbz.ru/radio/8000/192.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/2095",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2095.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2100",
+    "externalId": 2100,
+    "name": "Калейдоскоп:Шансон",
+    "stream": "https://listen7.myradio24.com/22602",
+    "sourceUrl": "https://radiopotok.ru/radio/2100",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2100.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2105",
+    "externalId": 2105,
+    "name": "Anti Radio",
+    "stream": "https://stream.antiradio.net/radio/8000/web",
+    "sourceUrl": "https://radiopotok.ru/radio/2105",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2105.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2107",
+    "externalId": 2107,
+    "name": "SOHO FM / DEEP HOUSE",
+    "stream": "https://myradio24.org/sohofm",
+    "sourceUrl": "https://radiopotok.ru/radio/2107",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2107.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2108",
+    "externalId": 2108,
+    "name": "МВ-Радио",
+    "stream": "https://stream2.datacenter.by/mvradio",
+    "sourceUrl": "https://radiopotok.ru/radio/2108",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2108.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2109",
+    "externalId": 2109,
+    "name": "White-FM",
+    "stream": "https://myradio24.org/41844",
+    "sourceUrl": "https://radiopotok.ru/radio/2109",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2109.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2110",
+    "externalId": 2110,
+    "name": "RADIO24",
+    "stream": "https://stream.vyshka24.ru/radio24",
+    "sourceUrl": "https://radiopotok.ru/radio/2110",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2110.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2112",
+    "externalId": 2112,
+    "name": "Радио Тема",
+    "stream": "https://myradio24.org/trollbro5",
+    "sourceUrl": "https://radiopotok.ru/radio/2112",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2112.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2113",
+    "externalId": 2113,
+    "name": "VTC Radio - Lactose",
+    "stream": "https://vtcradio.com:8005/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/2113",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2113.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2115",
+    "externalId": 2115,
+    "name": "Radio LOL",
+    "stream": "https://myradio24.org/radiolol",
+    "sourceUrl": "https://radiopotok.ru/radio/2115",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2115.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2116",
+    "externalId": 2116,
+    "name": "Яхт-Радио",
+    "stream": "https://yacht-radio.lv:8005/radio",
+    "sourceUrl": "https://radiopotok.ru/radio/2116",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2116.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2119",
+    "externalId": 2119,
+    "name": "Рок - Атака",
+    "stream": "https://myradio24.org/rockataka",
+    "sourceUrl": "https://radiopotok.ru/radio/2119",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2119.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2120",
+    "externalId": 2120,
+    "name": "ЭлектроСтанция",
+    "stream": "https://stream.161.fm:9001/128",
+    "sourceUrl": "https://radiopotok.ru/radio/2120",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2120.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2121",
+    "externalId": 2121,
+    "name": "ABSOLUT Park Radio",
+    "stream": "https://myradio24.org/absolutrad",
+    "sourceUrl": "https://radiopotok.ru/radio/2121",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2121.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2122",
+    "externalId": 2122,
+    "name": "Дискотека 80-90",
+    "stream": "https://myradio24.org/dance80",
+    "sourceUrl": "https://radiopotok.ru/radio/2122",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2122.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2127",
+    "externalId": 2127,
+    "name": "Радио SP12",
+    "stream": "https://myradio24.org/5894",
+    "sourceUrl": "https://radiopotok.ru/radio/2127",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2127.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2128",
+    "externalId": 2128,
+    "name": "164FM",
+    "stream": "http://myradio24.org/164fm",
+    "sourceUrl": "https://radiopotok.ru/radio/2128",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2128.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2129",
+    "externalId": 2129,
+    "name": "The Disco Paradise - Indie Disco",
+    "stream": "https://broadcast.miami/proxy/indiedisco?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/2129",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2129.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2130",
+    "externalId": 2130,
+    "name": "The Disco Paradise - BMG",
+    "stream": "https://broadcast.miami/proxy/bmg?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/2130",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2130.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2131",
+    "externalId": 2131,
+    "name": "The Disco Paradise - RCA",
+    "stream": "https://broadcast.miami/proxy/rca?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/2131",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2131.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2132",
+    "externalId": 2132,
+    "name": "The Disco Paradise - Warner Bros",
+    "stream": "https://broadcast.miami/proxy/warnerbros?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/2132",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2132.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2133",
+    "externalId": 2133,
+    "name": "The Disco Paradise - Polydor",
+    "stream": "https://broadcast.miami/proxy/polydor?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/2133",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2133.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2134",
+    "externalId": 2134,
+    "name": "The Disco Paradise - Concord",
+    "stream": "https://broadcast.miami/proxy/concord?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/2134",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2134.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2137",
+    "externalId": 2137,
+    "name": "САФ балалар радиосы",
+    "stream": "https://c7.radioboss.fm:18335/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/2137",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2137.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2138",
+    "externalId": 2138,
+    "name": "Break Radio",
+    "stream": "https://breakradio.ice.infomaniak.ch/breakradio-128.aac",
+    "sourceUrl": "https://radiopotok.ru/radio/2138",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2138.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2141",
+    "externalId": 2141,
+    "name": "Пиратское Rock радио",
+    "stream": "https://live.rock-wawe.ru:8001/RockWawe",
+    "sourceUrl": "https://radiopotok.ru/radio/2141",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2141.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2143",
+    "externalId": 2143,
+    "name": "Joint Radio Reggae",
+    "stream": "https://jointil.com/stream-reggae",
+    "sourceUrl": "https://radiopotok.ru/radio/2143",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2143.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2145",
+    "externalId": 2145,
+    "name": "РЕТРО РАДИО",
+    "stream": "https://listen2.myradio24.com/1458",
+    "sourceUrl": "https://radiopotok.ru/radio/2145",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2145.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2146",
+    "externalId": 2146,
+    "name": "Радио Гусь",
+    "stream": "https://stream.radiogoose.ru/listen/radiogoose/play",
+    "sourceUrl": "https://radiopotok.ru/radio/2146",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2146.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2152",
+    "externalId": 2152,
+    "name": "Вечная Молодость",
+    "stream": "https://misato.ru-hoster.com:8037/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/2152",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2152.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2153",
+    "externalId": 2153,
+    "name": "Joint Radio Blues Rock",
+    "stream": "https://jointil.com/stream-blues",
+    "sourceUrl": "https://radiopotok.ru/radio/2153",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2153.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2154",
+    "externalId": 2154,
+    "name": "NR Astrology Radio",
+    "stream": "https://listen.myrh.ru/nrastrology",
+    "sourceUrl": "https://radiopotok.ru/radio/2154",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2154.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2156",
+    "externalId": 2156,
+    "name": "Радио Азамат",
+    "stream": "https://listen4.myradio24.com/8162",
+    "sourceUrl": "https://radiopotok.ru/radio/2156",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2156.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2158",
+    "externalId": 2158,
+    "name": "SPEED GARAGE",
+    "stream": "https://listen4.myradio24.com/ilshat",
+    "sourceUrl": "https://radiopotok.ru/radio/2158",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2158.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2159",
+    "externalId": 2159,
+    "name": "Упоротая Волна",
+    "stream": "https://i-radio.info:8025/radio",
+    "sourceUrl": "https://radiopotok.ru/radio/2159",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2159.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2161",
+    "externalId": 2161,
+    "name": "Радио Nostalgie Perm",
+    "stream": "https://icecast-bulteam.cdnvideo.ru/Nostalgie",
+    "sourceUrl": "https://radiopotok.ru/radio/2161",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2161.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2163",
+    "externalId": 2163,
+    "name": "Ночной звонок",
+    "stream": "https://myradio24.org/74828",
+    "sourceUrl": "https://radiopotok.ru/radio/2163",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2163.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2166",
+    "externalId": 2166,
+    "name": "Наш Шансон",
+    "stream": "https://myradio24.org/8144",
+    "sourceUrl": "https://radiopotok.ru/radio/2166",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2166.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2167",
+    "externalId": 2167,
+    "name": "Радио Вышка Казахстан",
+    "stream": "https://stream.vyshka24.ru/kz",
+    "sourceUrl": "https://radiopotok.ru/radio/2167",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2167.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2170",
+    "externalId": 2170,
+    "name": "DEEP FM",
+    "stream": "https://deep.amgradio.ru/DeepFM",
+    "sourceUrl": "https://radiopotok.ru/radio/2170",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2170.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2171",
+    "externalId": 2171,
+    "name": "MaxRadio",
+    "stream": "https://myradio24.org/9316",
+    "sourceUrl": "https://radiopotok.ru/radio/2171",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2171.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2172",
+    "externalId": 2172,
+    "name": "#КАЧПОХАРДКОРУ",
+    "stream": "https://a8.radioheart.ru:8018/RH64089",
+    "sourceUrl": "https://radiopotok.ru/radio/2172",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2172.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2174",
+    "externalId": 2174,
+    "name": "Online-Radio NEVERMIND.",
+    "stream": "https://myradio24.org/nevermind",
+    "sourceUrl": "https://radiopotok.ru/radio/2174",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2174.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2176",
+    "externalId": 2176,
+    "name": "BEST DEEP FM",
+    "stream": "https://myradio24.org/5129",
+    "sourceUrl": "https://radiopotok.ru/radio/2176",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2176.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2177",
+    "externalId": 2177,
+    "name": "InVoice Radio",
+    "stream": "https://listen.myrh.ru/id079040",
+    "sourceUrl": "https://radiopotok.ru/radio/2177",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2177.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2178",
+    "externalId": 2178,
+    "name": "Соловьёв LIVE FM",
+    "stream": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+    "sourceUrl": "https://radiopotok.ru/radio/2178",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2178.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2179",
+    "externalId": 2179,
+    "name": "Кот рекомендует =)",
+    "stream": "https://myradio24.org/radiokot",
+    "sourceUrl": "https://radiopotok.ru/radio/2179",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2179.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2183",
+    "externalId": 2183,
+    "name": "Радио Ы",
+    "stream": "https://myradio24.org/73094",
+    "sourceUrl": "https://radiopotok.ru/radio/2183",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2183.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-2184",
+    "externalId": 2184,
+    "name": "Lofifi Radio",
+    "stream": "https://myradio24.org/93299",
+    "sourceUrl": "https://radiopotok.ru/radio/2184",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/2184.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  }
+]

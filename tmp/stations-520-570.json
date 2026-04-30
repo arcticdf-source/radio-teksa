@@ -1,0 +1,702 @@
+[
+  {
+    "id": "rp-1875",
+    "externalId": 1875,
+    "name": "RADIOSPHERA",
+    "stream": "https://c22.radioboss.fm:18303/stream ",
+    "sourceUrl": "https://radiopotok.ru/radio/1875",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1875.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1876",
+    "externalId": 1876,
+    "name": "Rock Radio",
+    "stream": "https://cast2.my-control-panel.com/proxy/vladas/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/1876",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1876.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1878",
+    "externalId": 1878,
+    "name": "1000 HITS 80s",
+    "stream": "https://ais-sa9.cdnstream1.com/1898_128",
+    "sourceUrl": "https://radiopotok.ru/radio/1878",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1878.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1879",
+    "externalId": 1879,
+    "name": "Радио Посад",
+    "stream": "https://listen.myrh.ru/id04705",
+    "sourceUrl": "https://radiopotok.ru/radio/1879",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1879.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1881",
+    "externalId": 1881,
+    "name": "Прайм Радио",
+    "stream": "https://listen7.myradio24.com/praims",
+    "sourceUrl": "https://radiopotok.ru/radio/1881",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1881.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1883",
+    "externalId": 1883,
+    "name": "Красно-Белая Волна",
+    "stream": "https://onair.radio1922.ru/64.aac",
+    "sourceUrl": "https://radiopotok.ru/radio/1883",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1883.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1884",
+    "externalId": 1884,
+    "name": "Диско-радио SOVA",
+    "stream": "https://evcast.mediacp.eu:1965/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/1884",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1884.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1885",
+    "externalId": 1885,
+    "name": "Радио Победы",
+    "stream": "https://5.restream.one/1885_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1885",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1885.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1886",
+    "externalId": 1886,
+    "name": "Радио Сибирь Хакасия",
+    "stream": "https://ctv7.ru/radio/",
+    "sourceUrl": "https://radiopotok.ru/radio/1886",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1886.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1887",
+    "externalId": 1887,
+    "name": "Geek-Speak D&B Station",
+    "stream": "https://geek-speak.ru/radio/GSFM",
+    "sourceUrl": "https://radiopotok.ru/radio/1887",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1887.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1901",
+    "externalId": 1901,
+    "name": "Remix FM",
+    "stream": "https://rmx.amgradio.ru/RemixFM",
+    "sourceUrl": "https://radiopotok.ru/radio/1901",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1901.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1903",
+    "externalId": 1903,
+    "name": "Алмазный край",
+    "stream": "https://stream.almaz-media.tv/radio",
+    "sourceUrl": "https://radiopotok.ru/radio/1903",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1903.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1907",
+    "externalId": 1907,
+    "name": "Maestro FM",
+    "stream": "https://5.restream.one/1907_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1907",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1907.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1908",
+    "externalId": 1908,
+    "name": "Станция 3.0",
+    "stream": "https://myradio24.org/station",
+    "sourceUrl": "https://radiopotok.ru/radio/1908",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1908.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1910",
+    "externalId": 1910,
+    "name": "DRUMFUNK.RU",
+    "stream": "https://ice.drumfunk.ru:8050/on.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1910",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1910.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1914",
+    "externalId": 1914,
+    "name": "Tranc2010",
+    "stream": "https://listen.myrh.ru/id047376",
+    "sourceUrl": "https://radiopotok.ru/radio/1914",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1914.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1920",
+    "externalId": 1920,
+    "name": "Радио Шансон Плюс",
+    "stream": "https://radio.radioshansonplus.com:8050/radio",
+    "sourceUrl": "https://radiopotok.ru/radio/1920",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1920.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1921",
+    "externalId": 1921,
+    "name": "МЭТР Golden Hits",
+    "stream": "https://5.restream.one/1921_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1921",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1921.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1922",
+    "externalId": 1922,
+    "name": "Realton Live Radio",
+    "stream": "https://stream.zeno.fm/a26tu122fd0uv",
+    "sourceUrl": "https://radiopotok.ru/radio/1922",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1922.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1923",
+    "externalId": 1923,
+    "name": "Радио Боль",
+    "stream": "https://stream.zeno.fm/1hmw9t7wav8uv",
+    "sourceUrl": "https://radiopotok.ru/radio/1923",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1923.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1925",
+    "externalId": 1925,
+    "name": "Бродяга On-Line",
+    "stream": "https://myradio24.org/traveller",
+    "sourceUrl": "https://radiopotok.ru/radio/1925",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1925.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1926",
+    "externalId": 1926,
+    "name": "Overdrive Live! Station",
+    "stream": "https://stream.overdrivelive.net:8000/alternative_128.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1926",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1926.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1929",
+    "externalId": 1929,
+    "name": "RS dance station",
+    "stream": "https://stream.radiojar.com/exqtsg93krruv",
+    "sourceUrl": "https://radiopotok.ru/radio/1929",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1929.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1931",
+    "externalId": 1931,
+    "name": "The Disco Palace",
+    "stream": "https://broadcast.miami/proxy/thediscopalace?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1931",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1931.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1932",
+    "externalId": 1932,
+    "name": "The Disco Paradise",
+    "stream": "https://broadcast.miami/proxy/thediscoparadise?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1932",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1932.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1933",
+    "externalId": 1933,
+    "name": "The Disco Planet",
+    "stream": "https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1933",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1933.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1935",
+    "externalId": 1935,
+    "name": "Калейдоскоп",
+    "stream": "https://a4.radioheart.ru:9013/MK",
+    "sourceUrl": "https://radiopotok.ru/radio/1935",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1935.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1938",
+    "externalId": 1938,
+    "name": "Радио Никольское",
+    "stream": "https://5.restream.one/1938_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1938",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1938.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1939",
+    "externalId": 1939,
+    "name": "NFMOSCOW RADIO",
+    "stream": "https://radio.nfmoscow.ru/radio/8000/192",
+    "sourceUrl": "https://radiopotok.ru/radio/1939",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1939.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1943",
+    "externalId": 1943,
+    "name": "Radio Office",
+    "stream": "https://listen.myrh.media/office",
+    "sourceUrl": "https://radiopotok.ru/radio/1943",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1943.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1944",
+    "externalId": 1944,
+    "name": "The Disco Paradise - Casablanca",
+    "stream": "https://broadcast.miami/proxy/casablanca?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1944",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1944.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1945",
+    "externalId": 1945,
+    "name": "The Disco Paradise - Prelude",
+    "stream": "https://broadcast.miami/proxy/prelude?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1945",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1945.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1946",
+    "externalId": 1946,
+    "name": "The Disco Paradise - Salsoul",
+    "stream": "https://broadcast.miami/proxy/salsoul?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1946",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1946.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1947",
+    "externalId": 1947,
+    "name": "The Disco Paradise - T.K. Disco",
+    "stream": "https://broadcast.miami/proxy/tkdisco?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1947",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1947.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1948",
+    "externalId": 1948,
+    "name": "The Disco Paradise - Unidisco",
+    "stream": "https://broadcast.miami/proxy/unidisco?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1948",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1948.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1949",
+    "externalId": 1949,
+    "name": "The Disco Paradise - West End",
+    "stream": "https://broadcast.miami/proxy/westend?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1949",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1949.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1951",
+    "externalId": 1951,
+    "name": "Москвичи",
+    "stream": "https://agniradio.s02.radio-tochka.com:4085/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/1951",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1951.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1952",
+    "externalId": 1952,
+    "name": "The Disco Paradise - Atlantic",
+    "stream": "https://broadcast.miami/proxy/atlantic?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1952",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1952.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1953",
+    "externalId": 1953,
+    "name": "The Disco Paradise - Columbia",
+    "stream": "https://broadcast.miami/proxy/columbia?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1953",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1953.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1954",
+    "externalId": 1954,
+    "name": "The Disco Paradise - Motown",
+    "stream": "https://broadcast.miami/proxy/motown?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1954",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1954.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1955",
+    "externalId": 1955,
+    "name": "The Disco Paradise - Solar",
+    "stream": "https://broadcast.miami/proxy/solar?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1955",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1955.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1956",
+    "externalId": 1956,
+    "name": "The Disco Paradise - TSOP",
+    "stream": "https://broadcast.miami/proxy/tsop?mp=/stream/;",
+    "sourceUrl": "https://radiopotok.ru/radio/1956",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1956.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1958",
+    "externalId": 1958,
+    "name": "Радио 54",
+    "stream": "https://5.restream.one/1958_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1958",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1958.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1959",
+    "externalId": 1959,
+    "name": "Радио Советская эстрада",
+    "stream": "https://evcast.mediacp.eu:2075/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/1959",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1959.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1963",
+    "externalId": 1963,
+    "name": "Ретроклуб",
+    "stream": "https://retroclub.hostingradio.ru/retroclub224.aacp",
+    "sourceUrl": "https://radiopotok.ru/radio/1963",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1963.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1964",
+    "externalId": 1964,
+    "name": "ONE FM",
+    "stream": "https://5.restream.one/1964_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1964",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1964.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1966",
+    "externalId": 1966,
+    "name": "Радио Редкие Рыбы",
+    "stream": "https://listen1.myradio24.com/8317",
+    "sourceUrl": "https://radiopotok.ru/radio/1966",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1966.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1969",
+    "externalId": 1969,
+    "name": "Антология",
+    "stream": "https://listen.myrh.ru/id035893",
+    "sourceUrl": "https://radiopotok.ru/radio/1969",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1969.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1970",
+    "externalId": 1970,
+    "name": "GRELLA Radio",
+    "stream": "https://listen6.myradio24.com/grella",
+    "sourceUrl": "https://radiopotok.ru/radio/1970",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1970.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1973",
+    "externalId": 1973,
+    "name": "Наше Радио Кисловодск",
+    "stream": "https://nashestv.ru/radio/8020/nasheradiokmv?1623329273",
+    "sourceUrl": "https://radiopotok.ru/radio/1973",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1973.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  }
+]

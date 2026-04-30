@@ -1,0 +1,10 @@
+https://radiopotok.ru/radio/67 :: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+https://radiopotok.ru/radio/91 :: HTTP 404
+https://radiopotok.ru/radio/100 :: HTTP 404
+https://radiopotok.ru/radio/107 :: HTTP 404
+https://radiopotok.ru/radio/205 :: HTTP 404
+https://radiopotok.ru/radio/178 :: HTTP 404
+https://radiopotok.ru/radio/269 :: HTTP 404
+https://radiopotok.ru/radio/477 :: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+https://radiopotok.ru/radio/499 :: HTTP 404
+https://radiopotok.ru/radio/524 :: HTTP 404

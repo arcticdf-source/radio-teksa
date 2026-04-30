@@ -1,0 +1,688 @@
+[
+  {
+    "id": "rp-1510",
+    "externalId": 1510,
+    "name": "Ibiza Radios – Smooth Jazz",
+    "stream": "https://radio2.vip-radios.fm:18033/stream-128kmp3-IbizaSmooth",
+    "sourceUrl": "https://radiopotok.ru/radio/1510",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1510.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1511",
+    "externalId": 1511,
+    "name": "Absolute Chillout",
+    "stream": "https://streaming.live365.com/b05055_128mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1511",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1511.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1512",
+    "externalId": 1512,
+    "name": "New Age Radio",
+    "stream": "https://listen.myrh.ru/newageradio",
+    "sourceUrl": "https://radiopotok.ru/radio/1512",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1512.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1518",
+    "externalId": 1518,
+    "name": "WalconFM",
+    "stream": "https://myradio24.org/walcon",
+    "sourceUrl": "https://radiopotok.ru/radio/1518",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1518.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1519",
+    "externalId": 1519,
+    "name": "BluesMen Channel (Hits)",
+    "stream": "https://5.restream.one/1519_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1519",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1519.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1527",
+    "externalId": 1527,
+    "name": "UltraPlay",
+    "stream": "https://5.restream.one/1527_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1527",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1527.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1528",
+    "externalId": 1528,
+    "name": "AlexFM LetsRock",
+    "stream": "https://stream.laut.fm/alexfm",
+    "sourceUrl": "https://radiopotok.ru/radio/1528",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1528.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1530",
+    "externalId": 1530,
+    "name": "GRAZ FM",
+    "stream": "https://stream.laut.fm/grazfm",
+    "sourceUrl": "https://radiopotok.ru/radio/1530",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1530.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1536",
+    "externalId": 1536,
+    "name": "ЯпаРадио",
+    "stream": "https://myradio24.org/94624",
+    "sourceUrl": "https://radiopotok.ru/radio/1536",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1536.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1539",
+    "externalId": 1539,
+    "name": "Шансон без цензуры",
+    "stream": "https://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1539",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1539.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1540",
+    "externalId": 1540,
+    "name": "Романтический шансон",
+    "stream": "https://chanson.hostingradio.ru:8041/chanson-romantic256.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1540",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1540.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1543",
+    "externalId": 1543,
+    "name": "Русская Волна",
+    "stream": "https://rp.amgradio.ru/RuWave48",
+    "sourceUrl": "https://radiopotok.ru/radio/1543",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1543.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1547",
+    "externalId": 1547,
+    "name": "Калина Красная",
+    "stream": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+    "sourceUrl": "https://radiopotok.ru/radio/1547",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1547.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1549",
+    "externalId": 1549,
+    "name": "Baby FM",
+    "stream": "https://a5.radioheart.ru:9012/RH1916",
+    "sourceUrl": "https://radiopotok.ru/radio/1549",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1549.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1551",
+    "externalId": 1551,
+    "name": "Радио странствий",
+    "stream": "https://myradio24.org/4156",
+    "sourceUrl": "https://radiopotok.ru/radio/1551",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1551.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1556",
+    "externalId": 1556,
+    "name": "Машенька",
+    "stream": "https://sergeisam.fvds.ru:5385/radio",
+    "sourceUrl": "https://radiopotok.ru/radio/1556",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1556.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1558",
+    "externalId": 1558,
+    "name": "BluesMen Channel (Gold)",
+    "stream": "https://5.restream.one/1558_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1558",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1558.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1561",
+    "externalId": 1561,
+    "name": "Liquid Flash",
+    "stream": "https://xn--80aimyg.xn--80adalbbu8afeb9k.xn--p1ai:8000/radio",
+    "sourceUrl": "https://radiopotok.ru/radio/1561",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1561.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1562",
+    "externalId": 1562,
+    "name": "Radio Plato",
+    "stream": "https://azura.radioplato.by/radio/8000/radio.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1562",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1562.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1567",
+    "externalId": 1567,
+    "name": "ХАЙП FM",
+    "stream": "https://hfm.amgradio.ru/HypeFM",
+    "sourceUrl": "https://radiopotok.ru/radio/1567",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1567.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1569",
+    "externalId": 1569,
+    "name": "Givin School Radio",
+    "stream": "https://5.restream.one/1569_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1569",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1569.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1570",
+    "externalId": 1570,
+    "name": "Ретро Хит",
+    "stream": "https://retro.amgradio.ru/Retro",
+    "sourceUrl": "https://radiopotok.ru/radio/1570",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1570.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1574",
+    "externalId": 1574,
+    "name": "ЖАРА FM",
+    "stream": "https://hls01.zharafm.ru/hls/live.m3u8",
+    "sourceUrl": "https://radiopotok.ru/radio/1574",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1574.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1576",
+    "externalId": 1576,
+    "name": "Европа Плюс",
+    "stream": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
+    "sourceUrl": "https://radiopotok.ru/radio/1576",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1576.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1579",
+    "externalId": 1579,
+    "name": "DWGradio Радио Слово Божие",
+    "stream": "https://server32349.streamplus.de/;stream.mp3",
+    "sourceUrl": "https://radiopotok.ru/radio/1579",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1579.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1580",
+    "externalId": 1580,
+    "name": "Славянскiй МIРЪ",
+    "stream": "https://hls-01-slavmir.hostingradio.ru/slavmir/96/playlist.m3u8",
+    "sourceUrl": "https://radiopotok.ru/radio/1580",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1580.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1582",
+    "externalId": 1582,
+    "name": "Мегахит",
+    "stream": "https://listen.megahit.online/megamp128",
+    "sourceUrl": "https://radiopotok.ru/radio/1582",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1582.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1587",
+    "externalId": 1587,
+    "name": "АБСОЛЮТ парк радио",
+    "stream": "https://myradio24.org/absolutrad",
+    "sourceUrl": "https://radiopotok.ru/radio/1587",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1587.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1588",
+    "externalId": 1588,
+    "name": "Caroline Flashback",
+    "stream": "https://5.restream.one/1588_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1588",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1588.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1589",
+    "externalId": 1589,
+    "name": "Radio DJ Shmagi",
+    "stream": "https://s0.radioheart.ru:8000/RH3355",
+    "sourceUrl": "https://radiopotok.ru/radio/1589",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1589.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1590",
+    "externalId": 1590,
+    "name": "Радио Линия",
+    "stream": "https://listen.myrh.ru/id02707",
+    "sourceUrl": "https://radiopotok.ru/radio/1590",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1590.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1592",
+    "externalId": 1592,
+    "name": "Гламурная волна",
+    "stream": "https://stream.laut.fm/glamwave",
+    "sourceUrl": "https://radiopotok.ru/radio/1592",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1592.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1594",
+    "externalId": 1594,
+    "name": "Русский Рок",
+    "stream": "https://rock.amgradio.ru/RusRock",
+    "sourceUrl": "https://radiopotok.ru/radio/1594",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1594.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1599",
+    "externalId": 1599,
+    "name": "Beloe Radio",
+    "stream": "https://myradio24.org/4592",
+    "sourceUrl": "https://radiopotok.ru/radio/1599",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1599.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1601",
+    "externalId": 1601,
+    "name": "Radio Cafe",
+    "stream": "https://cafe.amgradio.ru/Cafe",
+    "sourceUrl": "https://radiopotok.ru/radio/1601",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1601.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1606",
+    "externalId": 1606,
+    "name": "Радио Юность",
+    "stream": "https://stream.volnorez.com/live-app/127912",
+    "sourceUrl": "https://radiopotok.ru/radio/1606",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1606.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1607",
+    "externalId": 1607,
+    "name": "Центр FM",
+    "stream": "https://stream2.datacenter.by/stream",
+    "sourceUrl": "https://radiopotok.ru/radio/1607",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1607.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1610",
+    "externalId": 1610,
+    "name": "Life-Radio",
+    "stream": "https://a1.radioheart.ru:9019/liferadioru",
+    "sourceUrl": "https://radiopotok.ru/radio/1610",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1610.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1614",
+    "externalId": 1614,
+    "name": "Севастополь FM",
+    "stream": "https://sfm.amgradio.ru/SFM",
+    "sourceUrl": "https://radiopotok.ru/radio/1614",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1614.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1616",
+    "externalId": 1616,
+    "name": "RT Radio",
+    "stream": "https://listen1.myradio24.com/trollbro5",
+    "sourceUrl": "https://radiopotok.ru/radio/1616",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1616.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1617",
+    "externalId": 1617,
+    "name": "SK-RADIO",
+    "stream": "https://listen.myrh.ru/sk-radio",
+    "sourceUrl": "https://radiopotok.ru/radio/1617",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1617.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1620",
+    "externalId": 1620,
+    "name": "Радио Булбул",
+    "stream": "https://stream.laut.fm/radiobulbul",
+    "sourceUrl": "https://radiopotok.ru/radio/1620",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1620.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1626",
+    "externalId": 1626,
+    "name": "Cafe Del Mar",
+    "stream": "https://streams.radio.co/se1a320b47/listen",
+    "sourceUrl": "https://radiopotok.ru/radio/1626",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1626.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1627",
+    "externalId": 1627,
+    "name": "Народное радио",
+    "stream": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+    "sourceUrl": "https://radiopotok.ru/radio/1627",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1627.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1631",
+    "externalId": 1631,
+    "name": "IDS Radio",
+    "stream": "https://5.restream.one/1631_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1631",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1631.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1640",
+    "externalId": 1640,
+    "name": "UltraFan",
+    "stream": "https://5.restream.one/1640_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1640",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1640.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1641",
+    "externalId": 1641,
+    "name": "Свой стиль",
+    "stream": "https://stream.laut.fm/svoystil",
+    "sourceUrl": "https://radiopotok.ru/radio/1641",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1641.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1642",
+    "externalId": 1642,
+    "name": "Radio Deepa.Net",
+    "stream": "https://5.restream.one/1642_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1642",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1642.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  },
+  {
+    "id": "rp-1643",
+    "externalId": 1643,
+    "name": "Радио Школы Гивина",
+    "stream": "https://5.restream.one/1643_1",
+    "sourceUrl": "https://radiopotok.ru/radio/1643",
+    "logoUrl": "https://radiopotok.ru/f/station_webp/256/1643.webp",
+    "description": "Станция из каталога RadioPotok.",
+    "listeners": "Источник: RadioPotok",
+    "tags": [
+      "Radiopotok",
+      "Live"
+    ]
+  }
+]

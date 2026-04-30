@@ -1,0 +1,27 @@
+[
+  {
+    "id": "3",
+    "name": "Business FM 107.4",
+    "stream": "https://bfmreg.hostingradio.ru/spb.bfm128.mp3"
+  },
+  {
+    "id": "30",
+    "name": "VCR  AUDITORIUM",
+    "stream": "https://uk2.streamingpulse.com/ssl/vcr1"
+  },
+  {
+    "id": "34",
+    "name": "Discover Trance Radio",
+    "stream": "https://1.restream.one/34_1"
+  },
+  {
+    "id": "35",
+    "name": "Радио PREMIUM",
+    "stream": "https://hls.rpfm.ru/rpfm/playlist.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Fréquence 3",
+    "stream": "https://frequence3.net-radio.fr/frequence3-128.mp3"
+  }
+]
