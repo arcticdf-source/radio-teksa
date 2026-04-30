@@ -3,7 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Все радиостанции</title>
+    <title>Радиотека — все радиостанции в одном месте</title>
+    <meta name="description" content="699 радиостанций онлайн в прямом эфире. Слушайте НАШЕ Радио, Шансон, Ретро FM и сотни других станций бесплатно." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://radio-teka.com/" />
+    <meta property="og:title" content="Радиотека — все радиостанции в одном месте" />
+    <meta property="og:description" content="699 радиостанций онлайн в прямом эфире. Слушайте бесплатно." />
+    <meta property="og:image" content="https://radio-teka.com/logo.jpg" />
+    <link rel="canonical" href="https://radio-teka.com/" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -30,40 +37,40 @@
       <header class="topbar">
         <div class="brand-block">
           <img src="./logo.jpg" alt="Radioteka" class="brand-logo" />
-          <div>
-            <p class="eyebrow">Интернет-радио в прямом эфире</p>
-            <h1>Все радиостанции в одном месте</h1>
-          </div>
         </div>
 
-        <div class="topbar-actions">
+        <div class="topbar-search">
           <div class="search-wrap">
-            <label class="search-field" for="station-search">
-              <span>Поиск</span>
-              <input
-                id="station-search"
-                type="search"
-                placeholder="Найти станцию или жанр"
-                autocomplete="off"
-              />
-            </label>
-
+            <svg class="search-icon-svg" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l3.5 3.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+            <input
+              id="station-search"
+              class="main-search-input"
+              type="search"
+              placeholder="Поиск по радиостанциям..."
+              autocomplete="off"
+            />
             <div id="search-suggestions" class="search-suggestions" hidden></div>
           </div>
-
-          <label class="timer-field" for="sleep-timer">
-            <span>Таймер сна</span>
-            <select id="sleep-timer">
-              <option value="0">Выключен</option>
-              <option value="15">15 минут</option>
-              <option value="30">30 минут</option>
-              <option value="60">60 минут</option>
-            </select>
-          </label>
         </div>
+
+        <nav class="topbar-nav" id="topbar-nav">
+          <button class="nav-btn active" data-view="stations" type="button">Все станции</button>
+          <button class="nav-btn" data-view="genres" type="button">Жанры</button>
+          <button class="nav-btn" data-view="cities" type="button">Города</button>
+        </nav>
+
+        <label class="timer-field" for="sleep-timer">
+          <span>Таймер сна</span>
+          <select id="sleep-timer">
+            <option value="0">Выключен</option>
+            <option value="15">15 минут</option>
+            <option value="30">30 минут</option>
+            <option value="60">60 минут</option>
+          </select>
+        </label>
       </header>
 
-      <main class="layout-grid">
+      <main class="layout-grid" id="main-layout">
         <section class="hero-panel">
           <div class="hero-backdrop"></div>
           <div class="hero-copy">
@@ -124,12 +131,16 @@
           <div id="station-grid" class="station-grid"></div>
         </section>
       </main>
+
+      <div id="genre-view" class="browse-view" hidden></div>
+      <div id="city-view" class="browse-view" hidden></div>
+
     </div>
 
     <audio id="radio-player" preload="auto"></audio>
-    <script src="./yandex-stations.js"></script>
+    <script src="./yandex-stations.js?v=3"></script>
     <script src="./stations-data.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
-    <script src="./app.js"></script>
+    <script src="./app.js?v=3"></script>
   </body>
 </html>

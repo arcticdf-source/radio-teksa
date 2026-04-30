@@ -45,14 +45,69 @@ function normalizeImportedSource(value) {
 }
 
 const genreMatchers = [
-  { genre: "Новости", pattern: /news|вести|sputnik|бизнес|маяк|solov|говорит/i },
-  { genre: "Рок", pattern: /rock|рок|maximum|ультра|скала/i },
-  { genre: "Джаз", pattern: /jazz|джаз|blues/i },
-  { genre: "Ретро", pattern: /retro|ретро|носталь/i },
-  { genre: "Поп", pattern: /pop|хит|radio 7|европа|маруся|русск|love|like|top/i },
-  { genre: "Чилаут", pattern: /chill|deep|lounge|relax|атмосфера/i },
-  { genre: "Шансон", pattern: /шансон|душевн/i },
-  { genre: "Разговорное", pattern: /talk|book|книга|аудио/i }
+  { genre: "Новости",       pattern: /news|вести.?fm|sputnik|говорит|коммерсант|solov|\bмаяк\b|business.?fm|бизнес.?fm/i },
+  { genre: "Юмор",         pattern: /comedy|юмор/i },
+  { genre: "Детское",      pattern: /kids|\bдет|baby|колыб|детский.?хор/i },
+  { genre: "Религиозное",  pattern: /христиан|православ|\bвера\b|радонеж|благо|слово.?бож|dwg|молитв|церков/i },
+  { genre: "Классика",     pattern: /\bclassic|орфей|оркестр|\badagio|адажио|neoclassical|splash.?class|swiss.?radio.?class/i },
+  { genre: "Хард-рок",    pattern: /hard.?rock|\bmetal\b|металл|грайнд|хардкор/i },
+  { genre: "Русский рок",  pattern: /русский.?рок|рок.атака|pirate.?rock|пиратское.?rock|калейдоскоп.?рок/i },
+  { genre: "Рок",          pattern: /\brock\b|\bрок\b|maximum|ультра|fresh.?rock|anti.?radio|\bскала\b/i },
+  { genre: "Хип-хоп",     pattern: /hip.?hop|hiphop|\brap\b|rnb\.fm|rusrap|breakbeat|street.?beat|phonk/i },
+  { genre: "Транс",        pattern: /trance|\bтранс\b/i },
+  { genre: "Хаус",         pattern: /\bhouse\b|deep.?house|soulful.?house|soho.?fm|soundpark.?deep|\bdeep.?fm\b|best.?deep/i },
+  { genre: "Техно",        pattern: /techno|техно/i },
+  { genre: "Диско",        pattern: /disco|disko|дискотека/i },
+  { genre: "Электронная",  pattern: /\bedm\b|electronic|\bdnb\b|drum.?n.?bass|drumfunk|synth|electro|электростан/i },
+  { genre: "Танцевальная", pattern: /\bdance\b|dancefloor|mixadance|party.?dance|\bтанц/i },
+  { genre: "Джаз",         pattern: /jazz|джаз/i },
+  { genre: "Блюз",         pattern: /blues|блюз/i },
+  { genre: "R&B / Соул",   pattern: /\br.b\b|\bsoul\b|\bfunk\b|фанк|соул/i },
+  { genre: "Чиллаут",      pattern: /chill|lounge|relax|costa.?del.?mar|\bibiza\b|cafe.?del.?mar|buddha|атмосфера|slow.?radio|yoga|\bspa\b/i },
+  { genre: "Эмбиент",      pattern: /ambient|drone|whispering|new.?age|meditation|медитац/i },
+  { genre: "Фолк",         pattern: /folk|народн|татар|казак|этниче|балалайк/i },
+  { genre: "Регги",        pattern: /reggae|регги/i },
+  { genre: "Шансон",       pattern: /шансон|душевн|наш.?шансон|бродяга/i },
+  { genre: "Ретро",        pattern: /retro|ретро|oldies|nostalg|\b80s\b|\b90s\b|vintage|старое.?добр|ностальжи|советск|caroline.?flash/i },
+  { genre: "Разговорное",  pattern: /\bкниг|литер|аудиокниг|модель.?для.?сборки|радиотеатр|старое.?радио|\bbook\b/i },
+  { genre: "Спорт",        pattern: /sport|спорт|fitness/i },
+  { genre: "Поп",          pattern: /\bpop\b|хит|европа|маруся|страна.?fm|радио.?7\b|nice.?fm|русское.?радио|like.?fm/i },
+];
+
+const cityMatchers = [
+  { city: "Москва",            pattern: /москв|\bmoscow\b|говорит.?москв|\bnfm\b|\bmfm\b/i },
+  { city: "Санкт-Петербург",   pattern: /санкт.петерб|\bспб\b|питер.?fm|\bspb|петербург|град.?петров/i },
+  { city: "Екатеринбург",      pattern: /екатеринбург/i },
+  { city: "Новосибирск",       pattern: /новосибирск|nsk54/i },
+  { city: "Красноярск",        pattern: /красноярск/i },
+  { city: "Краснодар",         pattern: /краснодар/i },
+  { city: "Казань",            pattern: /казань|казан/i },
+  { city: "Ростов-на-Дону",    pattern: /ростов/i },
+  { city: "Нижний Новгород",   pattern: /нижний.?новгород|\bр52\b/i },
+  { city: "Самара",            pattern: /\bсамар/i },
+  { city: "Уфа",               pattern: /\bуфа\b/i },
+  { city: "Омск",              pattern: /\bомск/i },
+  { city: "Пермь",             pattern: /\bпермь\b|\bperm\b/i },
+  { city: "Барнаул",           pattern: /барнаул/i },
+  { city: "Иркутск",           pattern: /иркутск/i },
+  { city: "Волгоград",         pattern: /волгоград/i },
+  { city: "Орск",              pattern: /\bорск\b/i },
+  { city: "Брянск",            pattern: /брянск/i },
+  { city: "Владивосток",       pattern: /владивосток|лемма/i },
+  { city: "Камчатка",          pattern: /kamchatka|камчатка/i },
+  { city: "Хабаровск",         pattern: /хабаровск/i },
+  { city: "Ставрополь",        pattern: /ставрополь/i },
+  { city: "Кисловодск",        pattern: /кисловодск/i },
+  { city: "Челябинск",         pattern: /челябинск|интерволна/i },
+  { city: "Воронеж",           pattern: /воронеж/i },
+  { city: "Орёл",              pattern: /орёл|\bорел\b/i },
+  { city: "Абакан",            pattern: /абакан|хакасия/i },
+  { city: "Саратов",           pattern: /саратов/i },
+  { city: "Ижевск",            pattern: /ижевск/i },
+  { city: "Чайковский",        pattern: /чайковский/i },
+  { city: "Магадан",           pattern: /колыма/i },
+  { city: "Анапа",             pattern: /анап/i },
+  { city: "Севастополь",       pattern: /севастополь/i },
 ];
 
 function hashColor(seed) {
@@ -80,9 +135,15 @@ function buildBadge(name) {
 }
 
 function inferGenre(station) {
-  const haystack = [station.name, station.description].join(" ");
+  const haystack = [station.name, station.description, ...(station.tags ?? [])].join(" ");
   const match = genreMatchers.find((entry) => entry.pattern.test(haystack));
   return match?.genre ?? station.genre ?? "Радио";
+}
+
+function inferCity(station) {
+  const haystack = [station.name, station.description, ...(station.tags ?? [])].join(" ");
+  const match = cityMatchers.find((entry) => entry.pattern.test(haystack));
+  return match?.city ?? null;
 }
 
 function normalizeStation(station) {
@@ -97,7 +158,8 @@ function normalizeStation(station) {
     description: normalizeImportedDescription(station.description),
     listeners: normalizeImportedSource(station.listeners),
     tags,
-    genre: inferGenre(station)
+    genre: inferGenre(station),
+    city: station.city ?? inferCity(station)
   };
 }
 
@@ -110,7 +172,9 @@ const stations = rawStations.map(normalizeStation);
 const state = {
   currentId: (stations.find(s => s.id === "yx-nashe") ?? stations[0]).id,
   favorites: new Set(),
+  view: "stations",
   genre: "Все",
+  city: "Все",
   search: "",
   showSuggestions: false,
   isPlaying: false,
@@ -135,6 +199,10 @@ const queueList = document.querySelector("#queue-list");
 const stationGrid = document.querySelector("#station-grid");
 const genreFilters = document.querySelector("#genre-filters");
 const searchSuggestions = document.querySelector("#search-suggestions");
+const topbarNav = document.querySelector("#topbar-nav");
+const mainLayout = document.querySelector("#main-layout");
+const genreView = document.querySelector("#genre-view");
+const cityView = document.querySelector("#city-view");
 
 const genres = ["Все", ...new Set(stations.map((station) => station.genre))];
 
@@ -246,7 +314,9 @@ function filteredStations() {
   }
 
   return stations.filter((station) => {
-    return state.genre === "Все" || station.genre === state.genre;
+    const genreOk = state.genre === "Все" || station.genre === state.genre;
+    const cityOk  = state.city  === "Все" || station.city  === state.city;
+    return genreOk && cityOk;
   });
 }
 
@@ -372,6 +442,55 @@ function render() {
   renderGenres();
   renderGrid();
   renderSearchSuggestions();
+}
+
+const GENRE_ICONS = {
+  "Поп":"🎵","Рок":"🎸","Русский рок":"🎸","Хип-хоп":"🎹","Электронная":"🔌",
+  "Транс":"👾","Хаус":"🏠","Техно":"🤖","Диско":"🕺","Танцевальная":"💃",
+  "Джаз":"🎷","Блюз":"🎶","R&B / Соул":"🎤","Чиллаут":"🌊","Эмбиент":"🌟",
+  "Классика":"🎻","Шансон":"🎩","Ретро":"📡","Фолк":"🌱","Регги":"⚡",
+  "Хард-рок":"🤘","Детское":"👶","Юмор":"😂","Разговорное":"💬",
+  "Новости":"📰","Спорт":"⚽","Религиозное":"✝️","Радио":"📡"
+};
+
+function renderGenreView() {
+  const tiles = genres.filter(g => g !== "Все").map((genre) => {
+    const count = stations.filter(s => s.genre === genre).length;
+    const icon = GENRE_ICONS[genre] ?? "🎧";
+    const [c1, c2] = hashColor(genre);
+    return `<button class="browse-tile" data-select-genre="${genre}" type="button" style="--c1:${c1};--c2:${c2}">
+      <span class="browse-tile-icon">${icon}</span>
+      <span class="browse-tile-name">${genre}</span>
+      <span class="browse-tile-count">${count} станций</span>
+    </button>`;
+  });
+  genreView.innerHTML = `<div class="tiles-grid">${tiles.join("")}</div>`;
+}
+
+function renderCityView() {
+  const tiles = cities.filter(c => c !== "Все").map((city) => {
+    const count = stations.filter(s => s.city === city).length;
+    const [c1, c2] = hashColor(city);
+    return `<button class="browse-tile" data-select-city="${city}" type="button" style="--c1:${c1};--c2:${c2}">
+      <span class="browse-tile-icon">📍</span>
+      <span class="browse-tile-name">${city}</span>
+      <span class="browse-tile-count">${count} станций</span>
+    </button>`;
+  });
+  cityView.innerHTML = `<div class="tiles-grid">${tiles.join("")}</div>`;
+}
+
+function setView(view) {
+  state.view = view;
+  mainLayout.hidden = view !== "stations";
+  genreView.hidden  = view !== "genres";
+  cityView.hidden   = view !== "cities";
+  topbarNav.querySelectorAll(".nav-btn").forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.view === view);
+  });
+  if (view === "genres")   renderGenreView();
+  if (view === "cities")   renderCityView();
+  if (view === "stations") render();
 }
 
 function updateStatus(message) {
@@ -624,6 +743,31 @@ player.addEventListener("error", () => {
   state.isPlaying = false;
   updateStatus("Поток недоступен. Попробуйте другую станцию.");
   render();
+});
+
+// Навигация
+topbarNav.addEventListener("click", (event) => {
+  const btn = event.target.closest("[data-view]");
+  if (!btn) return;
+  setView(btn.dataset.view);
+});
+
+genreView.addEventListener("click", (event) => {
+  const tile = event.target.closest("[data-select-genre]");
+  if (!tile) return;
+  state.genre = tile.dataset.selectGenre;
+  state.city = "Все";
+  state.visibleCount = 60;
+  setView("stations");
+});
+
+cityView.addEventListener("click", (event) => {
+  const tile = event.target.closest("[data-select-city]");
+  if (!tile) return;
+  state.city = tile.dataset.selectCity;
+  state.genre = "Все";
+  state.visibleCount = 60;
+  setView("stations");
 });
 
 render();
