@@ -41,7 +41,6 @@
 
         <div class="topbar-search">
           <div class="search-wrap">
-            <svg class="search-icon-svg" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l3.5 3.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
             <input
               id="station-search"
               class="main-search-input"
@@ -53,21 +52,13 @@
           </div>
         </div>
 
-        <nav class="topbar-nav" id="topbar-nav">
-          <button class="nav-btn active" data-view="stations" type="button">Все станции</button>
-          <button class="nav-btn" data-view="genres" type="button">Жанры</button>
-          <button class="nav-btn" data-view="cities" type="button">Города</button>
-        </nav>
-
-        <label class="timer-field" for="sleep-timer">
-          <span>Таймер сна</span>
-          <select id="sleep-timer">
-            <option value="0">Выключен</option>
-            <option value="15">15 минут</option>
-            <option value="30">30 минут</option>
-            <option value="60">60 минут</option>
-          </select>
-        </label>
+        <nav class="topbar-nav" id="topbar-nav" hidden></nav>
+        <select id="sleep-timer" hidden>
+          <option value="0">Выключен</option>
+          <option value="15">15 минут</option>
+          <option value="30">30 минут</option>
+          <option value="60">60 минут</option>
+        </select>
       </header>
 
       <main class="layout-grid" id="main-layout">

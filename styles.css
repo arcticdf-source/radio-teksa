@@ -248,7 +248,7 @@ input::placeholder {
   top: calc(100% + 10px);
   left: 0;
   right: 0;
-  z-index: 15;
+  z-index: 9999;
   display: grid;
   gap: 6px;
   padding: 10px;
@@ -749,28 +749,19 @@ input::placeholder {
 
 /* ── Поиск в хедере ── */
 .topbar-search {
-  flex: 1 1 320px;
-  max-width: 480px;
+  flex: 1 1 400px;
+  max-width: 100%;
 }
 
 .search-wrap {
   position: relative;
 }
 
-.search-icon-svg {
-  position: absolute;
-  left: 14px;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 18px;
-  height: 18px;
-  color: var(--muted);
-  pointer-events: none;
-}
+/* search-icon-svg removed */
 
 .main-search-input {
   width: 100%;
-  padding: 11px 16px 11px 42px;
+  padding: 11px 16px;
   background: rgba(255, 255, 255, 0.07);
   border: 1px solid var(--line);
   border-radius: 14px;
