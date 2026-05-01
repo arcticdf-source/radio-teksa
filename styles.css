@@ -79,7 +79,7 @@ body::after {
 .topbar {
   position: relative;
   z-index: 100;
-  overflow: hidden;
+  overflow: visible;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -157,6 +157,7 @@ h1 {
 
 .search-wrap {
   position: relative;
+  z-index: 160;
   flex: 1;
   min-width: 320px;
   max-width: 920px;

@@ -13,7 +13,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-dorognoe-radio",
         "name": "Дорожное радио",
-        "stream": "https://dorognoe.hostingradio.ru:8041/dorognoe128.mp3",
+        "stream": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
         "sourceUrl": "https://radio.yandex.ru/station/dorognoe-radio",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/29541/img.69972566ff26fe468fe16007/300x300",
         "description": "Музыка для тех, кто за рулём.",
@@ -24,7 +24,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-radio-dacha",
         "name": "Радио Дача",
-        "stream": "https://dcha.hostingradio.ru:8041/dcha128.mp3",
+        "stream": "https://listen13.vdfm.ru:8000/dacha",
         "sourceUrl": "https://radio.yandex.ru/station/radio-dacha",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/40584/img.69283b3d8131456c3828133a/300x300",
         "description": "Уют, ностальгия и радость.",
@@ -35,7 +35,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-retro-fm",
         "name": "Ретро FM",
-        "stream": "https://retro.hostingradio.ru:8041/retro128.mp3",
+        "stream": "https://hls-01-retro.emgsound.ru/12/playlist.m3u8",
         "sourceUrl": "https://radio.yandex.ru/station/retro-fm",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28052/img.69283c01e25f054e30c6edb3/300x300",
         "description": "Лучшие хиты 70-х, 80-х, 90-х.",
@@ -46,7 +46,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-record",
         "name": "Радио Рекорд",
-        "stream": "https://radiorecord.hostingradio.ru:8000/rr_128",
+        "stream": "https://air.unmixed.ru/record320",
         "sourceUrl": "https://radio.yandex.ru/station/record",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/40584/img.69283bf60407e7077773b2c6/300x300",
         "description": "Танцевальная музыка.",
@@ -68,7 +68,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-monte-carlo",
         "name": "Монте Карло",
-        "stream": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+        "stream": "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/monte-carlo",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/29541/monte_carlo-225/300x300",
         "description": "Ваш безупречный вкус.",
@@ -79,7 +79,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-love-radio",
         "name": "Love Radio",
-        "stream": "https://love.hostingradio.ru:8041/love128.mp3",
+        "stream": "https://radio.promedia.ru/love-simf",
         "sourceUrl": "https://radio.yandex.ru/station/love-radio",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28052/img.69283a718131456c38281322/300x300",
         "description": "Музыка, что говорит «люблю».",
@@ -112,7 +112,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-jazz",
         "name": "Радио JAZZ",
-        "stream": "https://jazz.hostingradio.ru:8041/jazz128.mp3",
+        "stream": "https://nashe1.hostingradio.ru:80/jazz-128.mp3",
         "sourceUrl": "https://radio.yandex.ru/station/jazz",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/70683/img.69283a13e25f054e30c6ed93/300x300",
         "description": "Мир джаза.",
@@ -156,7 +156,7 @@ window.YANDEX_STATIONS = [
     {
         "id": "yx-rbk",
         "name": "Радио РБК",
-        "stream": "https://rbc.hostingradio.ru:8041/rbc128.mp3",
+        "stream": "https://hls-01-rbc.hostingradio.ru/rbc-fed0/112/playlist.m3u8",
         "sourceUrl": "https://radio.yandex.ru/station/rbk",
         "logoUrl": "https://avatars.mds.yandex.net/get-music-misc/28592/img.6978d08c7ff809447a5317af/300x300",
         "description": "Деловое радио.",
