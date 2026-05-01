@@ -141,6 +141,10 @@
       return "Армения";
     }
 
+    if (tags.some((tag) => tag.includes("груз")) || haystack.includes("груз") || badge === "GE") {
+      return "Грузия";
+    }
+
     return "Россия";
   }
 
