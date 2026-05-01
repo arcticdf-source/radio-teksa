@@ -27,6 +27,13 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
+    <link rel="manifest" href="./manifest.json" />
+    <meta name="theme-color" content="#ff7a18" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Радиотека" />
+    <link rel="apple-touch-icon" href="./logo2.jpg" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -92,6 +99,15 @@
         <div class="topbar-shortcuts" aria-label="Переход к фильтрам">
           <a class="topbar-link-btn" href="./genres.html">Жанры</a>
           <a class="topbar-link-btn" href="./countries.html">Страны</a>
+          <button id="bookmark-btn" class="topbar-util-btn" type="button" aria-label="Добавить в закладки" title="Добавить в закладки">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 3h14a1 1 0 0 1 1 1v17l-8-4-8 4V4a1 1 0 0 1 1-1z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+          </button>
+          <button id="pwa-install-btn" class="topbar-util-btn pwa-install-btn" type="button" aria-label="Добавить на главный экран" title="Добавить на главный экран" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="2" width="14" height="20" rx="2" stroke="currentColor" stroke-width="1.8"/><path d="M12 10v6M9 13l3-3 3 3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+        <div id="bookmark-toast" class="bookmark-toast" hidden>
+          Нажмите <kbd>Ctrl+D</kbd> (Mac: <kbd>⌘+D</kbd>) чтобы сохранить в закладки
         </div>
 
         <nav class="topbar-nav" id="topbar-nav" hidden></nav>
@@ -186,5 +202,34 @@
     <script src="./stations-data.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
     <script src="./app.js?v=3"></script>
+    <script>
+      // Service Worker
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js').catch(() => {});
+      }
+
+      // Bookmark hint
+      document.getElementById('bookmark-btn').addEventListener('click', () => {
+        const toast = document.getElementById('bookmark-toast');
+        toast.hidden = false;
+        clearTimeout(toast._t);
+        toast._t = setTimeout(() => { toast.hidden = true; }, 4000);
+      });
+
+      // PWA install
+      let _deferredPrompt = null;
+      window.addEventListener('beforeinstallprompt', e => {
+        e.preventDefault();
+        _deferredPrompt = e;
+        document.getElementById('pwa-install-btn').hidden = false;
+      });
+      document.getElementById('pwa-install-btn').addEventListener('click', async () => {
+        if (!_deferredPrompt) return;
+        _deferredPrompt.prompt();
+        await _deferredPrompt.userChoice;
+        _deferredPrompt = null;
+        document.getElementById('pwa-install-btn').hidden = true;
+      });
+    </script>
   </body>
 </html>

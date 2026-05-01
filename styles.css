@@ -1030,6 +1030,77 @@ input::placeholder {
   outline-offset: 2px;
 }
 
+/* ── Util icon buttons (bookmark, PWA install) ── */
+.topbar-util-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  border: 1.5px solid rgba(255,255,255,0.14);
+  background: rgba(255,255,255,0.06);
+  color: var(--text);
+  cursor: pointer;
+  transition: background 0.18s, border-color 0.18s, transform 0.18s;
+  flex-shrink: 0;
+}
+
+.topbar-util-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+.topbar-util-btn:hover {
+  background: rgba(255,255,255,0.12);
+  border-color: rgba(255,255,255,0.28);
+  transform: translateY(-1px);
+}
+
+.pwa-install-btn {
+  border-color: rgba(66,211,200,0.4);
+  color: var(--teal);
+}
+
+.pwa-install-btn:hover {
+  background: rgba(66,211,200,0.12);
+  border-color: var(--teal);
+}
+
+/* ── Bookmark toast ── */
+.bookmark-toast {
+  position: fixed;
+  top: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--panel-strong);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 14px;
+  padding: 14px 22px;
+  font-size: 0.95rem;
+  color: var(--text);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  z-index: 9999;
+  white-space: nowrap;
+  animation: toast-in 0.2s ease;
+}
+
+.bookmark-toast kbd {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.25);
+  background: rgba(255,255,255,0.08);
+  font-family: inherit;
+  font-size: 0.9em;
+  font-weight: 700;
+}
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translateX(-50%) translateY(-8px); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
 .nav-btn {
   padding: 9px 18px;
   border-radius: 12px;

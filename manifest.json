@@ -1,0 +1,22 @@
+{
+  "name": "Радиотека — онлайн радио",
+  "short_name": "Радиотека",
+  "description": "Слушайте онлайн радио бесплатно: 950+ станций по странам и жанрам.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#ff7a18",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/logo2.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/logo2.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
