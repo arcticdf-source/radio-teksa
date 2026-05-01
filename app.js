@@ -12,7 +12,7 @@ const fallbackStations = [
 
 function normalizeUiText(value) {
   return String(value ?? "")
-    .replace(/Radiopotok/gi, "Радиопоток")
+    .replace(/Radiopotok/gi, "Радио")
     .replace(/\bLive\b/gi, "Прямой эфир")
     .replace(/\bOnline\b/gi, "Онлайн")
     .replace(/\bTap to tune\b/gi, "Нажмите для прослушивания")
@@ -28,7 +28,7 @@ function normalizeImportedDescription(value) {
   const text = String(value ?? "").trim();
 
   if (!text || hasBrokenImportText(text) || /radio\s*potok/i.test(text)) {
-    return "Станция из каталога Радиопоток.";
+    return "Прямой эфир онлайн.";
   }
 
   return normalizeUiText(text);
@@ -38,7 +38,7 @@ function normalizeImportedSource(value) {
   const text = String(value ?? "").trim();
 
   if (!text || hasBrokenImportText(text) || /radio\s*potok/i.test(text)) {
-    return "Источник: Радиопоток";
+    return "Прямой эфир";
   }
 
   return normalizeUiText(text);

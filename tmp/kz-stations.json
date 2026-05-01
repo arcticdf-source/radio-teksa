@@ -1,0 +1,550 @@
+[
+  {
+    "url": "https://radiolar.online/stations/avtoradio-kz-avtoradio/",
+    "streams": [
+      "http://178.88.167.62:8080/AVTORADIO_192"
+    ],
+    "name": "Авторадио",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/vashe-kz-vashe-radio/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/vasheradio"
+    ],
+    "name": "Ваше Радио",
+    "genre": "Танцевальная, Электронная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhanafm-kz-zhaa-lounge/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/zhanalounge"
+    ],
+    "name": "Жаңа Lounge",
+    "genre": "Релакс",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhanafm-kz-zhaa-mix/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/zhanamix"
+    ],
+    "name": "Жаңа MIX",
+    "genre": "Танцевальная, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhanafm-kz-zhaa-rock/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/zhanarock"
+    ],
+    "name": "Жаңа Rock",
+    "genre": "Рок",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/narodnoeradio-kz-narodnoe-radio/",
+    "streams": [
+      "http://178.88.167.62:8080/DALA_192"
+    ],
+    "name": "Народное радио",
+    "genre": "Танцевальная, Популярная, Хиты",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/qazradio-fm-radio-classic/",
+    "streams": [
+      "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio"
+    ],
+    "name": "Radio Classic",
+    "genre": "Классическая",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiokn-kz-radio-kn/",
+    "streams": [],
+    "name": "Радио КН",
+    "genre": "Популярная, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/ns-kz-radio-ns-nacionalnaya-set/",
+    "streams": [],
+    "name": "Радио NS",
+    "genre": "Танцевальная, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/energyfm-kz-energy-fm/",
+    "streams": [
+      "http://89.219.34.117:8008/NEWENERGY"
+    ],
+    "name": "Energy FM",
+    "genre": "Танцевальная, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/alau-kz-alau/",
+    "streams": [],
+    "name": "Алау",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/rassvet-info-radio-rassvet/",
+    "streams": [
+      "http://s1.radioheart.ru:8001/rassvet"
+    ],
+    "name": "Радио Рассвет",
+    "genre": "Популярная, Новости",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/orda-fm-radio-orda/",
+    "streams": [
+      "https://ordacast.astanatv.kz:8443/orda"
+    ],
+    "name": "Радио Орда",
+    "genre": "Популярная, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/qazradio-fm-radio-astana/",
+    "streams": [
+      "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio"
+    ],
+    "name": "Радио Астана",
+    "genre": "Популярная, Новости, Разговорное, Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/massaget-kz-zhuldyz-fm/",
+    "streams": [
+      "http://91.201.214.229:8000/zhulduz"
+    ],
+    "name": "Жулдыз ФМ",
+    "genre": "Танцевальная, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/dachafm-kz-radio-dacha/",
+    "streams": [
+      "https://stream.gakku.kz:8443/dacha"
+    ],
+    "name": "Радио Дача",
+    "genre": "Популярная, Ретро, Хиты",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/luxfm-kz-radio-lux-fm/",
+    "streams": [],
+    "name": "Radio Lux FM",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiotmk-kz-tatarskoe-radio-tmk/",
+    "streams": [
+      "https://a4.radioheart.ru:9036/RH13170"
+    ],
+    "name": "Татарское Радио ТМК",
+    "genre": "Народная, Релакс",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/cityradio-kz-radio-city-almaty/",
+    "streams": [],
+    "name": "Radio City Almaty",
+    "genre": "Популярная, Новости, Разговорное, Развлекательная, Хиты",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiotandem-kz-radio-tandem/",
+    "streams": [],
+    "name": "Радио Тандем",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhanafm-kz-zhaa-fm/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/zhanafm_onair"
+    ],
+    "name": "Жаңа FM",
+    "genre": "Популярная, 90 е, Хиты",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/businessfm-kz-business-fm/",
+    "streams": [
+      "https://bfmreg.hostingradio.ru/kz.bfm128.mp3"
+    ],
+    "name": "Business FM",
+    "genre": "Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aloharadio-online-aloha-fm/",
+    "streams": [],
+    "name": "Aloha FM",
+    "genre": "Электронная, Рок, Блюз, Техно, Релакс, Джаз, Хип хоп, Фанк",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio-greendance-su-green-dance/",
+    "streams": [
+      "https://listen.radio-greendance.su/listen/green_dance/green_dance"
+    ],
+    "name": "Green Dance",
+    "genre": "Танцевальная, Электронная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aisyn-kz-aysyn-fm/",
+    "streams": [
+      "http://s0.radioheart.ru:8000/RH83921"
+    ],
+    "name": "Айсын FM",
+    "genre": "Популярная, Детям",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio-profi-centr-kz-radio-onlayn-zhitikara/",
+    "streams": [
+      "https://a8.radioheart.ru:9006/RH75633"
+    ],
+    "name": "Радио онлайн Житикара",
+    "genre": "Рок, Популярная, Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/toiduman-kz-toy-duman/",
+    "streams": [
+      "https://stream.gakku.kz:8443/live.mp3"
+    ],
+    "name": "Той Думан",
+    "genre": "Популярная, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/beufm-kz-beu-fm/",
+    "streams": [],
+    "name": "Beu FM",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/rusradio-kz-russkoe-radio-aziya/",
+    "streams": [
+      "https://rusradioreg.hostingradio.ru/asia.rusradio128.mp3"
+    ],
+    "name": "Русское Радио Азия",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/tengrifm-kz-tengri-fm/",
+    "streams": [
+      "http://91.201.214.229:8000/tengrifm"
+    ],
+    "name": "Тенгри FM",
+    "genre": "Рок",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/qazradio-fm-shalar-radiosy/",
+    "streams": [
+      "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio"
+    ],
+    "name": "Шалқар Радиосы",
+    "genre": "Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/qazradio-fm-aza-radiosy/",
+    "streams": [
+      "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
+    ],
+    "name": "Қазақ радиосы",
+    "genre": "Популярная, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/veseloeradio-kz-yumor-fm-kazahstan/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/veseloeradio_onair"
+    ],
+    "name": "Юмор FM Казахстан",
+    "genre": "Популярная, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/europaplus-kz-evropa-plyus-kazahstan/",
+    "streams": [
+      "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8"
+    ],
+    "name": "Европа Плюс Казахстан",
+    "genre": "Танцевальная, Дискотека, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/loveradio-kz-love-radio/",
+    "streams": [
+      "https://stream.gakku.kz:8443/love128.mp3"
+    ],
+    "name": "Love Radio",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/jjfm-kz-jibek-joly-101-4fm/",
+    "streams": [
+      "https://stream.qazcdn.net/ex6r514/D0Ik7bYjFJq/tracks-v3a1/mono.ts.m3u8"
+    ],
+    "name": "Jibek Joly 101.4FM",
+    "genre": "Популярная, Новости, Разговорное, Народная, Культура, Развлекательная, Хиты",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/loveradio-kz-love-radio-kazakhstan/",
+    "streams": [
+      "https://stream.gakku.tv:8443/love128.mp3"
+    ],
+    "name": "Love Radio Kazakhstan",
+    "genre": "Популярная, Рок, Хип хоп",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/ns-kz-radio-ns/",
+    "streams": [],
+    "name": "Радио NS",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/orda-fm-orda-fm/",
+    "streams": [
+      "https://85.29.129.134:8443/orda"
+    ],
+    "name": "Orda FM",
+    "genre": "Популярная, Рок, Хип хоп, Джаз, Электронная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhanafm-kz-pioner-fm-kz/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/pionerfm"
+    ],
+    "name": "Pioner FM KZ",
+    "genre": "Хиты, Ретро",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/qazradio-fm-kazahskoe-radio/",
+    "streams": [
+      "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
+    ],
+    "name": "Казахское Радио",
+    "genre": "Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/cityradio-kz-radio-city/",
+    "streams": [],
+    "name": "Radio City",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiotmk-kz-radio-tmk/",
+    "streams": [],
+    "name": "Радио ТМК",
+    "genre": "Релакс, Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhuldyzfm-kz-zhulduz-radio/",
+    "streams": [
+      "http://91.201.214.229:8000/zhulduz"
+    ],
+    "name": "Zhulduz Radio",
+    "genre": "Хиты, Классическая",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhanafm-kz-novoe-radio-zhana-fm/",
+    "streams": [
+      "https://live.zhanafm.kz:8443/zhanafm_onair"
+    ],
+    "name": "Новое Радио Жана FM",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/sanacorp-kz-radio-sana/",
+    "streams": [],
+    "name": "Радио SANA",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/hordelo-kz-radio-rauan/",
+    "streams": [],
+    "name": "Радио Рауан",
+    "genre": "Популярная, Рок, Хип хоп, Джаз, Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/talap-com-radio-talap/",
+    "streams": [],
+    "name": "Радио Талап",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio7-kz-radio-7-kazahstan/",
+    "streams": [],
+    "name": "Радио 7 Казахстан",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/rikatv-kz-aktobe-radio/",
+    "streams": [
+      "https://radiokrug.ru/radio/aktobe/icecast.audio"
+    ],
+    "name": "Актобе радио",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/boomroom-kz-boomroom-kz/",
+    "streams": [
+      "https://a5.radioheart.ru:9037/RH3009"
+    ],
+    "name": "BoomRoom.kz",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/businessfm-kz-business-fm-kazahstan/",
+    "streams": [
+      "https://bfmreg.hostingradio.ru/kz.bfm128.mp3"
+    ],
+    "name": "Business FM Казахстан",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/energyfm-kz-energy-fm-kazahstan/",
+    "streams": [
+      "http://89.219.34.117:8008/NEWENERGY"
+    ],
+    "name": "Energy FM Казахстан",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/luxfm-kz-lux-fm-kazahstan/",
+    "streams": [],
+    "name": "Lux FM Казахстан",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/alau-kz-radio-alau/",
+    "streams": [
+      "https://s0.radioheart.ru:8000/RH67172"
+    ],
+    "name": "Радио Алау",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/ns-kz-radio-ns-kz/",
+    "streams": [],
+    "name": "Радио NS",
+    "genre": "Популярная, Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/sanacorp-kz-radio-rauan/",
+    "streams": [],
+    "name": "Радио Рауан",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/toiduman-kz-radio-toy-duman/",
+    "streams": [
+      "https://stream.gakku.kz:8443/live.mp3"
+    ],
+    "name": "Радио Той Думан",
+    "genre": "Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/pavlodarnews-kz-radio-halyk/",
+    "streams": [
+      "https://s0.radioheart.ru:8000/RH46806"
+    ],
+    "name": "Радио Халык",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/starkids-fm-radio-starkids-fm/",
+    "streams": [
+      "https://c24.radioboss.fm:18223/stream"
+    ],
+    "name": "Радио STARKIDS.FM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/zhuldyzfm-kz-zhuldyz-fm/",
+    "streams": [
+      "https://radiosolo.ru/radio/zhuldyz-fm/icecast.audio"
+    ],
+    "name": "Жулдыз FM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/myradio24-com-russkoe-radio-kostanay/",
+    "streams": [],
+    "name": "Русское Радио Костанай",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/myradio24-com-like-fm-kazahstan/",
+    "streams": [],
+    "name": "Like Fm Казахстан",
+    "genre": "Танцевальная, Популярная, Клубная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/myradio24-com-radio-azamat/",
+    "streams": [],
+    "name": "Радио Азамат",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/myradio24-com-apex-fm-dushevnoe-radio/",
+    "streams": [],
+    "name": "Apex FM Душевное радио",
+    "genre": "Популярная, Ретро",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/myradio24-com-ostrovok/",
+    "streams": [],
+    "name": "ОстровОК!",
+    "genre": "Популярная",
+    "logo": ""
+  }
+]
