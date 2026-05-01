@@ -10817,7 +10817,7 @@
     badge: "UZ",
     color: ["#065F46", "#047857"]
   }
-];,
+,
   {
     id: "am-001-armenian-christian-radio-bashde-radi",
     name: "Armenian Christian Radio - Bashde Radio",
