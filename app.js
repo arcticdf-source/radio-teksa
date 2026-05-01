@@ -224,6 +224,8 @@ const queueList = document.querySelector("#queue-list");
 const stationGrid = document.querySelector("#station-grid");
 const genreFilters = document.querySelector("#genre-filters");
 const searchSuggestions = document.querySelector("#search-suggestions");
+const vinylDisc = document.querySelector("#vinyl-disc");
+const vinylLabel = document.querySelector("#vinyl-label");
 const topbarNav = document.querySelector("#topbar-nav");
 const mainLayout = document.querySelector("#main-layout");
 const genreView = document.querySelector("#genre-view");
@@ -669,6 +671,19 @@ function renderHero() {
   favoriteToggle.textContent = state.favorites.has(station.id) ? "★" : "☆";
   favoriteToggle.classList.toggle("active", state.favorites.has(station.id));
   playToggle.textContent = state.isPlaying ? "Пауза" : "Слушать";
+
+  // Update vinyl label
+  if (vinylLabel) {
+    if (station.logoUrl) {
+      vinylLabel.innerHTML = `<img src="${station.logoUrl}" alt="${station.name}" />`;
+    } else {
+      vinylLabel.innerHTML = station.badge;
+      vinylLabel.style.background = `linear-gradient(135deg, ${station.color[0]}, ${station.color[1]})`;
+    }
+  }
+  if (vinylDisc) {
+    vinylDisc.classList.toggle("playing", state.isPlaying);
+  }
 }
 
 function renderQueue() {
@@ -976,6 +991,7 @@ sleepTimer.addEventListener("change", (event) => {
 playToggle.addEventListener("click", togglePlayback);
 nextStation.addEventListener("click", pickRandomStation);
 favoriteToggle.addEventListener("click", toggleFavorite);
+if (vinylDisc) vinylDisc.addEventListener("click", togglePlayback);
 
 queueList.addEventListener("click", (event) => {
   const item = event.target.closest("[data-station-id]");
