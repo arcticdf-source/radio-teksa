@@ -121,6 +121,12 @@ body::after {
   background: #fff;
   padding: 4px 8px;
   mix-blend-mode: normal;
+  transition: opacity 0.2s ease;
+  cursor: pointer;
+}
+
+.brand-block a:hover .brand-logo {
+  opacity: 0.8;
 }
 
 .eyebrow {
