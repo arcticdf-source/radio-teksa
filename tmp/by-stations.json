@@ -1,0 +1,711 @@
+[
+  {
+    "url": "https://radiolar.online/stations/svoyoradio-by-svoe-radio-pinsk/",
+    "streams": [
+      "https://live.svoyoradio.by:8443/svoyoradio"
+    ],
+    "name": "Свое Радио Пинск",
+    "genre": "Популярная, Рок, Народная, Электронная, Альтернативная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/minsknews-by-radio-minsk-92-4/",
+    "streams": [],
+    "name": "Ой! Страницы, которую вы ищете, здесь нет.",
+    "genre": "",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiokultura-by-kanal-kultura-belorusskoe-radio/",
+    "streams": [],
+    "name": "Канал Культура Белорусское Радио",
+    "genre": "Классическая, Народная, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/novoeradio-by-novoe-radio-fresh/",
+    "streams": [],
+    "name": "Ой! Страницы, которую вы ищете, здесь нет.",
+    "genre": "",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio1-by-pershy-nacyyanalny-kanal-belaruskaga-rad/",
+    "streams": [],
+    "name": "Ой! Страницы, которую вы ищете, здесь нет.",
+    "genre": "",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiorelax-by-radye-relax/",
+    "streams": [
+      "http://live.humorfm.by:8000/radiorelax"
+    ],
+    "name": "Радыё Relax",
+    "genre": "Релакс",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiomaria-by-radye-maryya/",
+    "streams": [
+      "https://server.radiorm.by:8443/live"
+    ],
+    "name": "Радые Марыя",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/alyaxen-fm-alyaxen-radiostation/",
+    "streams": [],
+    "name": "Alyaxen Radiostation",
+    "genre": "Популярная, Рок, Джаз, Хип хоп, Электронная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aplus-fm-aplus-beat/",
+    "streams": [
+      "http://107.173.210.247:9000/aplus_beat_128"
+    ],
+    "name": "Aplus Beat",
+    "genre": "Популярная, Хип хоп, Рок, Танцевальная, Электронная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aplus-fm-aplus-one-aac-16-kb-s/",
+    "streams": [
+      "http://s.aplus.fm:9000/aplus_16.aac"
+    ],
+    "name": "Aplus One aac, 16 kb/s",
+    "genre": "Популярная, Рок, Хип хоп, Джаз, Блюз",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aplus-fm-aplus-progressive-techno/",
+    "streams": [
+      "http://shoutcast.aplus.fm:9000/aplus_progressive-techno_128"
+    ],
+    "name": "Aplus Progressive Techno",
+    "genre": "Техно, Электронная, Альтернативная, Хаус, Релакс",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aplus-fm-deep-aplus-fm/",
+    "streams": [],
+    "name": "Deep",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aplus-fm-relax-aplus-fm/",
+    "streams": [],
+    "name": "Relax",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/aplus-fm-rock-aplus-fm/",
+    "streams": [],
+    "name": "Rock",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/jazzradionetwork-com-gjr/",
+    "streams": [
+      "https://kathy.torontocast.com:3375/stream"
+    ],
+    "name": "gjr",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/liderfm-by-lider-fm/",
+    "streams": [],
+    "name": "Лидер FM",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/loveisradio-by-love-is-radio/",
+    "streams": [],
+    "name": "Love is radio",
+    "genre": "Популярная, Рок, Хип хоп, Электронная, Альтернативная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-dvuhtysyachnye-radio-unistar/",
+    "streams": [
+      "https://stream.unistar.by/unistar_best_internal/unistar_best/playlist.m3u8"
+    ],
+    "name": "Двухтысячные",
+    "genre": "Хиты, Популярная, Ретро",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-unistar-rap-hity/",
+    "streams": [
+      "https://stream.unistar.by/unistar_rap_internal/unistar_rap/playlist.m3u8"
+    ],
+    "name": "Unistar",
+    "genre": "Хип хоп, Реп, Ритм-н-блюз, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-unistar-v-tempe/",
+    "streams": [
+      "https://stream.unistar.by/unistar_fast_internal/unistar_fast/playlist.m3u8"
+    ],
+    "name": "Unistar",
+    "genre": "Танцевальная, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-unistar-kavery/",
+    "streams": [
+      "https://stream.unistar.by/unistar_covers_internal/unistar_covers/playlist.m3u8"
+    ],
+    "name": "Unistar",
+    "genre": "Популярная, Танцевальная, Рок",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-moy-rok-n-roll-unistar/",
+    "streams": [
+      "https://stream.unistar.by/unistar_rock_internal/unistar_rock/playlist.m3u8"
+    ],
+    "name": "Мой рок",
+    "genre": "Классическая, Рок",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-ofisnoe-radio-unistar/",
+    "streams": [
+      "https://stream.unistar.by/unistar_office_internal/unistar_office/playlist.m3u8"
+    ],
+    "name": "Офисное радио Unistar",
+    "genre": "Релакс, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-svezhie-hity-yunistar/",
+    "streams": [
+      "https://stream.unistar.by/unistar_top_internal/unistar_top/playlist.m3u8"
+    ],
+    "name": "Свежие хиты Юнистар",
+    "genre": "Хиты, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-unistar/",
+    "streams": [
+      "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8"
+    ],
+    "name": "Unistar",
+    "genre": "Хиты, Популярная, Релакс, 90 е",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/unistar-by-svezhie-hity-radio-unistar/",
+    "streams": [
+      "https://stream.unistar.by/unistar_top_internal/unistar_top/unistar_top/unistar_top_128/chunks.m3u8"
+    ],
+    "name": "Свежие хиты",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/bobrlife-by-zefir-fm/",
+    "streams": [
+      "http://178.124.152.212:8008/Zefir"
+    ],
+    "name": "Зефир FM",
+    "genre": "Новости, Эфир, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioslovo-net-adkrytae-slova/",
+    "streams": [],
+    "name": "Адкрытае Слова",
+    "genre": "Духовная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioslovo-net-otkrytoe-slovo/",
+    "streams": [],
+    "name": "Открытое Слово",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioslovo-net-otkrytoe-slovo-avto-radio/",
+    "streams": [
+      "https://rt.radioslovo.net:4145/stream"
+    ],
+    "name": "Открытое Слово Авто Радио",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioslovo-net-otkrytoe-slovo-bratskie-vstrechi/",
+    "streams": [
+      "https://rt.radioslovo.net:4135/stream"
+    ],
+    "name": "Открытое Слово Братские встречи",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioslovo-net-otkrytoe-slovo-instrumentalnaya-muz/",
+    "streams": [
+      "https://rt.radioslovo.net:4275/stream"
+    ],
+    "name": "Открытое Слово Инструментальная музыка",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/euroradio-fm-eraradye-alternative/",
+    "streams": [
+      "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910"
+    ],
+    "name": "Еўрарадыё Alternative",
+    "genre": "Альтернативная, Рок, Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/euroradio-fm-eraradye-by/",
+    "streams": [
+      "http://stream1.euroradio.fm:8000/euroradio1"
+    ],
+    "name": "Еўрарадыё BY",
+    "genre": "Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/kompasfm-by-kompas-fm/",
+    "streams": [],
+    "name": "Компас FM",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/mvolna-by-minskaya-volna-mv-radio/",
+    "streams": [],
+    "name": "Минская волна МВ",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/novoeradio-by-novoe-radio-98-4-fm/",
+    "streams": [
+      "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+    ],
+    "name": "Новое радио 98.4 fm",
+    "genre": "Классическая, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/novoeradio-by-fresh-novoe-radio-belarus/",
+    "streams": [
+      "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio"
+    ],
+    "name": "Fresh",
+    "genre": "Танцевальная, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/novoeradio-by-megamix-novoe-radio/",
+    "streams": [
+      "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio"
+    ],
+    "name": "Megamix Новое радио",
+    "genre": "Танцевальная, Хиты, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/novoeradio-by-wake-up-show-novoe-radio-belarus/",
+    "streams": [
+      "https://live.novoeradio.by:444/live/novoeradio_wakeupshow_aac128/icecast.audio"
+    ],
+    "name": "Wake Up Show",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/belros-tv-pervoe-soyuznoe-radioe/",
+    "streams": [
+      "https://souz.hostingradio.ru:80/souz128.mp3"
+    ],
+    "name": "Первое союзное радиоё",
+    "genre": "Новости, Разговорное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio1-by-pervyy-nacionalnyy-kanal-belorusskogo-ra/",
+    "streams": [],
+    "name": "Первый национальный канал Белорусского радио",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio123-by-radio-123/",
+    "streams": [
+      "http://de1.internet-radio.com:8173/stream"
+    ],
+    "name": "Радио 123",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiobelarus-by-radio-belarus-fm-radio-belarus-fm/",
+    "streams": [
+      "http://stream2.datacenter.by:8009/belarusfm"
+    ],
+    "name": "Радио Беларусь FM/Radio Belarus FM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiobelarus-by-radio-belarus-radio-belarus/",
+    "streams": [
+      "http://stream2.datacenter.by:8008/belarus"
+    ],
+    "name": "Радио Беларусь/Radio Belarus",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiobrestfm-by-radio-brest-104-8-fm/",
+    "streams": [
+      "http://178.124.131.35:8012/trkbrest"
+    ],
+    "name": "Радио Брест 104.8 Fm",
+    "genre": "Популярная, Рок, Новости, Электронная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiobrestfm-by-radio-brest/",
+    "streams": [],
+    "name": "Радио Брест",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiominsk-by-radio-minsk/",
+    "streams": [
+      "https://radio.mk.by:8443/radiominsk"
+    ],
+    "name": "Радио Минск",
+    "genre": "Рок, Классическая",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/tvrmogilev-by-radio-mogilev/",
+    "streams": [],
+    "name": "Радио Могилев",
+    "genre": "Популярная, Рок, Новости, Электронная, Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiusfm-by-radius-fm/",
+    "streams": [],
+    "name": "Радиус фм",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiorelax-by-radio-relax-belarus/",
+    "streams": [
+      "https://live.humorfm.by:8443/radiorelax"
+    ],
+    "name": "Радио Relax Беларусь",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/svaboda-org-radye-svaboda-naviny-belarusi/",
+    "streams": [],
+    "name": "Радыё Свабода. Навіны Беларусі",
+    "genre": "Новости, Культура",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/twr-fm-transmirovoe-radio-v-belarusi/",
+    "streams": [],
+    "name": "ТрансМировое Радио в Беларуси",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/alpha-by-alfa-radio-belarus/",
+    "streams": [],
+    "name": "Альфа Радио Беларусь",
+    "genre": "Популярная, Рок, Хип хоп, Джаз, Блюз",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/narodnoeradio-by-narodnoe/",
+    "streams": [
+      "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+    ],
+    "name": "Народное",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/pilotfm-com-pilot-fm-belarus/",
+    "streams": [],
+    "name": "Пилот FM Беларусь",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioradar-online-radar-lossless-radio/",
+    "streams": [
+      "https://radioradar.online/listen/radar/radar.ogg"
+    ],
+    "name": "RADAR Lossless radio",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioradar-online-radar-lossy/",
+    "streams": [
+      "https://radioradar.online/listen/radar/yablo.aac"
+    ],
+    "name": "RADAR Lossy",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/skif-by-radio-skif/",
+    "streams": [],
+    "name": "Радио Скиф",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/wargaming-fm-wgfm-trance/",
+    "streams": [],
+    "name": "WGFM",
+    "genre": "Транс, Электронная, Танцевальная, Хаус, Релакс",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/wargaming-fm-wgfm-rock/",
+    "streams": [],
+    "name": "WGFM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/wargaming-fm-wgfm-vtoroy-kanal/",
+    "streams": [],
+    "name": "WGFM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/energyfm-by-energy-fm-belarus/",
+    "streams": [],
+    "name": "Energy FM Беларусь",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiovitebsk-by-radio-vitebsk/",
+    "streams": [],
+    "name": "Радио витебск",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radioskuf-com-radio-skuf/",
+    "streams": [
+      "https://live.radioskuf.com:1075/stream"
+    ],
+    "name": "Радио Скуф",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/centerfm-by-centr-fm/",
+    "streams": [
+      "https://stream2.datacenter.by/stream"
+    ],
+    "name": "Центр FM",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiomir-by-radio-mir-v-belarusi/",
+    "streams": [
+      "https://media1.datacenter.by:1936/radiomir/radiomir/chunklist_w1845238396.m3u8"
+    ],
+    "name": "Радио Мир в Беларуси",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/tvs-by-molodechno-fm/",
+    "streams": [
+      "https://radio.tvs.by:8089/Radio/index.m3u8"
+    ],
+    "name": "Молодечно FM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiopobeda-by-radio-pobeda/",
+    "streams": [],
+    "name": "Радио Победа",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/pravdaradio-by-pravda-radio/",
+    "streams": [
+      "https://stream2.datacenter.by/gomelskayapravda?type=.mp3"
+    ],
+    "name": "Правда Радио",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiokit-by-radio-kit-pop-dance/",
+    "streams": [
+      "https://radiokit.by:8443/RadioKitDance"
+    ],
+    "name": "Радио КИТ",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiokit-by-radio-kit/",
+    "streams": [],
+    "name": "Ой! Страницы, которую вы ищете, здесь нет.",
+    "genre": "",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio-masterabelarusi-by-radio-mastera-belarusi/",
+    "streams": [],
+    "name": "Радио Мастера Беларуси",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiomix-dance-radiomix/",
+    "streams": [],
+    "name": "RadioMIX",
+    "genre": "Танцевальная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/rodnichok-bel-radio-rodnichok/",
+    "streams": [
+      "https://a1.radioheart.ru:9035/RH20329"
+    ],
+    "name": "Радио РОДничок",
+    "genre": "Народная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/roks-com-roks-fm/",
+    "streams": [
+      "https://stream.roks.com:8443/live256"
+    ],
+    "name": "Рокс FM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radiostalica-by-radio-stolica-belarus/",
+    "streams": [
+      "https://media2.datacenter.by/stream/stalica/stream"
+    ],
+    "name": "Радио Столица Беларусь",
+    "genre": "Популярная, Рок",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/tvoeradio-by-tvoe-radio/",
+    "streams": [],
+    "name": "Твое Радио",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/humorfm-by-yumor-fm-belarus/",
+    "streams": [
+      "https://live.humorfm.by:8443/veseloeradio"
+    ],
+    "name": "Юмор FM Беларусь",
+    "genre": "Комедия, Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/gomelradio-by-gomelskoe-gorodskoe-radio/",
+    "streams": [],
+    "name": "Гомельское городское радио",
+    "genre": "Популярная",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/radio-hiphop-by-hiphop-by/",
+    "streams": [
+      "http://online.hiphop.by:9000/8000"
+    ],
+    "name": "Hiphop By",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/montecarlo-uno-monte-carlo-lounge/",
+    "streams": [],
+    "name": "Monte Carlo Lounge",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/s13-live-s13-live/",
+    "streams": [],
+    "name": "s13.live",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/teploe-net-teploe-radio-netop-fm/",
+    "streams": [
+      "http://radio2.teploe.net:8000/teploeradio"
+    ],
+    "name": "Тёплое Радио Нетоп FM",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/legendy-by-legendy-fm-hits/",
+    "streams": [
+      "http://live.legendy.by:8000/legendyfm"
+    ],
+    "name": "Легенды FM Hits",
+    "genre": "Хиты, Ретро",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/legendy-by-legendy-fm-retro/",
+    "streams": [],
+    "name": "Легенды FM Retro",
+    "genre": "Разное",
+    "logo": ""
+  },
+  {
+    "url": "https://radiolar.online/stations/air-racyja-com-radye-racyya/",
+    "streams": [
+      "http://air.racyja.com:8000/racja128"
+    ],
+    "name": "Радыё Рацыя",
+    "genre": "Электронная, Новости, Рок",
+    "logo": ""
+  }
+]

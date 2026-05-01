@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Радио ▶️ «РАДИО &#34;Аъло ФМ&#34;»",
+    "stream": "http://tabassum.uz:9000/alo_low",
+    "logoUrl": "https://radiolar.online/images/1/tabassum-uz-radio-alo-fm/webp/",
+    "tags": [
+      "Народная",
+      "Комедия"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/tabassum-uz-radio-alo-fm/"
+  },
+  {
+    "name": "Радио ▶️ «DUSHANBE NAVO»",
+    "stream": "https://myradio24.org/6917",
+    "logoUrl": "https://radiolar.online/images/1/dushanbenavo-uz-dushanbe-navo/webp/",
+    "tags": [
+      "Хиты"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/dushanbenavo-uz-dushanbe-navo/"
+  },
+  {
+    "name": "Радио ▶️ «Navruz FM - Durdonalari»",
+    "stream": "http://navruzfm.uz:9000/navruz_durdonalari",
+    "logoUrl": "https://radiolar.online/images/1/navruzfm-uz-navruz-fm-durdonalari/webp/",
+    "tags": [
+      "Популярная",
+      "Новости",
+      "Разговорное"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/navruzfm-uz-navruz-fm-durdonalari/"
+  },
+  {
+    "name": "Радио ▶️ «Navruz FMdan - Maqom»",
+    "stream": "http://navruzfm.uz:9000/navruz_maqom",
+    "logoUrl": "https://radiolar.online/images/1/navruzfm-uz-navruz-fmdan-maqom/webp/",
+    "tags": [
+      "Популярная",
+      "Новости",
+      "Разговорное"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/navruzfm-uz-navruz-fmdan-maqom/"
+  },
+  {
+    "name": "Радио ▶️ «Navruz FM - Musofirim»",
+    "stream": "http://navruzfm.uz:9000/navruz_musofirim",
+    "logoUrl": "https://radiolar.online/images/1/navruzfm-uz-navruz-fm-musofirim/webp/",
+    "tags": [
+      "Популярная",
+      "Новости",
+      "Разговорное"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/navruzfm-uz-navruz-fm-musofirim/"
+  },
+  {
+    "name": "Радио ▶️ «Navruz FMdan - Tabassum»",
+    "stream": "http://navruzfm.uz:9000/navruz_tabassum",
+    "logoUrl": "https://radiolar.online/images/1/navruzfm-uz-navruz-fmdan-tabassum/webp/",
+    "tags": [
+      "Популярная",
+      "Новости",
+      "Разговорное"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/navruzfm-uz-navruz-fmdan-tabassum/"
+  },
+  {
+    "name": "Радио ▶️ «Sezam FM»",
+    "stream": "https://stream.zeno.fm/70r1uhccrchvv",
+    "logoUrl": "https://radiolar.online/images/1/sezamfm-com-sezam-fm/webp/",
+    "tags": [
+      "Популярная",
+      "Хиты"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/sezamfm-com-sezam-fm/"
+  },
+  {
+    "name": "Радио ▶️ «Timsol Online Radiosi»",
+    "stream": "https://stream.zeno.fm/cqtrku1o8bbuv",
+    "logoUrl": "https://radiolar.online/images/1/timsolfm-uz-timsol-online-radiosi/webp/",
+    "tags": [
+      "Популярная"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/timsolfm-uz-timsol-online-radiosi/"
+  },
+  {
+    "name": "Радио ▶️ «No&#39;kis FM»",
+    "stream": "http://185.196.214.70:8000/live",
+    "logoUrl": "https://radiolar.online/images/1/nukusfm-uz-nokis-fm/webp/",
+    "tags": [
+      "Популярная",
+      "Народная",
+      "Развлекательная"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/nukusfm-uz-nokis-fm/"
+  },
+  {
+    "name": "Радио ▶️ «Radio Markaz Online»",
+    "stream": "http://mediamarkaz.com:8000/radiomarkaz",
+    "logoUrl": "https://radiolar.online/images/1/mediamarkaz-com-radio-markaz-online/webp/",
+    "tags": [
+      "Комедия"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/mediamarkaz-com-radio-markaz-online/"
+  },
+  {
+    "name": "Радио ▶️ «Temp FM»",
+    "stream": "https://tempradio-live.uz/streamaac",
+    "logoUrl": "https://radiolar.online/images/1/temp-fm-temp-fm/webp/",
+    "tags": [
+      "Разное"
+    ],
+    "country": "Узбекистан",
+    "countryCode": "UZ",
+    "sourceUrl": "https://radiolar.online/stations/temp-fm-temp-fm/"
+  }
+]

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Онлайн радио по странам | Слушать бесплатно</title>
+    <meta name="description" content="Онлайн радио по странам: Россия, Казахстан, Беларусь, Узбекистан и другие. Быстрый поиск станций по странам и прямой эфир без регистрации." />
+    <meta name="keywords" content="онлайн радио по странам, радио по странам, слушать радио онлайн" />
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://radio-teka.com/countries.html" />
+    <meta property="og:title" content="Онлайн радио по странам | Слушать бесплатно" />
+    <meta property="og:description" content="Каталог радиостанций по странам с быстрым поиском и переходом к эфиру." />
+    <meta property="og:image" content="https://radio-teka.com/logo.jpg" />
+    <link rel="canonical" href="https://radio-teka.com/countries.html" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Онлайн радио по странам",
+        "url": "https://radio-teka.com/countries.html",
+        "inLanguage": "ru"
+      }
+    </script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-browse-mode="countries">
+    <div class="app-shell">
+      <header class="topbar browse-topbar">
+        <div class="brand-block">
+          <img src="./logo2.jpg" alt="Radioteka" class="brand-logo" />
+        </div>
+
+        <div class="browse-header-copy">
+          <p class="eyebrow">Каталог</p>
+          <h1>Страны</h1>
+        </div>
+
+        <div class="topbar-shortcuts" aria-label="Навигация">
+          <a class="topbar-link-btn" href="./index.html">Все станции</a>
+          <a class="topbar-link-btn" href="./genres.html">Жанры</a>
+        </div>
+      </header>
+
+      <main class="browse-layout">
+        <section class="browse-panel">
+          <div class="browse-panel-head">
+            <h2>Выберите страну</h2>
+            <p id="browse-counter">Загрузка...</p>
+          </div>
+          <div id="browse-filters" class="browse-filters"></div>
+          <div class="browse-search-wrap">
+            <input id="browse-search" class="browse-search-input" type="search" placeholder="Поиск станции в выбранной стране..." autocomplete="off" />
+          </div>
+        </section>
+
+        <section class="catalog-panel browse-results-panel">
+          <div id="browse-station-grid" class="station-grid"></div>
+        </section>
+
+        <section class="catalog-panel seo-landing-panel">
+          <div class="panel-heading catalog-heading">
+            <div>
+              <p class="eyebrow">Навигация</p>
+              <h2>Полезные разделы</h2>
+            </div>
+          </div>
+          <ul class="seo-landing-links">
+            <li><a href="./index.html">Онлайн радио на главной странице</a></li>
+            <li><a href="./genres.html">Радио по жанрам</a></li>
+            <li><a href="./tv-online.html">Смотреть ТВ онлайн</a></li>
+          </ul>
+        </section>
+      </main>
+    </div>
+
+    <script src="./yandex-stations.js?v=3"></script>
+    <script src="./stations-data.js"></script>
+    <script src="./browse-page.js?v=1"></script>
+  </body>
+</html>

@@ -182,6 +182,11 @@ function loadResolvedStreamCache() {
 
 const resolvedStreamCache = loadResolvedStreamCache();
 
+const pageParams = new URLSearchParams(window.location.search);
+const requestedStationId = pageParams.get("station");
+const shouldAutoPlayFromUrl = pageParams.get("autoplay") === "1";
+const initialStation = stations.find((station) => station.id === requestedStationId);
+
 function persistResolvedStreamCache() {
   try {
     window.localStorage.setItem(
@@ -194,7 +199,7 @@ function persistResolvedStreamCache() {
 }
 
 const state = {
-  currentId: (stations.find(s => s.id === "yx-nashe") ?? stations[0]).id,
+  currentId: (initialStation ?? stations.find(s => s.id === "yx-nashe") ?? stations[0]).id,
   favorites: new Set(),
   view: "stations",
   genre: "Все",
@@ -1103,3 +1108,8 @@ cityView.addEventListener("click", (event) => {
 });
 
 render();
+
+if (initialStation && shouldAutoPlayFromUrl) {
+  updateStatus(`Подключаем ${initialStation.name}...`);
+  playCurrentStation();
+}

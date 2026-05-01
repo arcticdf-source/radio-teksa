@@ -3,14 +3,23 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Радиотека — все радиостанции в одном месте</title>
-    <meta name="description" content="699 радиостанций онлайн в прямом эфире. Слушайте НАШЕ Радио, Шансон, Ретро FM и сотни других станций бесплатно." />
+    <title>Онлайн радио бесплатно в прямом эфире | Радиотека</title>
+    <meta name="description" content="Онлайн радио в хорошем качестве: НАШЕ Радио, Ретро FM, Европа Плюс и сотни станций. Слушайте радио онлайн бесплатно и без регистрации." />
+    <meta name="keywords" content="онлайн радио, радио онлайн, наше радио слушать онлайн, слушать радио бесплатно" />
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://radio-teka.com/" />
-    <meta property="og:title" content="Радиотека — все радиостанции в одном месте" />
-    <meta property="og:description" content="699 радиостанций онлайн в прямом эфире. Слушайте бесплатно." />
+    <meta property="og:title" content="Онлайн радио бесплатно в прямом эфире | Радиотека" />
+    <meta property="og:description" content="Слушайте онлайн радио бесплатно: популярные станции, подборки по странам и жанрам." />
     <meta property="og:image" content="https://radio-teka.com/logo.jpg" />
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:site_name" content="Радиотека" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Онлайн радио бесплатно в прямом эфире | Радиотека" />
+    <meta name="twitter:description" content="Слушайте онлайн радио бесплатно: популярные станции и тематические подборки." />
+    <meta name="twitter:image" content="https://radio-teka.com/logo.jpg" />
     <link rel="canonical" href="https://radio-teka.com/" />
+    <link rel="alternate" hreflang="ru" href="https://radio-teka.com/" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -18,6 +27,29 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Радиотека",
+        "url": "https://radio-teka.com/",
+        "inLanguage": "ru",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://radio-teka.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Радиотека",
+        "url": "https://radio-teka.com/",
+        "logo": "https://radio-teka.com/logo.jpg"
+      }
+    </script>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%235B3BF5'/%3E%3Cpolygon points='22,16 50,32 22,48' fill='white'/%3E%3Crect x='13' y='27' width='4' height='10' rx='2' fill='white'/%3E%3C/svg%3E" />
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript">
@@ -53,6 +85,11 @@
             />
             <div id="search-suggestions" class="search-suggestions" hidden></div>
           </div>
+        </div>
+
+        <div class="topbar-shortcuts" aria-label="Переход к фильтрам">
+          <a class="topbar-link-btn" href="./genres.html">Жанры</a>
+          <a class="topbar-link-btn" href="./countries.html">Страны</a>
         </div>
 
         <nav class="topbar-nav" id="topbar-nav" hidden></nav>
@@ -133,6 +170,25 @@
           </div>
 
           <div id="station-grid" class="station-grid"></div>
+        </section>
+
+        <section class="catalog-panel seo-landing-panel">
+          <div class="panel-heading catalog-heading">
+            <div>
+              <p class="eyebrow">SEO-разделы</p>
+              <h3>Что можно слушать и смотреть онлайн</h3>
+            </div>
+          </div>
+          <p class="seo-landing-text">
+            Радиотека помогает быстро найти онлайн радио и перейти к тематическим подборкам. Для популярных запросов мы сделали отдельные страницы с удобной навигацией.
+          </p>
+          <ul class="seo-landing-links">
+            <li><a href="./tv-online.html">Смотреть ТВ онлайн</a></li>
+            <li><a href="./nashe-radio-online.html">Наше Радио слушать онлайн</a></li>
+            <li><a href="./kanal-1-online.html">1 канал смотреть онлайн</a></li>
+            <li><a href="./countries.html">Онлайн радио по странам</a></li>
+            <li><a href="./genres.html">Онлайн радио по жанрам</a></li>
+          </ul>
         </section>
       </main>
 
