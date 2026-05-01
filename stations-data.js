@@ -1,4 +1,4 @@
-window.STATIONS = [
+﻿window.STATIONS = [
     {
         "id":  "rp-1002",
         "externalId":  1002,
@@ -6,8 +6,8 @@ window.STATIONS = [
         "stream":  "https://stream.musicaldecadence.ru/live",
         "sourceUrl":  "https://radiopotok.ru/radio/1002",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1002.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -16,12 +16,12 @@ window.STATIONS = [
     {
         "id":  "rp-1004",
         "externalId":  1004,
-        "name":  "Радио Трасса",
+        "name":  "Р Р°РґРёРѕ РўСЂР°СЃСЃР°",
         "stream":  "https://5.restream.one/1004_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1004",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1004.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -30,12 +30,12 @@ window.STATIONS = [
     {
         "id":  "rp-1006",
         "externalId":  1006,
-        "name":  "Радио ИСКАТЕЛЬ",
+        "name":  "Р Р°РґРёРѕ РРЎРљРђРўР•Р›Р¬",
         "stream":  "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1006",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1006.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -44,12 +44,12 @@ window.STATIONS = [
     {
         "id":  "rp-1009",
         "externalId":  1009,
-        "name":  "Радио Голос Бирмы - Голос всей Азии!",
+        "name":  "Р Р°РґРёРѕ Р“РѕР»РѕСЃ Р‘РёСЂРјС‹ - Р“РѕР»РѕСЃ РІСЃРµР№ РђР·РёРё!",
         "stream":  "https://myradio24.org/39982",
         "sourceUrl":  "https://radiopotok.ru/radio/1009",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1009.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -58,12 +58,12 @@ window.STATIONS = [
     {
         "id":  "rp-1010",
         "externalId":  1010,
-        "name":  "Первое сетевое",
+        "name":  "РџРµСЂРІРѕРµ СЃРµС‚РµРІРѕРµ",
         "stream":  "https://streamer.radiovseti.ru:8000/320",
         "sourceUrl":  "https://radiopotok.ru/radio/1010",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1010.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -72,12 +72,12 @@ window.STATIONS = [
     {
         "id":  "rp-1021",
         "externalId":  1021,
-        "name":  "КП Россия",
+        "name":  "РљРџ Р РѕСЃСЃРёСЏ",
         "stream":  "https://listen.radioextreme.ru",
         "sourceUrl":  "https://radiopotok.ru/radio/1021",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1021.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -86,12 +86,12 @@ window.STATIONS = [
     {
         "id":  "rp-1023",
         "externalId":  1023,
-        "name":  "КП Москва",
+        "name":  "РљРџ РњРѕСЃРєРІР°",
         "stream":  "https://hls-01-gpm.hostingradio.ru/comedyradio495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/1023",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1023.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -100,12 +100,12 @@ window.STATIONS = [
     {
         "id":  "rp-1024",
         "externalId":  1024,
-        "name":  "КП Абакан",
+        "name":  "РљРџ РђР±Р°РєР°РЅ",
         "stream":  "https://5.restream.one/1024_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1024",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1024.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -114,12 +114,12 @@ window.STATIONS = [
     {
         "id":  "rp-1025",
         "externalId":  1025,
-        "name":  "КП Барнаул",
+        "name":  "РљРџ Р‘Р°СЂРЅР°СѓР»",
         "stream":  "https://5.restream.one/1025_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1025",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1025.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -128,12 +128,12 @@ window.STATIONS = [
     {
         "id":  "rp-1026",
         "externalId":  1026,
-        "name":  "КП Владимир",
+        "name":  "РљРџ Р’Р»Р°РґРёРјРёСЂ",
         "stream":  "https://5.restream.one/1026_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1026",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1026.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -142,12 +142,12 @@ window.STATIONS = [
     {
         "id":  "rp-1027",
         "externalId":  1027,
-        "name":  "КП Волгоград",
+        "name":  "РљРџ Р’РѕР»РіРѕРіСЂР°Рґ",
         "stream":  "https://5.restream.one/1027_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1027",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1027.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -156,12 +156,12 @@ window.STATIONS = [
     {
         "id":  "rp-1028",
         "externalId":  1028,
-        "name":  "КП Вологда",
+        "name":  "РљРџ Р’РѕР»РѕРіРґР°",
         "stream":  "https://5.restream.one/1028_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1028",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1028.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -170,12 +170,12 @@ window.STATIONS = [
     {
         "id":  "rp-1029",
         "externalId":  1029,
-        "name":  "КП Донецк",
+        "name":  "РљРџ Р”РѕРЅРµС†Рє",
         "stream":  "https://5.restream.one/1029_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1029",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1029.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -184,12 +184,12 @@ window.STATIONS = [
     {
         "id":  "rp-103",
         "externalId":  103,
-        "name":  "КП Красноярск",
+        "name":  "РљРџ РљСЂР°СЃРЅРѕСЏСЂСЃРє",
         "stream":  "https://kpradio.hostingradio.ru:8000/krasnoyrsk.radiokp64.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/103",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/103.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -198,12 +198,12 @@ window.STATIONS = [
     {
         "id":  "rp-1030",
         "externalId":  1030,
-        "name":  "КП Ижевск",
+        "name":  "РљРџ РР¶РµРІСЃРє",
         "stream":  "https://5.restream.one/1030_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1030",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1030.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -212,12 +212,12 @@ window.STATIONS = [
     {
         "id":  "rp-1031",
         "externalId":  1031,
-        "name":  "КП Иркутск",
+        "name":  "РљРџ РСЂРєСѓС‚СЃРє",
         "stream":  "https://5.restream.one/1031_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1031",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1031.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -226,12 +226,12 @@ window.STATIONS = [
     {
         "id":  "rp-1032",
         "externalId":  1032,
-        "name":  "КП Киров",
+        "name":  "РљРџ РљРёСЂРѕРІ",
         "stream":  "https://5.restream.one/1032_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1032",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1032.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -240,12 +240,12 @@ window.STATIONS = [
     {
         "id":  "rp-1033",
         "externalId":  1033,
-        "name":  "КП Липецк",
+        "name":  "РљРџ Р›РёРїРµС†Рє",
         "stream":  "https://5.restream.one/1033_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1033",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1033.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -254,12 +254,12 @@ window.STATIONS = [
     {
         "id":  "rp-1034",
         "externalId":  1034,
-        "name":  "КП Нижний Новгород",
+        "name":  "РљРџ РќРёР¶РЅРёР№ РќРѕРІРіРѕСЂРѕРґ",
         "stream":  "https://5.restream.one/1034_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1034",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1034.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -268,12 +268,12 @@ window.STATIONS = [
     {
         "id":  "rp-1035",
         "externalId":  1035,
-        "name":  "КП Пермь",
+        "name":  "РљРџ РџРµСЂРјСЊ",
         "stream":  "https://5.restream.one/1035_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1035",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1035.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -282,12 +282,12 @@ window.STATIONS = [
     {
         "id":  "rp-1036",
         "externalId":  1036,
-        "name":  "КП Ростов-на-Дону",
+        "name":  "РљРџ Р РѕСЃС‚РѕРІ-РЅР°-Р”РѕРЅСѓ",
         "stream":  "https://5.restream.one/1036_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1036",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1036.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -296,12 +296,12 @@ window.STATIONS = [
     {
         "id":  "rp-1037",
         "externalId":  1037,
-        "name":  "КП Саратов, Энгельс",
+        "name":  "РљРџ РЎР°СЂР°С‚РѕРІ, Р­РЅРіРµР»СЊСЃ",
         "stream":  "https://5.restream.one/1037_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1037",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1037.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -310,12 +310,12 @@ window.STATIONS = [
     {
         "id":  "rp-1038",
         "externalId":  1038,
-        "name":  "КП Ставрополь, Армавир",
+        "name":  "РљРџ РЎС‚Р°РІСЂРѕРїРѕР»СЊ, РђСЂРјР°РІРёСЂ",
         "stream":  "https://5.restream.one/1038_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1038",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1038.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -324,12 +324,12 @@ window.STATIONS = [
     {
         "id":  "rp-1039",
         "externalId":  1039,
-        "name":  "КП Тверь",
+        "name":  "РљРџ РўРІРµСЂСЊ",
         "stream":  "https://5.restream.one/1039_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1039",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1039.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -342,8 +342,8 @@ window.STATIONS = [
         "stream":  "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/104",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/104.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -352,12 +352,12 @@ window.STATIONS = [
     {
         "id":  "rp-1048",
         "externalId":  1048,
-        "name":  "Православное радио «Воскресение»",
+        "name":  "РџСЂР°РІРѕСЃР»Р°РІРЅРѕРµ СЂР°РґРёРѕ В«Р’РѕСЃРєСЂРµСЃРµРЅРёРµВ»",
         "stream":  "https://inra3.pravradio.ru/stream.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1048",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1048.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -366,12 +366,12 @@ window.STATIONS = [
     {
         "id":  "rp-1051",
         "externalId":  1051,
-        "name":  "Народная Волна Чикаго",
+        "name":  "РќР°СЂРѕРґРЅР°СЏ Р’РѕР»РЅР° Р§РёРєР°РіРѕ",
         "stream":  "https://wzru.radioca.st/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1051",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1051.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -384,8 +384,8 @@ window.STATIONS = [
         "stream":  "https://stream.zeno.fm/9588zvzmsxeuv",
         "sourceUrl":  "https://radiopotok.ru/radio/1056",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1056.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -394,12 +394,12 @@ window.STATIONS = [
     {
         "id":  "rp-1060",
         "externalId":  1060,
-        "name":  "Русская реклама",
+        "name":  "Р СѓСЃСЃРєР°СЏ СЂРµРєР»Р°РјР°",
         "stream":  "https://securestreams5.autopo.st:1844/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1060",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1060.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -412,8 +412,8 @@ window.STATIONS = [
         "stream":  "https://stream.pcradio.ru/montecarlo_cf-hi",
         "sourceUrl":  "https://radiopotok.ru/radio/1067",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1067.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -426,8 +426,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1077_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1077",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1077.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -440,8 +440,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1083_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1083",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1083.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -454,8 +454,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1084_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1084",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1084.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -468,8 +468,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1085_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1085",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1085.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -482,8 +482,8 @@ window.STATIONS = [
         "stream":  "https://radio.nueuphoria.com/listen/trance/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1087",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1087.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -492,12 +492,12 @@ window.STATIONS = [
     {
         "id":  "rp-1089",
         "externalId":  1089,
-        "name":  "Радио СОК",
+        "name":  "Р Р°РґРёРѕ РЎРћРљ",
         "stream":  "https://5.restream.one/1089_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1089",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1089.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -506,12 +506,12 @@ window.STATIONS = [
     {
         "id":  "rp-110",
         "externalId":  110,
-        "name":  "Старое детское радио",
+        "name":  "РЎС‚Р°СЂРѕРµ РґРµС‚СЃРєРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://1.restream.one/110_1",
         "sourceUrl":  "https://radiopotok.ru/radio/110",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/110.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -520,12 +520,12 @@ window.STATIONS = [
     {
         "id":  "rp-1104",
         "externalId":  1104,
-        "name":  "ТИПИЧНОЕ FM",
+        "name":  "РўРРџРР§РќРћР• FM",
         "stream":  "https://myradio24.org/9696",
         "sourceUrl":  "https://radiopotok.ru/radio/1104",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1104.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -534,12 +534,12 @@ window.STATIONS = [
     {
         "id":  "rp-1105",
         "externalId":  1105,
-        "name":  "Скала",
+        "name":  "РЎРєР°Р»Р°",
         "stream":  "https://ic1.radiosignal.one/skala",
         "sourceUrl":  "https://radiopotok.ru/radio/1105",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1105.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -548,12 +548,12 @@ window.STATIONS = [
     {
         "id":  "rp-1108",
         "externalId":  1108,
-        "name":  "Детское радио Екатеринбург",
+        "name":  "Р”РµС‚СЃРєРѕРµ СЂР°РґРёРѕ Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
         "stream":  "https://5.restream.one/1108_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1108",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1108.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -562,12 +562,12 @@ window.STATIONS = [
     {
         "id":  "rp-1109",
         "externalId":  1109,
-        "name":  "Comedy Radio Екатеринбург",
+        "name":  "Comedy Radio Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
         "stream":  "https://pub0101.101.ru:8000/v11_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1109",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1109.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -580,8 +580,8 @@ window.STATIONS = [
         "stream":  "https://listen.radionomy.com/swayandbreathe",
         "sourceUrl":  "https://radiopotok.ru/radio/1113",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1113.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -590,12 +590,12 @@ window.STATIONS = [
     {
         "id":  "rp-112",
         "externalId":  112,
-        "name":  "Колыбельная",
+        "name":  "РљРѕР»С‹Р±РµР»СЊРЅР°СЏ",
         "stream":  "https://pub0102.101.ru:8443/stream/pro/aac/64/95",
         "sourceUrl":  "https://radiopotok.ru/radio/112",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/112.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -604,12 +604,12 @@ window.STATIONS = [
     {
         "id":  "rp-1131",
         "externalId":  1131,
-        "name":  "Радио Imagination",
+        "name":  "Р Р°РґРёРѕ Imagination",
         "stream":  "https://5.restream.one/1131_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1131",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1131.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -622,8 +622,8 @@ window.STATIONS = [
         "stream":  "https://drh-node-01.dline-media.com/impulse",
         "sourceUrl":  "https://radiopotok.ru/radio/1135",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1135.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -632,12 +632,12 @@ window.STATIONS = [
     {
         "id":  "rp-1137",
         "externalId":  1137,
-        "name":  "Земля plus",
+        "name":  "Р—РµРјР»СЏ plus",
         "stream":  "https://5.restream.one/1137_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1137",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1137.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -646,12 +646,12 @@ window.STATIONS = [
     {
         "id":  "rp-1138",
         "externalId":  1138,
-        "name":  "Экспресс Радио Орёл",
+        "name":  "Р­РєСЃРїСЂРµСЃСЃ Р Р°РґРёРѕ РћСЂС‘Р»",
         "stream":  "https://obl1.ru/radio-stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1138",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1138.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -660,12 +660,12 @@ window.STATIONS = [
     {
         "id":  "rp-1143",
         "externalId":  1143,
-        "name":  "Радио Ангелов",
+        "name":  "Р Р°РґРёРѕ РђРЅРіРµР»РѕРІ",
         "stream":  "https://5.restream.one/1143_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1143",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1143.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -678,8 +678,8 @@ window.STATIONS = [
         "stream":  "https://stream.laut.fm/1_slowradio",
         "sourceUrl":  "https://radiopotok.ru/radio/1152",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1152.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -688,12 +688,12 @@ window.STATIONS = [
     {
         "id":  "rp-1155",
         "externalId":  1155,
-        "name":  "Радио Гамаюн",
+        "name":  "Р Р°РґРёРѕ Р“Р°РјР°СЋРЅ",
         "stream":  "https://gamaun.online:8025/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1155",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1155.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -706,8 +706,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1163_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1163",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1163.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -720,8 +720,8 @@ window.STATIONS = [
         "stream":  "https://radio.bananastreet.ru/sound",
         "sourceUrl":  "https://radiopotok.ru/radio/1164",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1164.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -734,8 +734,8 @@ window.STATIONS = [
         "stream":  "https://s2.metaradio.ru/mradio.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/1168",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1168.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -744,12 +744,12 @@ window.STATIONS = [
     {
         "id":  "rp-1175",
         "externalId":  1175,
-        "name":  "Русское FM",
+        "name":  "Р СѓСЃСЃРєРѕРµ FM",
         "stream":  "https://rufm.amgradio.ru/rufm",
         "sourceUrl":  "https://radiopotok.ru/radio/1175",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1175.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -758,12 +758,12 @@ window.STATIONS = [
     {
         "id":  "rp-1177",
         "externalId":  1177,
-        "name":  "Страна FM",
+        "name":  "РЎС‚СЂР°РЅР° FM",
         "stream":  "https://icecast-stranafm.cdnvideo.ru/stranafm_128",
         "sourceUrl":  "https://radiopotok.ru/radio/1177",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1177.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -772,12 +772,12 @@ window.STATIONS = [
     {
         "id":  "rp-118",
         "externalId":  118,
-        "name":  "Новая Жизнь",
+        "name":  "РќРѕРІР°СЏ Р–РёР·РЅСЊ",
         "stream":  "https://nlradio.stream:8000/nlradio-low.aac",
         "sourceUrl":  "https://radiopotok.ru/radio/118",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/118.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -790,8 +790,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1181_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1181",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1181.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -800,12 +800,12 @@ window.STATIONS = [
     {
         "id":  "rp-1195",
         "externalId":  1195,
-        "name":  "Радио Верста",
+        "name":  "Р Р°РґРёРѕ Р’РµСЂСЃС‚Р°",
         "stream":  "https://panel.radioversta.ru:1045/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1195",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1195.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -814,12 +814,12 @@ window.STATIONS = [
     {
         "id":  "rp-1198",
         "externalId":  1198,
-        "name":  "ЯсенБит",
+        "name":  "РЇСЃРµРЅР‘РёС‚",
         "stream":  "https://5.restream.one/1198_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1198",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1198.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -832,8 +832,8 @@ window.STATIONS = [
         "stream":  "https://stream.freshrock.net/128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1199",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1199.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -842,12 +842,12 @@ window.STATIONS = [
     {
         "id":  "rp-1201",
         "externalId":  1201,
-        "name":  "Средиземноморская смесь",
+        "name":  "РЎСЂРµРґРёР·РµРјРЅРѕРјРѕСЂСЃРєР°СЏ СЃРјРµСЃСЊ",
         "stream":  "https://s0.radioheart.ru:8000/RH20728",
         "sourceUrl":  "https://radiopotok.ru/radio/1201",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1201.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -860,8 +860,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1209_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1209",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1209.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -870,12 +870,12 @@ window.STATIONS = [
     {
         "id":  "rp-1215",
         "externalId":  1215,
-        "name":  "Виктори Рок",
+        "name":  "Р’РёРєС‚РѕСЂРё Р РѕРє",
         "stream":  "https://5.restream.one/1215_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1215",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1215.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -884,12 +884,12 @@ window.STATIONS = [
     {
         "id":  "rp-1216",
         "externalId":  1216,
-        "name":  "Радио SPB1",
+        "name":  "Р Р°РґРёРѕ SPB1",
         "stream":  "https://myradio24.org/2666",
         "sourceUrl":  "https://radiopotok.ru/radio/1216",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1216.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -898,12 +898,12 @@ window.STATIONS = [
     {
         "id":  "rp-1218",
         "externalId":  1218,
-        "name":  "ТНТ MUSIC RADIO",
+        "name":  "РўРќРў MUSIC RADIO",
         "stream":  "https://tntradio.hostingradio.ru:8027/tntradio128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1218",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1218.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -916,8 +916,8 @@ window.STATIONS = [
         "stream":  "https://air.volna.top/SideLine48",
         "sourceUrl":  "https://radiopotok.ru/radio/1230",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1230.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -926,12 +926,12 @@ window.STATIONS = [
     {
         "id":  "rp-1236",
         "externalId":  1236,
-        "name":  "Север FM - 87.5",
+        "name":  "РЎРµРІРµСЂ FM - 87.5",
         "stream":  "https://radio.dline-media.com/severfm",
         "sourceUrl":  "https://radiopotok.ru/radio/1236",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1236.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -944,8 +944,8 @@ window.STATIONS = [
         "stream":  "https://dancewave.online/dance.ogg",
         "sourceUrl":  "https://radiopotok.ru/radio/1237",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1237.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -958,8 +958,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1241_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1241",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1241.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -972,8 +972,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/1242_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1242",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1242.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -986,8 +986,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/1243_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1243",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1243.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1000,8 +1000,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/1244_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1244",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1244.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1010,12 +1010,12 @@ window.STATIONS = [
     {
         "id":  "rp-1251",
         "externalId":  1251,
-        "name":  "Город Кудрово",
+        "name":  "Р“РѕСЂРѕРґ РљСѓРґСЂРѕРІРѕ",
         "stream":  "https://c16.radioboss.fm:18137/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1251",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1251.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1024,12 +1024,12 @@ window.STATIONS = [
     {
         "id":  "rp-1252",
         "externalId":  1252,
-        "name":  "Пульс-Радио",
+        "name":  "РџСѓР»СЊСЃ-Р Р°РґРёРѕ",
         "stream":  "https://5.restream.one/1252_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1252",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1252.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1038,12 +1038,12 @@ window.STATIONS = [
     {
         "id":  "rp-1258",
         "externalId":  1258,
-        "name":  "Радио Go / Radio Go (Russia)",
+        "name":  "Р Р°РґРёРѕ Go / Radio Go (Russia)",
         "stream":  "https://listen.myrh.ru/go",
         "sourceUrl":  "https://radiopotok.ru/radio/1258",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1258.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1056,8 +1056,8 @@ window.STATIONS = [
         "stream":  "https://h.getradio.me/spdeep/hls.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/1260",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1260.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1070,8 +1070,8 @@ window.STATIONS = [
         "stream":  "https://listen2.myradio24.com/8795",
         "sourceUrl":  "https://radiopotok.ru/radio/1262",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1262.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1080,12 +1080,12 @@ window.STATIONS = [
     {
         "id":  "rp-1264",
         "externalId":  1264,
-        "name":  "Компот FM",
+        "name":  "РљРѕРјРїРѕС‚ FM",
         "stream":  "https://5.restream.one/1264_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1264",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1264.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1098,8 +1098,8 @@ window.STATIONS = [
         "stream":  "https://listen.gtiradio.ru/radiomid",
         "sourceUrl":  "https://radiopotok.ru/radio/127",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/127.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1108,12 +1108,12 @@ window.STATIONS = [
     {
         "id":  "rp-1286",
         "externalId":  1286,
-        "name":  "Междугородье",
+        "name":  "РњРµР¶РґСѓРіРѕСЂРѕРґСЊРµ",
         "stream":  "https://a.mgradio.ru:8001/live",
         "sourceUrl":  "https://radiopotok.ru/radio/1286",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1286.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1122,12 +1122,12 @@ window.STATIONS = [
     {
         "id":  "rp-1287",
         "externalId":  1287,
-        "name":  "ПЖД Рок",
+        "name":  "РџР–Р” Р РѕРє",
         "stream":  "https://5.restream.one/1287_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1287",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1287.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1136,12 +1136,12 @@ window.STATIONS = [
     {
         "id":  "rp-129",
         "externalId":  129,
-        "name":  "Милицейская Волна",
+        "name":  "РњРёР»РёС†РµР№СЃРєР°СЏ Р’РѕР»РЅР°",
         "stream":  "https://radiomv.hostingradio.ru:80/radiomv128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/129",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/129.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1150,12 +1150,12 @@ window.STATIONS = [
     {
         "id":  "rp-1297",
         "externalId":  1297,
-        "name":  "Радио Радонеж",
+        "name":  "Р Р°РґРёРѕ Р Р°РґРѕРЅРµР¶",
         "stream":  "https://icecast-radonezh.cdnvideo.ru/rad128",
         "sourceUrl":  "https://radiopotok.ru/radio/1297",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1297.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1164,12 +1164,12 @@ window.STATIONS = [
     {
         "id":  "rp-1300",
         "externalId":  1300,
-        "name":  "Радио Dendy-Collection",
+        "name":  "Р Р°РґРёРѕ Dendy-Collection",
         "stream":  "https://sergeisam.fvds.ru:4485/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1300",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1300.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1182,8 +1182,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1308_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1308",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1308.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1196,8 +1196,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa2.cdnstream1.com/2210_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1320",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1320.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1206,12 +1206,12 @@ window.STATIONS = [
     {
         "id":  "rp-1323",
         "externalId":  1323,
-        "name":  "Маруся ФМ",
+        "name":  "РњР°СЂСѓСЃСЏ Р¤Рњ",
         "stream":  "https://listen.vdfm.ru:8000/marusya",
         "sourceUrl":  "https://radiopotok.ru/radio/1323",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1323.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1224,8 +1224,8 @@ window.STATIONS = [
         "stream":  "https://stream.pcradio.ru/synth_radio_ru-med",
         "sourceUrl":  "https://radiopotok.ru/radio/1324",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1324.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1238,8 +1238,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1327_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1327",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1327.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1248,12 +1248,12 @@ window.STATIONS = [
     {
         "id":  "rp-1328",
         "externalId":  1328,
-        "name":  "Виктори Поп-музыка",
+        "name":  "Р’РёРєС‚РѕСЂРё РџРѕРї-РјСѓР·С‹РєР°",
         "stream":  "https://5.restream.one/1328_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1328",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1328.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1262,12 +1262,12 @@ window.STATIONS = [
     {
         "id":  "rp-133",
         "externalId":  133,
-        "name":  "БИМ радио",
+        "name":  "Р‘РРњ СЂР°РґРёРѕ",
         "stream":  "https://av.bimradio.ru/bim_mp3_128k",
         "sourceUrl":  "https://radiopotok.ru/radio/133",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/133.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1276,12 +1276,12 @@ window.STATIONS = [
     {
         "id":  "rp-1333",
         "externalId":  1333,
-        "name":  "Costa Del Mar – Dance",
+        "name":  "Costa Del Mar вЂ“ Dance",
         "stream":  "https://1.restream.one/1333_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1333",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1333.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1294,8 +1294,8 @@ window.STATIONS = [
         "stream":  "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1336",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1336.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1308,8 +1308,8 @@ window.STATIONS = [
         "stream":  "https://c16.radioboss.fm:18258/radioessential",
         "sourceUrl":  "https://radiopotok.ru/radio/1341",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1341.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1318,12 +1318,12 @@ window.STATIONS = [
     {
         "id":  "rp-1342",
         "externalId":  1342,
-        "name":  "КП Санкт-Петербург",
+        "name":  "РљРџ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі",
         "stream":  "https://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1342",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1342.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1332,12 +1332,12 @@ window.STATIONS = [
     {
         "id":  "rp-1343",
         "externalId":  1343,
-        "name":  "КП Самара",
+        "name":  "РљРџ РЎР°РјР°СЂР°",
         "stream":  "https://kpradio.hostingradio.ru:8000/samara.radiokp128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1343",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1343.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1350,8 +1350,8 @@ window.STATIONS = [
         "stream":  "https://a6.radioheart.ru:9046/RH1972",
         "sourceUrl":  "https://radiopotok.ru/radio/1347",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1347.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1364,8 +1364,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1354_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1354",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1354.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1374,12 +1374,12 @@ window.STATIONS = [
     {
         "id":  "rp-1360",
         "externalId":  1360,
-        "name":  "Неслучайное Радио",
+        "name":  "РќРµСЃР»СѓС‡Р°Р№РЅРѕРµ Р Р°РґРёРѕ",
         "stream":  "https://aska.ru-hoster.com:8006/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1360",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1360.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1388,12 +1388,12 @@ window.STATIONS = [
     {
         "id":  "rp-1362",
         "externalId":  1362,
-        "name":  "Радио Родных Дорог",
+        "name":  "Р Р°РґРёРѕ Р РѕРґРЅС‹С… Р”РѕСЂРѕРі",
         "stream":  "https://stream1.radiord.ru:8000/live128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1362",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1362.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1406,8 +1406,8 @@ window.STATIONS = [
         "stream":  "https://listen.hardbase.fm/tunein-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1363",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1363.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1416,12 +1416,12 @@ window.STATIONS = [
     {
         "id":  "rp-1365",
         "externalId":  1365,
-        "name":  "Орфей",
+        "name":  "РћСЂС„РµР№",
         "stream":  "https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1365",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1365.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1434,8 +1434,8 @@ window.STATIONS = [
         "stream":  "https://kamchatkalive.ru:8103/dance",
         "sourceUrl":  "https://radiopotok.ru/radio/1369",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1369.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1448,8 +1448,8 @@ window.STATIONS = [
         "stream":  "https://kamchatkalive.ru:8103/rock",
         "sourceUrl":  "https://radiopotok.ru/radio/1370",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1370.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1462,8 +1462,8 @@ window.STATIONS = [
         "stream":  "https://kamchatkalive.ru:8103/chillout",
         "sourceUrl":  "https://radiopotok.ru/radio/1371",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1371.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1472,12 +1472,12 @@ window.STATIONS = [
     {
         "id":  "rp-1374",
         "externalId":  1374,
-        "name":  "Правильное радио",
+        "name":  "РџСЂР°РІРёР»СЊРЅРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://5.restream.one/1374_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1374",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1374.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1490,8 +1490,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/138_1",
         "sourceUrl":  "https://radiopotok.ru/radio/138",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/138.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1500,12 +1500,12 @@ window.STATIONS = [
     {
         "id":  "rp-1385",
         "externalId":  1385,
-        "name":  "Радио-3",
+        "name":  "Р Р°РґРёРѕ-3",
         "stream":  "https://5.restream.one/1385_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1385",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1385.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1514,12 +1514,12 @@ window.STATIONS = [
     {
         "id":  "rp-1386",
         "externalId":  1386,
-        "name":  "DFM Краснодар",
+        "name":  "DFM РљСЂР°СЃРЅРѕРґР°СЂ",
         "stream":  "https://5.restream.one/1386_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1386",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1386.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1532,8 +1532,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1392_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1392",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1392.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1542,12 +1542,12 @@ window.STATIONS = [
     {
         "id":  "rp-1395",
         "externalId":  1395,
-        "name":  "Детский Хит",
+        "name":  "Р”РµС‚СЃРєРёР№ РҐРёС‚",
         "stream":  "https://deti.amgradio.ru/Deti",
         "sourceUrl":  "https://radiopotok.ru/radio/1395",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1395.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1556,12 +1556,12 @@ window.STATIONS = [
     {
         "id":  "rp-1399",
         "externalId":  1399,
-        "name":  "Мариинский ФМ",
+        "name":  "РњР°СЂРёРёРЅСЃРєРёР№ Р¤Рњ",
         "stream":  "https://radio.mariinsky.ru/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1399",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1399.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1570,12 +1570,12 @@ window.STATIONS = [
     {
         "id":  "rp-1403",
         "externalId":  1403,
-        "name":  "Радио Сибирь Омск",
+        "name":  "Р Р°РґРёРѕ РЎРёР±РёСЂСЊ РћРјСЃРє",
         "stream":  "https://5.restream.one/1403_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1403",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1403.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1584,12 +1584,12 @@ window.STATIONS = [
     {
         "id":  "rp-1405",
         "externalId":  1405,
-        "name":  "Авторадио Красноярск",
+        "name":  "РђРІС‚РѕСЂР°РґРёРѕ РљСЂР°СЃРЅРѕСЏСЂСЃРє",
         "stream":  "https://pub0201.101.ru:8443/stream/reg/mp3/128/region_avto_86",
         "sourceUrl":  "https://radiopotok.ru/radio/1405",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1405.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1602,8 +1602,8 @@ window.STATIONS = [
         "stream":  "https://nashe1.hostingradio.ru/best-128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1413",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1413.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1616,8 +1616,8 @@ window.STATIONS = [
         "stream":  "https://nashe1.hostingradio.ru:18000/ultra-128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1414",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1414.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1630,8 +1630,8 @@ window.STATIONS = [
         "stream":  "https://play.radio13.ru/64",
         "sourceUrl":  "https://radiopotok.ru/radio/142",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/142.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1640,12 +1640,12 @@ window.STATIONS = [
     {
         "id":  "rp-1427",
         "externalId":  1427,
-        "name":  "Радио «Петербург»",
+        "name":  "Р Р°РґРёРѕ В«РџРµС‚РµСЂР±СѓСЂРіВ»",
         "stream":  "https://www.5-tv.ru/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1427",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1427.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1658,8 +1658,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1432_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1432",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1432.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1672,8 +1672,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1441_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1441",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1441.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1682,12 +1682,12 @@ window.STATIONS = [
     {
         "id":  "rp-145",
         "externalId":  145,
-        "name":  "Пилот-Радио",
+        "name":  "РџРёР»РѕС‚-Р Р°РґРёРѕ",
         "stream":  "https://stream.pilotradio.ru/pilotradio",
         "sourceUrl":  "https://radiopotok.ru/radio/145",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/145.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1696,12 +1696,12 @@ window.STATIONS = [
     {
         "id":  "rp-1450",
         "externalId":  1450,
-        "name":  "Русское Кино",
+        "name":  "Р СѓСЃСЃРєРѕРµ РљРёРЅРѕ",
         "stream":  "https://rr-russkoekino.hostingradio.ru/russkoekino96.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/1450",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1450.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1714,8 +1714,8 @@ window.STATIONS = [
         "stream":  "https://ice6.somafm.com/secretagent-128-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1454",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1454.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1728,8 +1728,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1456_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1456",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1456.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1742,8 +1742,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1458_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1458",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1458.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1756,8 +1756,8 @@ window.STATIONS = [
         "stream":  "https://chiru.no/stream.flac",
         "sourceUrl":  "https://radiopotok.ru/radio/1459",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1459.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1766,12 +1766,12 @@ window.STATIONS = [
     {
         "id":  "rp-1460",
         "externalId":  1460,
-        "name":  "Музыка кино",
+        "name":  "РњСѓР·С‹РєР° РєРёРЅРѕ",
         "stream":  "https://channels.fonotron.ru:8000/Chan_9_192.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1460",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1460.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1780,12 +1780,12 @@ window.STATIONS = [
     {
         "id":  "rp-1461",
         "externalId":  1461,
-        "name":  "Музыка мюзиклов",
+        "name":  "РњСѓР·С‹РєР° РјСЋР·РёРєР»РѕРІ",
         "stream":  "https://channels.fonotron.ru:8000/Chan_66_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1461",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1461.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1794,12 +1794,12 @@ window.STATIONS = [
     {
         "id":  "rp-1464",
         "externalId":  1464,
-        "name":  "Литературное радио",
+        "name":  "Р›РёС‚РµСЂР°С‚СѓСЂРЅРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://5.restream.one/1464_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1464",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1464.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1808,12 +1808,12 @@ window.STATIONS = [
     {
         "id":  "rp-1465",
         "externalId":  1465,
-        "name":  "Модель для сборки / МДС",
+        "name":  "РњРѕРґРµР»СЊ РґР»СЏ СЃР±РѕСЂРєРё / РњР”РЎ",
         "stream":  "https://mds-station.com:8443/mds",
         "sourceUrl":  "https://radiopotok.ru/radio/1465",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1465.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1822,12 +1822,12 @@ window.STATIONS = [
     {
         "id":  "rp-1468",
         "externalId":  1468,
-        "name":  "Старое радио",
+        "name":  "РЎС‚Р°СЂРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://5.restream.one/1468_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1468",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1468.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1840,8 +1840,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1469_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1469",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1469.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1850,12 +1850,12 @@ window.STATIONS = [
     {
         "id":  "rp-147",
         "externalId":  147,
-        "name":  "Аплюс ONE",
+        "name":  "РђРїР»СЋСЃ ONE",
         "stream":  "https://s.aplus.fm/aplus_128",
         "sourceUrl":  "https://radiopotok.ru/radio/147",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/147.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1868,8 +1868,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1470_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1470",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1470.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1882,8 +1882,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1476_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1476",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1476.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1892,12 +1892,12 @@ window.STATIONS = [
     {
         "id":  "rp-1477",
         "externalId":  1477,
-        "name":  "DFM Орск 104.1 FM",
+        "name":  "DFM РћСЂСЃРє 104.1 FM",
         "stream":  "https://ural56-icecast.cdnvideo.ru/radio_dfmorsk",
         "sourceUrl":  "https://radiopotok.ru/radio/1477",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1477.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1910,8 +1910,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1478_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1478",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1478.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1920,12 +1920,12 @@ window.STATIONS = [
     {
         "id":  "rp-1481",
         "externalId":  1481,
-        "name":  "Allinstars Радио",
+        "name":  "Allinstars Р Р°РґРёРѕ",
         "stream":  "https://5.restream.one/1481_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1481",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1481.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1934,12 +1934,12 @@ window.STATIONS = [
     {
         "id":  "rp-1482",
         "externalId":  1482,
-        "name":  "Веда-радио",
+        "name":  "Р’РµРґР°-СЂР°РґРёРѕ",
         "stream":  "https://5.restream.one/1482_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1482",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1482.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1952,8 +1952,8 @@ window.STATIONS = [
         "stream":  "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
         "sourceUrl":  "https://radiopotok.ru/radio/1483",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1483.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1966,8 +1966,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1484_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1484",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1484.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1980,8 +1980,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1485_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1485",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1485.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -1994,8 +1994,8 @@ window.STATIONS = [
         "stream":  "https://neos.win:48420/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1486",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1486.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2008,8 +2008,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1487_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1487",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1487.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2022,8 +2022,8 @@ window.STATIONS = [
         "stream":  "https://ice3.somafm.com/dronezone-128-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1489",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1489.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2036,8 +2036,8 @@ window.STATIONS = [
         "stream":  "https://ice3.somafm.com/beatblender-128-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1490",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1490.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2050,8 +2050,8 @@ window.STATIONS = [
         "stream":  "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1491",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1491.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2064,8 +2064,8 @@ window.STATIONS = [
         "stream":  "https://play.yogaradio.fm/YOGAradio",
         "sourceUrl":  "https://radiopotok.ru/radio/1492",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1492.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2078,8 +2078,8 @@ window.STATIONS = [
         "stream":  "https://hydra.cdnstream.com/1822_128",
         "sourceUrl":  "https://radiopotok.ru/radio/1494",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1494.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2092,8 +2092,8 @@ window.STATIONS = [
         "stream":  "https://h.getradio.me/rcmdeep/hls.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/1496",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1496.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2102,12 +2102,12 @@ window.STATIONS = [
     {
         "id":  "rp-1500",
         "externalId":  1500,
-        "name":  "ПЕРВОЕ портальное",
+        "name":  "РџР•Р Р’РћР• РїРѕСЂС‚Р°Р»СЊРЅРѕРµ",
         "stream":  "https://myradio24.org/2200",
         "sourceUrl":  "https://radiopotok.ru/radio/1500",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1500.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2120,8 +2120,8 @@ window.STATIONS = [
         "stream":  "https://radio2.vip-radios.fm:18018/stream-128kmp3-IbizaChill",
         "sourceUrl":  "https://radiopotok.ru/radio/1504",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1504.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2134,8 +2134,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1505_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1505",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1505.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2144,12 +2144,12 @@ window.STATIONS = [
     {
         "id":  "rp-1506",
         "externalId":  1506,
-        "name":  "Ibiza Radios - Deep–House",
+        "name":  "Ibiza Radios - DeepвЂ“House",
         "stream":  "https://radio2.vip-radios.fm:18027/stream-128kmp3-IbizaDeep",
         "sourceUrl":  "https://radiopotok.ru/radio/1506",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1506.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2162,8 +2162,8 @@ window.STATIONS = [
         "stream":  "https://radio2.vip-radios.fm:18030/stream-128kmp3-IbizaFunky",
         "sourceUrl":  "https://radiopotok.ru/radio/1507",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1507.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2176,8 +2176,8 @@ window.STATIONS = [
         "stream":  "https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits",
         "sourceUrl":  "https://radiopotok.ru/radio/1508",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1508.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2190,8 +2190,8 @@ window.STATIONS = [
         "stream":  "https://radio2.vip-radios.fm:18036/stream-128kmp3-IbizaRelax",
         "sourceUrl":  "https://radiopotok.ru/radio/1509",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1509.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2200,12 +2200,12 @@ window.STATIONS = [
     {
         "id":  "rp-1510",
         "externalId":  1510,
-        "name":  "Ibiza Radios – Smooth Jazz",
+        "name":  "Ibiza Radios вЂ“ Smooth Jazz",
         "stream":  "https://radio2.vip-radios.fm:18033/stream-128kmp3-IbizaSmooth",
         "sourceUrl":  "https://radiopotok.ru/radio/1510",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1510.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2218,8 +2218,8 @@ window.STATIONS = [
         "stream":  "https://streaming.live365.com/b05055_128mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1511",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1511.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2232,8 +2232,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/newageradio",
         "sourceUrl":  "https://radiopotok.ru/radio/1512",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1512.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2246,8 +2246,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/walcon",
         "sourceUrl":  "https://radiopotok.ru/radio/1518",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1518.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2260,8 +2260,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1519_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1519",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1519.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2274,8 +2274,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1527_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1527",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1527.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2288,8 +2288,8 @@ window.STATIONS = [
         "stream":  "https://stream.laut.fm/alexfm",
         "sourceUrl":  "https://radiopotok.ru/radio/1528",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1528.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2302,8 +2302,8 @@ window.STATIONS = [
         "stream":  "https://stream.laut.fm/grazfm",
         "sourceUrl":  "https://radiopotok.ru/radio/1530",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1530.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2312,12 +2312,12 @@ window.STATIONS = [
     {
         "id":  "rp-1536",
         "externalId":  1536,
-        "name":  "ЯпаРадио",
+        "name":  "РЇРїР°Р Р°РґРёРѕ",
         "stream":  "https://myradio24.org/94624",
         "sourceUrl":  "https://radiopotok.ru/radio/1536",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1536.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2326,12 +2326,12 @@ window.STATIONS = [
     {
         "id":  "rp-1539",
         "externalId":  1539,
-        "name":  "Шансон без цензуры",
+        "name":  "РЁР°РЅСЃРѕРЅ Р±РµР· С†РµРЅР·СѓСЂС‹",
         "stream":  "https://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1539",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1539.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2340,12 +2340,12 @@ window.STATIONS = [
     {
         "id":  "rp-1540",
         "externalId":  1540,
-        "name":  "Романтический шансон",
+        "name":  "Р РѕРјР°РЅС‚РёС‡РµСЃРєРёР№ С€Р°РЅСЃРѕРЅ",
         "stream":  "https://chanson.hostingradio.ru:8041/chanson-romantic256.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1540",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1540.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2354,12 +2354,12 @@ window.STATIONS = [
     {
         "id":  "rp-1543",
         "externalId":  1543,
-        "name":  "Русская Волна",
+        "name":  "Р СѓСЃСЃРєР°СЏ Р’РѕР»РЅР°",
         "stream":  "https://rp.amgradio.ru/RuWave48",
         "sourceUrl":  "https://radiopotok.ru/radio/1543",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1543.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2368,12 +2368,12 @@ window.STATIONS = [
     {
         "id":  "rp-1547",
         "externalId":  1547,
-        "name":  "Калина Красная",
+        "name":  "РљР°Р»РёРЅР° РљСЂР°СЃРЅР°СЏ",
         "stream":  "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
         "sourceUrl":  "https://radiopotok.ru/radio/1547",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1547.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2386,8 +2386,8 @@ window.STATIONS = [
         "stream":  "https://a5.radioheart.ru:9012/RH1916",
         "sourceUrl":  "https://radiopotok.ru/radio/1549",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1549.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2396,12 +2396,12 @@ window.STATIONS = [
     {
         "id":  "rp-1551",
         "externalId":  1551,
-        "name":  "Радио странствий",
+        "name":  "Р Р°РґРёРѕ СЃС‚СЂР°РЅСЃС‚РІРёР№",
         "stream":  "https://myradio24.org/4156",
         "sourceUrl":  "https://radiopotok.ru/radio/1551",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1551.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2410,12 +2410,12 @@ window.STATIONS = [
     {
         "id":  "rp-1556",
         "externalId":  1556,
-        "name":  "Машенька",
+        "name":  "РњР°С€РµРЅСЊРєР°",
         "stream":  "https://sergeisam.fvds.ru:5385/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1556",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1556.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2428,8 +2428,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1558_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1558",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1558.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2442,8 +2442,8 @@ window.STATIONS = [
         "stream":  "https://xn--80aimyg.xn--80adalbbu8afeb9k.xn--p1ai:8000/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1561",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1561.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2456,8 +2456,8 @@ window.STATIONS = [
         "stream":  "https://azura.radioplato.by/radio/8000/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1562",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1562.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2466,12 +2466,12 @@ window.STATIONS = [
     {
         "id":  "rp-1567",
         "externalId":  1567,
-        "name":  "ХАЙП FM",
+        "name":  "РҐРђР™Рџ FM",
         "stream":  "https://hfm.amgradio.ru/HypeFM",
         "sourceUrl":  "https://radiopotok.ru/radio/1567",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1567.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2484,8 +2484,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1569_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1569",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1569.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2494,12 +2494,12 @@ window.STATIONS = [
     {
         "id":  "rp-1570",
         "externalId":  1570,
-        "name":  "Ретро Хит",
+        "name":  "Р РµС‚СЂРѕ РҐРёС‚",
         "stream":  "https://retro.amgradio.ru/Retro",
         "sourceUrl":  "https://radiopotok.ru/radio/1570",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1570.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2508,12 +2508,12 @@ window.STATIONS = [
     {
         "id":  "rp-1574",
         "externalId":  1574,
-        "name":  "ЖАРА FM",
+        "name":  "Р–РђР Рђ FM",
         "stream":  "https://hls01.zharafm.ru/hls/live.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/1574",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1574.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2522,12 +2522,12 @@ window.STATIONS = [
     {
         "id":  "rp-1576",
         "externalId":  1576,
-        "name":  "Европа Плюс",
+        "name":  "Р•РІСЂРѕРїР° РџР»СЋСЃ",
         "stream":  "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/1576",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1576.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2536,12 +2536,12 @@ window.STATIONS = [
     {
         "id":  "rp-1579",
         "externalId":  1579,
-        "name":  "DWGradio Радио Слово Божие",
+        "name":  "DWGradio Р Р°РґРёРѕ РЎР»РѕРІРѕ Р‘РѕР¶РёРµ",
         "stream":  "https://server32349.streamplus.de/;stream.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1579",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1579.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2550,12 +2550,12 @@ window.STATIONS = [
     {
         "id":  "rp-158",
         "externalId":  158,
-        "name":  "Радиогора (Radiogora)",
+        "name":  "Р Р°РґРёРѕРіРѕСЂР° (Radiogora)",
         "stream":  "https://skycaster.ru/8114/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/158",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/158.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2564,12 +2564,12 @@ window.STATIONS = [
     {
         "id":  "rp-1580",
         "externalId":  1580,
-        "name":  "Славянскiй МIРЪ",
+        "name":  "РЎР»Р°РІСЏРЅСЃРєiР№ РњIР РЄ",
         "stream":  "https://hls-01-slavmir.hostingradio.ru/slavmir/96/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/1580",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1580.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2578,12 +2578,12 @@ window.STATIONS = [
     {
         "id":  "rp-1582",
         "externalId":  1582,
-        "name":  "Мегахит",
+        "name":  "РњРµРіР°С…РёС‚",
         "stream":  "https://listen.megahit.online/megamp128",
         "sourceUrl":  "https://radiopotok.ru/radio/1582",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1582.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2592,12 +2592,12 @@ window.STATIONS = [
     {
         "id":  "rp-1587",
         "externalId":  1587,
-        "name":  "АБСОЛЮТ парк радио",
+        "name":  "РђР‘РЎРћР›Р®Рў РїР°СЂРє СЂР°РґРёРѕ",
         "stream":  "https://myradio24.org/absolutrad",
         "sourceUrl":  "https://radiopotok.ru/radio/1587",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1587.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2610,8 +2610,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1588_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1588",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1588.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2624,8 +2624,8 @@ window.STATIONS = [
         "stream":  "https://s0.radioheart.ru:8000/RH3355",
         "sourceUrl":  "https://radiopotok.ru/radio/1589",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1589.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2634,12 +2634,12 @@ window.STATIONS = [
     {
         "id":  "rp-1590",
         "externalId":  1590,
-        "name":  "Радио Линия",
+        "name":  "Р Р°РґРёРѕ Р›РёРЅРёСЏ",
         "stream":  "https://listen.myrh.ru/id02707",
         "sourceUrl":  "https://radiopotok.ru/radio/1590",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1590.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2648,12 +2648,12 @@ window.STATIONS = [
     {
         "id":  "rp-1592",
         "externalId":  1592,
-        "name":  "Гламурная волна",
+        "name":  "Р“Р»Р°РјСѓСЂРЅР°СЏ РІРѕР»РЅР°",
         "stream":  "https://stream.laut.fm/glamwave",
         "sourceUrl":  "https://radiopotok.ru/radio/1592",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1592.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2662,12 +2662,12 @@ window.STATIONS = [
     {
         "id":  "rp-1594",
         "externalId":  1594,
-        "name":  "Русский Рок",
+        "name":  "Р СѓСЃСЃРєРёР№ Р РѕРє",
         "stream":  "https://rock.amgradio.ru/RusRock",
         "sourceUrl":  "https://radiopotok.ru/radio/1594",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1594.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2680,8 +2680,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/4592",
         "sourceUrl":  "https://radiopotok.ru/radio/1599",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1599.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2694,8 +2694,8 @@ window.STATIONS = [
         "stream":  "https://cafe.amgradio.ru/Cafe",
         "sourceUrl":  "https://radiopotok.ru/radio/1601",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1601.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2704,12 +2704,12 @@ window.STATIONS = [
     {
         "id":  "rp-1606",
         "externalId":  1606,
-        "name":  "Радио Юность",
+        "name":  "Р Р°РґРёРѕ Р®РЅРѕСЃС‚СЊ",
         "stream":  "https://stream.volnorez.com/live-app/127912",
         "sourceUrl":  "https://radiopotok.ru/radio/1606",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1606.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2718,12 +2718,12 @@ window.STATIONS = [
     {
         "id":  "rp-1607",
         "externalId":  1607,
-        "name":  "Центр FM",
+        "name":  "Р¦РµРЅС‚СЂ FM",
         "stream":  "https://stream2.datacenter.by/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1607",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1607.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2736,8 +2736,8 @@ window.STATIONS = [
         "stream":  "https://a1.radioheart.ru:9019/liferadioru",
         "sourceUrl":  "https://radiopotok.ru/radio/1610",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1610.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2746,12 +2746,12 @@ window.STATIONS = [
     {
         "id":  "rp-1614",
         "externalId":  1614,
-        "name":  "Севастополь FM",
+        "name":  "РЎРµРІР°СЃС‚РѕРїРѕР»СЊ FM",
         "stream":  "https://sfm.amgradio.ru/SFM",
         "sourceUrl":  "https://radiopotok.ru/radio/1614",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1614.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2764,8 +2764,8 @@ window.STATIONS = [
         "stream":  "https://listen1.myradio24.com/trollbro5",
         "sourceUrl":  "https://radiopotok.ru/radio/1616",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1616.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2778,8 +2778,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/sk-radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1617",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1617.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2788,12 +2788,12 @@ window.STATIONS = [
     {
         "id":  "rp-162",
         "externalId":  162,
-        "name":  "Мега радио",
+        "name":  "РњРµРіР° СЂР°РґРёРѕ",
         "stream":  "https://mega.amgradio.ru/mega",
         "sourceUrl":  "https://radiopotok.ru/radio/162",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/162.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2802,12 +2802,12 @@ window.STATIONS = [
     {
         "id":  "rp-1620",
         "externalId":  1620,
-        "name":  "Радио Булбул",
+        "name":  "Р Р°РґРёРѕ Р‘СѓР»Р±СѓР»",
         "stream":  "https://stream.laut.fm/radiobulbul",
         "sourceUrl":  "https://radiopotok.ru/radio/1620",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1620.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2820,8 +2820,8 @@ window.STATIONS = [
         "stream":  "https://streams.radio.co/se1a320b47/listen",
         "sourceUrl":  "https://radiopotok.ru/radio/1626",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1626.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2830,12 +2830,12 @@ window.STATIONS = [
     {
         "id":  "rp-1627",
         "externalId":  1627,
-        "name":  "Народное радио",
+        "name":  "РќР°СЂРѕРґРЅРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
         "sourceUrl":  "https://radiopotok.ru/radio/1627",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1627.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2848,8 +2848,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1631_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1631",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1631.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2862,8 +2862,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1640_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1640",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1640.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2872,12 +2872,12 @@ window.STATIONS = [
     {
         "id":  "rp-1641",
         "externalId":  1641,
-        "name":  "Свой стиль",
+        "name":  "РЎРІРѕР№ СЃС‚РёР»СЊ",
         "stream":  "https://stream.laut.fm/svoystil",
         "sourceUrl":  "https://radiopotok.ru/radio/1641",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1641.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2890,8 +2890,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1642_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1642",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1642.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2900,12 +2900,12 @@ window.STATIONS = [
     {
         "id":  "rp-1643",
         "externalId":  1643,
-        "name":  "Радио Школы Гивина",
+        "name":  "Р Р°РґРёРѕ РЁРєРѕР»С‹ Р“РёРІРёРЅР°",
         "stream":  "https://5.restream.one/1643_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1643",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1643.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2918,8 +2918,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1647_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1647",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1647.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2928,12 +2928,12 @@ window.STATIONS = [
     {
         "id":  "rp-1649",
         "externalId":  1649,
-        "name":  "Радио ТМ-26",
+        "name":  "Р Р°РґРёРѕ РўРњ-26",
         "stream":  "https://myradio24.org/58828",
         "sourceUrl":  "https://radiopotok.ru/radio/1649",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1649.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2942,12 +2942,12 @@ window.STATIONS = [
     {
         "id":  "rp-1650",
         "externalId":  1650,
-        "name":  "ROCK СТАНЦИЯ",
+        "name":  "ROCK РЎРўРђРќР¦РРЇ",
         "stream":  "https://rockstation.radiostream.pro/mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1650",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1650.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2960,8 +2960,8 @@ window.STATIONS = [
         "stream":  "https://lightradio.radiostream.pro/mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1651",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1651.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2974,8 +2974,8 @@ window.STATIONS = [
         "stream":  "https://a9.radioheart.ru:9031/nonstop",
         "sourceUrl":  "https://radiopotok.ru/radio/1658",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1658.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -2984,12 +2984,12 @@ window.STATIONS = [
     {
         "id":  "rp-1664",
         "externalId":  1664,
-        "name":  "Радио Коп",
+        "name":  "Р Р°РґРёРѕ РљРѕРї",
         "stream":  "https://listen7.myradio24.com/radiokop",
         "sourceUrl":  "https://radiopotok.ru/radio/1664",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1664.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3002,8 +3002,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/5790",
         "sourceUrl":  "https://radiopotok.ru/radio/1674",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1674.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3016,8 +3016,8 @@ window.STATIONS = [
         "stream":  "https://tntradio.hostingradio.ru:8027/hhr128.mp3?radiostatistica=radiopotok",
         "sourceUrl":  "https://radiopotok.ru/radio/1676",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1676.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3030,8 +3030,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1677_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1677",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1677.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3040,12 +3040,12 @@ window.STATIONS = [
     {
         "id":  "rp-1678",
         "externalId":  1678,
-        "name":  "Радио ZEFIROT",
+        "name":  "Р Р°РґРёРѕ ZEFIROT",
         "stream":  "https://myradio24.org/66490",
         "sourceUrl":  "https://radiopotok.ru/radio/1678",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1678.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3058,8 +3058,8 @@ window.STATIONS = [
         "stream":  "https://lux-radio.com:8005/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1681",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1681.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3072,8 +3072,8 @@ window.STATIONS = [
         "stream":  "https://stream.shmupradio.com/320",
         "sourceUrl":  "https://radiopotok.ru/radio/1683",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1683.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3086,8 +3086,8 @@ window.STATIONS = [
         "stream":  "https://fresh.amgradio.ru/Fresh",
         "sourceUrl":  "https://radiopotok.ru/radio/1685",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1685.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3100,8 +3100,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/9083",
         "sourceUrl":  "https://radiopotok.ru/radio/1689",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1689.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3110,12 +3110,12 @@ window.STATIONS = [
     {
         "id":  "rp-1690",
         "externalId":  1690,
-        "name":  "Супер-радио",
+        "name":  "РЎСѓРїРµСЂ-СЂР°РґРёРѕ",
         "stream":  "https://aska.ru-hoster.com:8000/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1690",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1690.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3128,8 +3128,8 @@ window.STATIONS = [
         "stream":  "https://retro.dancewave.online/retrodance.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1696",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1696.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3142,8 +3142,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/2455",
         "sourceUrl":  "https://radiopotok.ru/radio/1700",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1700.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3156,8 +3156,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1701_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1701",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1701.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3170,8 +3170,8 @@ window.STATIONS = [
         "stream":  "https://eu4.fastcast4u.com/proxy/jam66?mp=/1",
         "sourceUrl":  "https://radiopotok.ru/radio/1702",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1702.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3184,8 +3184,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18054/stream-128kmp3-BuddhaBeach",
         "sourceUrl":  "https://radiopotok.ru/radio/1704",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1704.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3198,8 +3198,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18030/stream-128kmp3-Dancefloor",
         "sourceUrl":  "https://radiopotok.ru/radio/1706",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1706.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3212,8 +3212,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18015/stream-128kmp3-DeepHouseIbiza",
         "sourceUrl":  "https://radiopotok.ru/radio/1707",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1707.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3226,8 +3226,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18033/stream-128kmp3-DiscoPower",
         "sourceUrl":  "https://radiopotok.ru/radio/1708",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1708.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3240,8 +3240,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18036/stream-128kmp3-FunkyTown",
         "sourceUrl":  "https://radiopotok.ru/radio/1709",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1709.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3254,8 +3254,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18039/stream-128kmp3-HealingMusic",
         "sourceUrl":  "https://radiopotok.ru/radio/1710",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1710.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3268,8 +3268,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18051/stream-128kmp3-HitClubDance",
         "sourceUrl":  "https://radiopotok.ru/radio/1711",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1711.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3282,8 +3282,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18042/stream-128kmp3-PartyDance",
         "sourceUrl":  "https://radiopotok.ru/radio/1712",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1712.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3296,8 +3296,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18045/stream-128kmp3-RelaxZone",
         "sourceUrl":  "https://radiopotok.ru/radio/1713",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1713.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3310,8 +3310,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18057/stream-128kmp3-SoulfulHouse",
         "sourceUrl":  "https://radiopotok.ru/radio/1715",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1715.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3324,8 +3324,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18048/stream-128kmp3-TimeToRelax",
         "sourceUrl":  "https://radiopotok.ru/radio/1716",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1716.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3338,8 +3338,8 @@ window.STATIONS = [
         "stream":  "https://radio4.vip-radios.fm:18027/stream-128kmp3-YogaChill",
         "sourceUrl":  "https://radiopotok.ru/radio/1717",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1717.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3348,12 +3348,12 @@ window.STATIONS = [
     {
         "id":  "rp-1721",
         "externalId":  1721,
-        "name":  "Русский Город в США",
+        "name":  "Р СѓСЃСЃРєРёР№ Р“РѕСЂРѕРґ РІ РЎРЁРђ",
         "stream":  "https://onair.radio1922.ru/rt",
         "sourceUrl":  "https://radiopotok.ru/radio/1721",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1721.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3366,8 +3366,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa2.cdnstream1.com/2347_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1722",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1722.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3380,8 +3380,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa2.cdnstream1.com/2345_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1723",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1723.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3394,8 +3394,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa2.cdnstream1.com/2209_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1724",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1724.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3404,12 +3404,12 @@ window.STATIONS = [
     {
         "id":  "rp-1728",
         "externalId":  1728,
-        "name":  "Татарское Радио ТМК",
+        "name":  "РўР°С‚Р°СЂСЃРєРѕРµ Р Р°РґРёРѕ РўРњРљ",
         "stream":  "https://a4.radioheart.ru:9036/RH13170",
         "sourceUrl":  "https://radiopotok.ru/radio/1728",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1728.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3422,8 +3422,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1731_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1731",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1731.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3436,8 +3436,8 @@ window.STATIONS = [
         "stream":  "https://stream.mixadance.fm/fitness",
         "sourceUrl":  "https://radiopotok.ru/radio/1734",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1734.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3450,8 +3450,8 @@ window.STATIONS = [
         "stream":  "https://www.radioking.com/play/fm80funkymusic/523739",
         "sourceUrl":  "https://radiopotok.ru/radio/1736",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1736.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3460,12 +3460,12 @@ window.STATIONS = [
     {
         "id":  "rp-1740",
         "externalId":  1740,
-        "name":  "РАДИО ДЛЯ ВЗРОСЛЫХ",
+        "name":  "Р РђР”РРћ Р”Р›РЇ Р’Р—Р РћРЎР›Р«РҐ",
         "stream":  "https://myradio24.org/alex542888",
         "sourceUrl":  "https://radiopotok.ru/radio/1740",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1740.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3474,12 +3474,12 @@ window.STATIONS = [
     {
         "id":  "rp-1742",
         "externalId":  1742,
-        "name":  "Местное радио Воронеж",
+        "name":  "РњРµСЃС‚РЅРѕРµ СЂР°РґРёРѕ Р’РѕСЂРѕРЅРµР¶",
         "stream":  "https://5.restream.one/1742_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1742",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1742.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3488,12 +3488,12 @@ window.STATIONS = [
     {
         "id":  "rp-1745",
         "externalId":  1745,
-        "name":  "Радио Тандем",
+        "name":  "Р Р°РґРёРѕ РўР°РЅРґРµРј",
         "stream":  "https://listen.myrh.ru/id068882",
         "sourceUrl":  "https://radiopotok.ru/radio/1745",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1745.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3502,12 +3502,12 @@ window.STATIONS = [
     {
         "id":  "rp-1746",
         "externalId":  1746,
-        "name":  "Движение",
+        "name":  "Р”РІРёР¶РµРЅРёРµ",
         "stream":  "https://5.restream.one/1746_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1746",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1746.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3516,12 +3516,12 @@ window.STATIONS = [
     {
         "id":  "rp-1747",
         "externalId":  1747,
-        "name":  "Радио Релиз",
+        "name":  "Р Р°РґРёРѕ Р РµР»РёР·",
         "stream":  "https://listen.myrh.ru/radioreliz",
         "sourceUrl":  "https://radiopotok.ru/radio/1747",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1747.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3534,8 +3534,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1752_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1752",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1752.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3544,12 +3544,12 @@ window.STATIONS = [
     {
         "id":  "rp-1754",
         "externalId":  1754,
-        "name":  "Классное Радио РДШ",
+        "name":  "РљР»Р°СЃСЃРЅРѕРµ Р Р°РґРёРѕ Р Р”РЁ",
         "stream":  "https://schoolradio.hostingradio.ru:8026/schoolradio128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1754",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1754.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3558,12 +3558,12 @@ window.STATIONS = [
     {
         "id":  "rp-1755",
         "externalId":  1755,
-        "name":  "Грайндотека",
+        "name":  "Р“СЂР°Р№РЅРґРѕС‚РµРєР°",
         "stream":  "https://stream.zeno.fm/9panksrmzpivv",
         "sourceUrl":  "https://radiopotok.ru/radio/1755",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1755.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3572,12 +3572,12 @@ window.STATIONS = [
     {
         "id":  "rp-1756",
         "externalId":  1756,
-        "name":  "Легенды FM",
+        "name":  "Р›РµРіРµРЅРґС‹ FM",
         "stream":  "https://5.restream.one/1756_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1756",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1756.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3590,8 +3590,8 @@ window.STATIONS = [
         "stream":  "https://radio2.vip-radios.fm:18039/stream-192kmp3-BaySmoothJazz",
         "sourceUrl":  "https://radiopotok.ru/radio/1757",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1757.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3600,12 +3600,12 @@ window.STATIONS = [
     {
         "id":  "rp-1758",
         "externalId":  1758,
-        "name":  "Пиратское радио SVG",
+        "name":  "РџРёСЂР°С‚СЃРєРѕРµ СЂР°РґРёРѕ SVG",
         "stream":  "https://listen.myrh.ru/id017314",
         "sourceUrl":  "https://radiopotok.ru/radio/1758",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1758.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3614,12 +3614,12 @@ window.STATIONS = [
     {
         "id":  "rp-1759",
         "externalId":  1759,
-        "name":  "Народное Славянское радио",
+        "name":  "РќР°СЂРѕРґРЅРѕРµ РЎР»Р°РІСЏРЅСЃРєРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://slavradio.org:8443/nsr/1/",
         "sourceUrl":  "https://radiopotok.ru/radio/1759",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1759.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3628,12 +3628,12 @@ window.STATIONS = [
     {
         "id":  "rp-1767",
         "externalId":  1767,
-        "name":  "ЛЁГКОЕ РАДИО",
+        "name":  "Р›РЃР“РљРћР• Р РђР”РРћ",
         "stream":  "https://stream.audiodiz.ru/listen/light/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1767",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1767.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3642,12 +3642,12 @@ window.STATIONS = [
     {
         "id":  "rp-177",
         "externalId":  177,
-        "name":  "Романтика",
+        "name":  "Р РѕРјР°РЅС‚РёРєР°",
         "stream":  "https://hls-01-gpm.hostingradio.ru/romantika495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/177",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/177.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3656,12 +3656,12 @@ window.STATIONS = [
     {
         "id":  "rp-1774",
         "externalId":  1774,
-        "name":  "РУССКОЕ РАДИО КОСТАНАЙ",
+        "name":  "Р РЈРЎРЎРљРћР• Р РђР”РРћ РљРћРЎРўРђРќРђР™",
         "stream":  "https://myradio24.org/91712",
         "sourceUrl":  "https://radiopotok.ru/radio/1774",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1774.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3670,12 +3670,12 @@ window.STATIONS = [
     {
         "id":  "rp-1778",
         "externalId":  1778,
-        "name":  "Радио Шторм",
+        "name":  "Р Р°РґРёРѕ РЁС‚РѕСЂРј",
         "stream":  "https://shtorm.amgradio.ru/shtormfm",
         "sourceUrl":  "https://radiopotok.ru/radio/1778",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1778.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3688,8 +3688,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/alyaxen",
         "sourceUrl":  "https://radiopotok.ru/radio/1780",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1780.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3702,8 +3702,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/meganight",
         "sourceUrl":  "https://radiopotok.ru/radio/1781",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1781.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3716,8 +3716,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1782_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1782",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1782.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3730,8 +3730,8 @@ window.STATIONS = [
         "stream":  "https://uk2.streamingpulse.com/ssl/vcr2",
         "sourceUrl":  "https://radiopotok.ru/radio/1789",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1789.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3744,8 +3744,8 @@ window.STATIONS = [
         "stream":  "https://stream.motoradio.online/lite-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1791",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1791.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3754,12 +3754,12 @@ window.STATIONS = [
     {
         "id":  "rp-1793",
         "externalId":  1793,
-        "name":  "ПИРАМИДА",
+        "name":  "РџРР РђРњРР”Рђ",
         "stream":  "https://prm.volna.top/128",
         "sourceUrl":  "https://radiopotok.ru/radio/1793",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1793.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3772,8 +3772,8 @@ window.STATIONS = [
         "stream":  "https://radio.xradio.vip/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1794",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1794.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3786,8 +3786,8 @@ window.STATIONS = [
         "stream":  "https://misato.ru-hoster.com:8006/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1796",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1796.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3796,12 +3796,12 @@ window.STATIONS = [
     {
         "id":  "rp-1797",
         "externalId":  1797,
-        "name":  "Радио Контур",
+        "name":  "Р Р°РґРёРѕ РљРѕРЅС‚СѓСЂ",
         "stream":  "https://5.restream.one/1797_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1797",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1797.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3810,12 +3810,12 @@ window.STATIONS = [
     {
         "id":  "rp-1798",
         "externalId":  1798,
-        "name":  "Радио Русские Эмираты",
+        "name":  "Р Р°РґРёРѕ Р СѓСЃСЃРєРёРµ Р­РјРёСЂР°С‚С‹",
         "stream":  "https://listen.myrh.ru/russianemirates",
         "sourceUrl":  "https://radiopotok.ru/radio/1798",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1798.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3828,8 +3828,8 @@ window.STATIONS = [
         "stream":  "https://radio.autoliferadio.com:8005/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1799",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1799.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3842,8 +3842,8 @@ window.STATIONS = [
         "stream":  "https://stream.radiomix.dance/radiomix",
         "sourceUrl":  "https://radiopotok.ru/radio/1800",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1800.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3852,12 +3852,12 @@ window.STATIONS = [
     {
         "id":  "rp-1801",
         "externalId":  1801,
-        "name":  "РАДИО СТОЛИЦА",
+        "name":  "Р РђР”РРћ РЎРўРћР›РР¦Рђ",
         "stream":  "https://listen2.myradio24.com/1458",
         "sourceUrl":  "https://radiopotok.ru/radio/1801",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1801.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3866,12 +3866,12 @@ window.STATIONS = [
     {
         "id":  "rp-1802",
         "externalId":  1802,
-        "name":  "Бхакти Расаяна Сагара Свами",
+        "name":  "Р‘С…Р°РєС‚Рё Р Р°СЃР°СЏРЅР° РЎР°РіР°СЂР° РЎРІР°РјРё",
         "stream":  "https://5.restream.one/1802_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1802",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1802.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3884,8 +3884,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/nsk54russiandance",
         "sourceUrl":  "https://radiopotok.ru/radio/1803",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1803.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3894,12 +3894,12 @@ window.STATIONS = [
     {
         "id":  "rp-1807",
         "externalId":  1807,
-        "name":  "Шансон (Орск)",
+        "name":  "РЁР°РЅСЃРѕРЅ (РћСЂСЃРє)",
         "stream":  "https://ural56-icecast.cdnvideo.ru/radio_shansonorsk",
         "sourceUrl":  "https://radiopotok.ru/radio/1807",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1807.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3912,8 +3912,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1808_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1808",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1808.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3926,8 +3926,8 @@ window.STATIONS = [
         "stream":  "https://djetradio.com/djetradio_320",
         "sourceUrl":  "https://radiopotok.ru/radio/1810",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1810.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3940,8 +3940,8 @@ window.STATIONS = [
         "stream":  "https://sh.onweb.gr:7083/stream?type=http\u0026nocache=35812",
         "sourceUrl":  "https://radiopotok.ru/radio/1811",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1811.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3950,12 +3950,12 @@ window.STATIONS = [
     {
         "id":  "rp-1812",
         "externalId":  1812,
-        "name":  "Радио 1",
+        "name":  "Р Р°РґРёРѕ 1",
         "stream":  "https://5.restream.one/1812_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1812",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1812.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3968,8 +3968,8 @@ window.STATIONS = [
         "stream":  "https://rptr.play.extasy.es",
         "sourceUrl":  "https://radiopotok.ru/radio/1817",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1817.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3978,12 +3978,12 @@ window.STATIONS = [
     {
         "id":  "rp-1822",
         "externalId":  1822,
-        "name":  "Первое союзное радио",
+        "name":  "РџРµСЂРІРѕРµ СЃРѕСЋР·РЅРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://souz.hostingradio.ru:80/souz128.mp3?radiostatistica=radiopotok",
         "sourceUrl":  "https://radiopotok.ru/radio/1822",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1822.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -3992,12 +3992,12 @@ window.STATIONS = [
     {
         "id":  "rp-1827",
         "externalId":  1827,
-        "name":  "Радио Патриот",
+        "name":  "Р Р°РґРёРѕ РџР°С‚СЂРёРѕС‚",
         "stream":  "https://5.restream.one/1827_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1827",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1827.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4010,8 +4010,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/rocktimeradio",
         "sourceUrl":  "https://radiopotok.ru/radio/1828",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1828.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4020,12 +4020,12 @@ window.STATIONS = [
     {
         "id":  "rp-1829",
         "externalId":  1829,
-        "name":  "Компас FM",
+        "name":  "РљРѕРјРїР°СЃ FM",
         "stream":  "https://radio.mil.by/live",
         "sourceUrl":  "https://radiopotok.ru/radio/1829",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1829.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4034,12 +4034,12 @@ window.STATIONS = [
     {
         "id":  "rp-1830",
         "externalId":  1830,
-        "name":  "Любимые хиты",
+        "name":  "Р›СЋР±РёРјС‹Рµ С…РёС‚С‹",
         "stream":  "https://radio.lyubimyehity.ru:1045/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1830",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1830.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4048,12 +4048,12 @@ window.STATIONS = [
     {
         "id":  "rp-1831",
         "externalId":  1831,
-        "name":  "Джон Радио",
+        "name":  "Р”Р¶РѕРЅ Р Р°РґРёРѕ",
         "stream":  "https://i-radio.info:8090/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1831",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1831.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4066,8 +4066,8 @@ window.STATIONS = [
         "stream":  "https://stream.radiojar.com/av2rrf6547zuv",
         "sourceUrl":  "https://radiopotok.ru/radio/1832",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1832.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4076,12 +4076,12 @@ window.STATIONS = [
     {
         "id":  "rp-1834",
         "externalId":  1834,
-        "name":  "Радио НоваСтом",
+        "name":  "Р Р°РґРёРѕ РќРѕРІР°РЎС‚РѕРј",
         "stream":  "https://listen.myrh.ru/id038925",
         "sourceUrl":  "https://radiopotok.ru/radio/1834",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1834.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4094,8 +4094,8 @@ window.STATIONS = [
         "stream":  "https://c14.radioboss.fm:8133/radioairtouch",
         "sourceUrl":  "https://radiopotok.ru/radio/1839",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1839.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4108,8 +4108,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/184_1",
         "sourceUrl":  "https://radiopotok.ru/radio/184",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/184.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4122,8 +4122,8 @@ window.STATIONS = [
         "stream":  "https://1pvkedm.stream.laut.fm/1pvkedm",
         "sourceUrl":  "https://radiopotok.ru/radio/1842",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1842.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4136,8 +4136,8 @@ window.STATIONS = [
         "stream":  "https://raplive.stream.laut.fm/raplive",
         "sourceUrl":  "https://radiopotok.ru/radio/1843",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1843.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4146,12 +4146,12 @@ window.STATIONS = [
     {
         "id":  "rp-1845",
         "externalId":  1845,
-        "name":  "Кафе мечты!",
+        "name":  "РљР°С„Рµ РјРµС‡С‚С‹!",
         "stream":  "https://myradio24.org/dreamcafe",
         "sourceUrl":  "https://radiopotok.ru/radio/1845",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1845.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4160,12 +4160,12 @@ window.STATIONS = [
     {
         "id":  "rp-1847",
         "externalId":  1847,
-        "name":  "Колыма 107.5 Fm",
+        "name":  "РљРѕР»С‹РјР° 107.5 Fm",
         "stream":  "https://icecast-kolymaplus.cdnvideo.ru/kolyma",
         "sourceUrl":  "https://radiopotok.ru/radio/1847",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1847.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4178,8 +4178,8 @@ window.STATIONS = [
         "stream":  "https://stream.cassiopeia-station.ru:5015/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1860",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1860.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4192,8 +4192,8 @@ window.STATIONS = [
         "stream":  "https://pool.anison.fm/AniSonFM(320)",
         "sourceUrl":  "https://radiopotok.ru/radio/1861",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1861.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4202,12 +4202,12 @@ window.STATIONS = [
     {
         "id":  "rp-1863",
         "externalId":  1863,
-        "name":  "Всемирное Одесское радио",
+        "name":  "Р’СЃРµРјРёСЂРЅРѕРµ РћРґРµСЃСЃРєРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://myradio24.org/odesradio",
         "sourceUrl":  "https://radiopotok.ru/radio/1863",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1863.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4216,12 +4216,12 @@ window.STATIONS = [
     {
         "id":  "rp-1864",
         "externalId":  1864,
-        "name":  "Два Берега",
+        "name":  "Р”РІР° Р‘РµСЂРµРіР°",
         "stream":  "https://5.restream.one/1864_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1864",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1864.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4234,8 +4234,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/2236",
         "sourceUrl":  "https://radiopotok.ru/radio/1867",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1867.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4248,8 +4248,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa2.cdnstream1.com/2208_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1868",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1868.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4262,8 +4262,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa2.cdnstream1.com/2346_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1869",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1869.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4276,8 +4276,8 @@ window.STATIONS = [
         "stream":  "https://makri.cdnstream.com/1898_128",
         "sourceUrl":  "https://radiopotok.ru/radio/1870",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1870.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4290,8 +4290,8 @@ window.STATIONS = [
         "stream":  "https://stream.skymedia.ee/live/SKY",
         "sourceUrl":  "https://radiopotok.ru/radio/1872",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1872.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4304,8 +4304,8 @@ window.STATIONS = [
         "stream":  "https://stream.zeno.fm/zth0tcnbd8zuv",
         "sourceUrl":  "https://radiopotok.ru/radio/1874",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1874.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4318,8 +4318,8 @@ window.STATIONS = [
         "stream":  "https://c22.radioboss.fm:18303/stream ",
         "sourceUrl":  "https://radiopotok.ru/radio/1875",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1875.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4332,8 +4332,8 @@ window.STATIONS = [
         "stream":  "https://cast2.my-control-panel.com/proxy/vladas/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1876",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1876.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4346,8 +4346,8 @@ window.STATIONS = [
         "stream":  "https://ais-sa9.cdnstream1.com/1898_128",
         "sourceUrl":  "https://radiopotok.ru/radio/1878",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1878.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4356,12 +4356,12 @@ window.STATIONS = [
     {
         "id":  "rp-1879",
         "externalId":  1879,
-        "name":  "Радио Посад",
+        "name":  "Р Р°РґРёРѕ РџРѕСЃР°Рґ",
         "stream":  "https://listen.myrh.ru/id04705",
         "sourceUrl":  "https://radiopotok.ru/radio/1879",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1879.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4370,12 +4370,12 @@ window.STATIONS = [
     {
         "id":  "rp-1881",
         "externalId":  1881,
-        "name":  "Прайм Радио",
+        "name":  "РџСЂР°Р№Рј Р Р°РґРёРѕ",
         "stream":  "https://listen7.myradio24.com/praims",
         "sourceUrl":  "https://radiopotok.ru/radio/1881",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1881.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4384,12 +4384,12 @@ window.STATIONS = [
     {
         "id":  "rp-1883",
         "externalId":  1883,
-        "name":  "Красно-Белая Волна",
+        "name":  "РљСЂР°СЃРЅРѕ-Р‘РµР»Р°СЏ Р’РѕР»РЅР°",
         "stream":  "https://onair.radio1922.ru/64.aac",
         "sourceUrl":  "https://radiopotok.ru/radio/1883",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1883.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4398,12 +4398,12 @@ window.STATIONS = [
     {
         "id":  "rp-1884",
         "externalId":  1884,
-        "name":  "Диско-радио SOVA",
+        "name":  "Р”РёСЃРєРѕ-СЂР°РґРёРѕ SOVA",
         "stream":  "https://evcast.mediacp.eu:1965/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1884",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1884.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4412,12 +4412,12 @@ window.STATIONS = [
     {
         "id":  "rp-1885",
         "externalId":  1885,
-        "name":  "Радио Победы",
+        "name":  "Р Р°РґРёРѕ РџРѕР±РµРґС‹",
         "stream":  "https://5.restream.one/1885_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1885",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1885.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4426,12 +4426,12 @@ window.STATIONS = [
     {
         "id":  "rp-1886",
         "externalId":  1886,
-        "name":  "Радио Сибирь Хакасия",
+        "name":  "Р Р°РґРёРѕ РЎРёР±РёСЂСЊ РҐР°РєР°СЃРёСЏ",
         "stream":  "https://ctv7.ru/radio/",
         "sourceUrl":  "https://radiopotok.ru/radio/1886",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1886.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4444,8 +4444,8 @@ window.STATIONS = [
         "stream":  "https://geek-speak.ru/radio/GSFM",
         "sourceUrl":  "https://radiopotok.ru/radio/1887",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1887.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4458,8 +4458,8 @@ window.STATIONS = [
         "stream":  "https://rmx.amgradio.ru/RemixFM",
         "sourceUrl":  "https://radiopotok.ru/radio/1901",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1901.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4468,12 +4468,12 @@ window.STATIONS = [
     {
         "id":  "rp-1903",
         "externalId":  1903,
-        "name":  "Алмазный край",
+        "name":  "РђР»РјР°Р·РЅС‹Р№ РєСЂР°Р№",
         "stream":  "https://stream.almaz-media.tv/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1903",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1903.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4486,8 +4486,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1907_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1907",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1907.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4496,12 +4496,12 @@ window.STATIONS = [
     {
         "id":  "rp-1908",
         "externalId":  1908,
-        "name":  "Станция 3.0",
+        "name":  "РЎС‚Р°РЅС†РёСЏ 3.0",
         "stream":  "https://myradio24.org/station",
         "sourceUrl":  "https://radiopotok.ru/radio/1908",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1908.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4514,8 +4514,8 @@ window.STATIONS = [
         "stream":  "https://ice.drumfunk.ru:8050/on.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1910",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1910.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4528,8 +4528,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/id047376",
         "sourceUrl":  "https://radiopotok.ru/radio/1914",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1914.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4538,12 +4538,12 @@ window.STATIONS = [
     {
         "id":  "rp-192",
         "externalId":  192,
-        "name":  "Ночное такси",
+        "name":  "РќРѕС‡РЅРѕРµ С‚Р°РєСЃРё",
         "stream":  "https://radiont.shansonspb.ru:1040/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/192",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/192.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4552,12 +4552,12 @@ window.STATIONS = [
     {
         "id":  "rp-1920",
         "externalId":  1920,
-        "name":  "Радио Шансон Плюс",
+        "name":  "Р Р°РґРёРѕ РЁР°РЅСЃРѕРЅ РџР»СЋСЃ",
         "stream":  "https://radio.radioshansonplus.com:8050/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/1920",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1920.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4566,12 +4566,12 @@ window.STATIONS = [
     {
         "id":  "rp-1921",
         "externalId":  1921,
-        "name":  "МЭТР Golden Hits",
+        "name":  "РњР­РўР  Golden Hits",
         "stream":  "https://5.restream.one/1921_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1921",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1921.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4584,8 +4584,8 @@ window.STATIONS = [
         "stream":  "https://stream.zeno.fm/a26tu122fd0uv",
         "sourceUrl":  "https://radiopotok.ru/radio/1922",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1922.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4594,12 +4594,12 @@ window.STATIONS = [
     {
         "id":  "rp-1923",
         "externalId":  1923,
-        "name":  "Радио Боль",
+        "name":  "Р Р°РґРёРѕ Р‘РѕР»СЊ",
         "stream":  "https://stream.zeno.fm/1hmw9t7wav8uv",
         "sourceUrl":  "https://radiopotok.ru/radio/1923",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1923.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4608,12 +4608,12 @@ window.STATIONS = [
     {
         "id":  "rp-1925",
         "externalId":  1925,
-        "name":  "Бродяга On-Line",
+        "name":  "Р‘СЂРѕРґСЏРіР° On-Line",
         "stream":  "https://myradio24.org/traveller",
         "sourceUrl":  "https://radiopotok.ru/radio/1925",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1925.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4626,8 +4626,8 @@ window.STATIONS = [
         "stream":  "https://stream.overdrivelive.net:8000/alternative_128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/1926",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1926.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4640,8 +4640,8 @@ window.STATIONS = [
         "stream":  "https://stream.radiojar.com/exqtsg93krruv",
         "sourceUrl":  "https://radiopotok.ru/radio/1929",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1929.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4654,8 +4654,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/thediscopalace?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1931",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1931.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4668,8 +4668,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/thediscoparadise?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1932",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1932.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4682,8 +4682,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1933",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1933.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4692,12 +4692,12 @@ window.STATIONS = [
     {
         "id":  "rp-1935",
         "externalId":  1935,
-        "name":  "Калейдоскоп",
+        "name":  "РљР°Р»РµР№РґРѕСЃРєРѕРї",
         "stream":  "https://a4.radioheart.ru:9013/MK",
         "sourceUrl":  "https://radiopotok.ru/radio/1935",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1935.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4706,12 +4706,12 @@ window.STATIONS = [
     {
         "id":  "rp-1938",
         "externalId":  1938,
-        "name":  "Радио Никольское",
+        "name":  "Р Р°РґРёРѕ РќРёРєРѕР»СЊСЃРєРѕРµ",
         "stream":  "https://5.restream.one/1938_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1938",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1938.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4724,8 +4724,8 @@ window.STATIONS = [
         "stream":  "https://radio.nfmoscow.ru/radio/8000/192",
         "sourceUrl":  "https://radiopotok.ru/radio/1939",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1939.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4738,8 +4738,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.media/office",
         "sourceUrl":  "https://radiopotok.ru/radio/1943",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1943.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4752,8 +4752,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/casablanca?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1944",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1944.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4766,8 +4766,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/prelude?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1945",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1945.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4780,8 +4780,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/salsoul?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1946",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1946.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4794,8 +4794,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/tkdisco?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1947",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1947.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4808,8 +4808,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/unidisco?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1948",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1948.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4822,8 +4822,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/westend?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1949",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1949.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4832,12 +4832,12 @@ window.STATIONS = [
     {
         "id":  "rp-1951",
         "externalId":  1951,
-        "name":  "Москвичи",
+        "name":  "РњРѕСЃРєРІРёС‡Рё",
         "stream":  "https://agniradio.s02.radio-tochka.com:4085/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1951",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1951.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4850,8 +4850,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/atlantic?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1952",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1952.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4864,8 +4864,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/columbia?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1953",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1953.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4878,8 +4878,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/motown?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1954",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1954.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4892,8 +4892,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/solar?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1955",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1955.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4906,8 +4906,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/tsop?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/1956",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1956.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4916,12 +4916,12 @@ window.STATIONS = [
     {
         "id":  "rp-1958",
         "externalId":  1958,
-        "name":  "Радио 54",
+        "name":  "Р Р°РґРёРѕ 54",
         "stream":  "https://5.restream.one/1958_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1958",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1958.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4930,12 +4930,12 @@ window.STATIONS = [
     {
         "id":  "rp-1959",
         "externalId":  1959,
-        "name":  "Радио Советская эстрада",
+        "name":  "Р Р°РґРёРѕ РЎРѕРІРµС‚СЃРєР°СЏ СЌСЃС‚СЂР°РґР°",
         "stream":  "https://evcast.mediacp.eu:2075/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1959",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1959.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4944,12 +4944,12 @@ window.STATIONS = [
     {
         "id":  "rp-1963",
         "externalId":  1963,
-        "name":  "Ретроклуб",
+        "name":  "Р РµС‚СЂРѕРєР»СѓР±",
         "stream":  "https://retroclub.hostingradio.ru/retroclub224.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/1963",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1963.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4962,8 +4962,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/1964_1",
         "sourceUrl":  "https://radiopotok.ru/radio/1964",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1964.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4972,12 +4972,12 @@ window.STATIONS = [
     {
         "id":  "rp-1966",
         "externalId":  1966,
-        "name":  "Радио Редкие Рыбы",
+        "name":  "Р Р°РґРёРѕ Р РµРґРєРёРµ Р С‹Р±С‹",
         "stream":  "https://listen1.myradio24.com/8317",
         "sourceUrl":  "https://radiopotok.ru/radio/1966",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1966.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -4986,12 +4986,12 @@ window.STATIONS = [
     {
         "id":  "rp-1969",
         "externalId":  1969,
-        "name":  "Антология",
+        "name":  "РђРЅС‚РѕР»РѕРіРёСЏ",
         "stream":  "https://listen.myrh.ru/id035893",
         "sourceUrl":  "https://radiopotok.ru/radio/1969",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1969.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5004,8 +5004,8 @@ window.STATIONS = [
         "stream":  "https://listen6.myradio24.com/grella",
         "sourceUrl":  "https://radiopotok.ru/radio/1970",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1970.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5014,12 +5014,12 @@ window.STATIONS = [
     {
         "id":  "rp-1973",
         "externalId":  1973,
-        "name":  "Наше Радио Кисловодск",
+        "name":  "РќР°С€Рµ Р Р°РґРёРѕ РљРёСЃР»РѕРІРѕРґСЃРє",
         "stream":  "https://nashestv.ru/radio/8020/nasheradiokmv?1623329273",
         "sourceUrl":  "https://radiopotok.ru/radio/1973",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1973.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5028,12 +5028,12 @@ window.STATIONS = [
     {
         "id":  "rp-1974",
         "externalId":  1974,
-        "name":  "Радио Шкипер",
+        "name":  "Р Р°РґРёРѕ РЁРєРёРїРµСЂ",
         "stream":  "https://myradio24.org/bolshevek",
         "sourceUrl":  "https://radiopotok.ru/radio/1974",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1974.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5046,8 +5046,8 @@ window.STATIONS = [
         "stream":  "https://stream.gtfinstrumental.com/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1975",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1975.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5056,12 +5056,12 @@ window.STATIONS = [
     {
         "id":  "rp-1978",
         "externalId":  1978,
-        "name":  "Радио Старого Полковника",
+        "name":  "Р Р°РґРёРѕ РЎС‚Р°СЂРѕРіРѕ РџРѕР»РєРѕРІРЅРёРєР°",
         "stream":  "https://notthatoldcolonel.ru:1050/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/1978",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1978.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5074,8 +5074,8 @@ window.STATIONS = [
         "stream":  "https://forwardmystream.com/sensuelleradio",
         "sourceUrl":  "https://radiopotok.ru/radio/1980",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1980.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5084,12 +5084,12 @@ window.STATIONS = [
     {
         "id":  "rp-1981",
         "externalId":  1981,
-        "name":  "Радио Nostalgie Махачкала",
+        "name":  "Р Р°РґРёРѕ Nostalgie РњР°С…Р°С‡РєР°Р»Р°",
         "stream":  "https://nostalgie.dagfm.ru",
         "sourceUrl":  "https://radiopotok.ru/radio/1981",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1981.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5102,8 +5102,8 @@ window.STATIONS = [
         "stream":  "https://stream.vyshka24.ru/wow",
         "sourceUrl":  "https://radiopotok.ru/radio/1983",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1983.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5116,8 +5116,8 @@ window.STATIONS = [
         "stream":  "https://stream.vyshka24.ru/wowtop50",
         "sourceUrl":  "https://radiopotok.ru/radio/1984",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1984.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5130,8 +5130,8 @@ window.STATIONS = [
         "stream":  "https://stream.vyshka24.ru/wowchillout",
         "sourceUrl":  "https://radiopotok.ru/radio/1985",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1985.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5140,12 +5140,12 @@ window.STATIONS = [
     {
         "id":  "rp-1986",
         "externalId":  1986,
-        "name":  "Wow Music Русское",
+        "name":  "Wow Music Р СѓСЃСЃРєРѕРµ",
         "stream":  "https://stream.vyshka24.ru/wowrusskoe",
         "sourceUrl":  "https://radiopotok.ru/radio/1986",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1986.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5158,8 +5158,8 @@ window.STATIONS = [
         "stream":  "https://stream.vyshka24.ru/wowhiphop",
         "sourceUrl":  "https://radiopotok.ru/radio/1987",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1987.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5172,8 +5172,8 @@ window.STATIONS = [
         "stream":  "https://stream.vyshka24.ru/wowrock",
         "sourceUrl":  "https://radiopotok.ru/radio/1988",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1988.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5186,8 +5186,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/5790",
         "sourceUrl":  "https://radiopotok.ru/radio/1995",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1995.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5200,8 +5200,8 @@ window.STATIONS = [
         "stream":  "https://listen7.myradio24.com/69366",
         "sourceUrl":  "https://radiopotok.ru/radio/1999",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/1999.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5210,12 +5210,12 @@ window.STATIONS = [
     {
         "id":  "rp-2000",
         "externalId":  2000,
-        "name":  "Радио STICKER FM",
+        "name":  "Р Р°РґРёРѕ STICKER FM",
         "stream":  "https://radio1.stickerfm.ru:8443/live",
         "sourceUrl":  "https://radiopotok.ru/radio/2000",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2000.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5224,12 +5224,12 @@ window.STATIONS = [
     {
         "id":  "rp-2001",
         "externalId":  2001,
-        "name":  "Справедливое Радио",
+        "name":  "РЎРїСЂР°РІРµРґР»РёРІРѕРµ Р Р°РґРёРѕ",
         "stream":  "https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2001",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2001.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5242,8 +5242,8 @@ window.STATIONS = [
         "stream":  "https://stream.drugradio.ru:8000/stream128",
         "sourceUrl":  "https://radiopotok.ru/radio/2003",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2003.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5252,12 +5252,12 @@ window.STATIONS = [
     {
         "id":  "rp-2006",
         "externalId":  2006,
-        "name":  "Радио Пляж",
+        "name":  "Р Р°РґРёРѕ РџР»СЏР¶",
         "stream":  "https://myradio24.org/1632",
         "sourceUrl":  "https://radiopotok.ru/radio/2006",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2006.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5270,8 +5270,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/artcity",
         "sourceUrl":  "https://radiopotok.ru/radio/2007",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2007.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5284,8 +5284,8 @@ window.STATIONS = [
         "stream":  "https://misato.ru-hoster.com:8051/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2010",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2010.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5298,8 +5298,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/alohafm",
         "sourceUrl":  "https://radiopotok.ru/radio/2012",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2012.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5312,8 +5312,8 @@ window.STATIONS = [
         "stream":  "https://c32.radioboss.fm:18516/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2015",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2015.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5326,8 +5326,8 @@ window.STATIONS = [
         "stream":  "https://misato.ru-hoster.com:8047/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2017",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2017.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5336,12 +5336,12 @@ window.STATIONS = [
     {
         "id":  "rp-2018",
         "externalId":  2018,
-        "name":  "Интерволна Челябинск",
+        "name":  "РРЅС‚РµСЂРІРѕР»РЅР° Р§РµР»СЏР±РёРЅСЃРє",
         "stream":  "https://online.intervolna.ru:8433/radio192",
         "sourceUrl":  "https://radiopotok.ru/radio/2018",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2018.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5350,12 +5350,12 @@ window.STATIONS = [
     {
         "id":  "rp-2021",
         "externalId":  2021,
-        "name":  "NUiRADIO (Ну и радио)",
+        "name":  "NUiRADIO (РќСѓ Рё СЂР°РґРёРѕ)",
         "stream":  "https://a2.radioheart.ru:9003/nuiradio",
         "sourceUrl":  "https://radiopotok.ru/radio/2021",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2021.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5364,12 +5364,12 @@ window.STATIONS = [
     {
         "id":  "rp-2023",
         "externalId":  2023,
-        "name":  "Ермак Урал",
+        "name":  "Р•СЂРјР°Рє РЈСЂР°Р»",
         "stream":  "https://a1.radioheart.ru:9020/ermak-ural",
         "sourceUrl":  "https://radiopotok.ru/radio/2023",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2023.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5378,12 +5378,12 @@ window.STATIONS = [
     {
         "id":  "rp-2026",
         "externalId":  2026,
-        "name":  "Новый Год",
+        "name":  "РќРѕРІС‹Р№ Р“РѕРґ",
         "stream":  "https://ic1.radiosignal.one/deep",
         "sourceUrl":  "https://radiopotok.ru/radio/2026",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2026.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5396,8 +5396,8 @@ window.STATIONS = [
         "stream":  "https://pianosolo.streamguys1.com/live",
         "sourceUrl":  "https://radiopotok.ru/radio/203",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/203.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5410,8 +5410,8 @@ window.STATIONS = [
         "stream":  "https://c28.radioboss.fm:8384/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2035",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2035.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5420,12 +5420,12 @@ window.STATIONS = [
     {
         "id":  "rp-2041",
         "externalId":  2041,
-        "name":  "МЭТР Top Music",
+        "name":  "РњР­РўР  Top Music",
         "stream":  "https://5.restream.one/2041_1",
         "sourceUrl":  "https://radiopotok.ru/radio/2041",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2041.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5434,12 +5434,12 @@ window.STATIONS = [
     {
         "id":  "rp-2042",
         "externalId":  2042,
-        "name":  "Первое Молодёжное Радио Североуральска",
+        "name":  "РџРµСЂРІРѕРµ РњРѕР»РѕРґС‘Р¶РЅРѕРµ Р Р°РґРёРѕ РЎРµРІРµСЂРѕСѓСЂР°Р»СЊСЃРєР°",
         "stream":  "https://listen7.myradio24.com/45445",
         "sourceUrl":  "https://radiopotok.ru/radio/2042",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2042.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5452,8 +5452,8 @@ window.STATIONS = [
         "stream":  "https://radio.radiostar5.ru:8005/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2045",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2045.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5462,12 +5462,12 @@ window.STATIONS = [
     {
         "id":  "rp-2047",
         "externalId":  2047,
-        "name":  "Наше Радио Ставрополь",
+        "name":  "РќР°С€Рµ Р Р°РґРёРѕ РЎС‚Р°РІСЂРѕРїРѕР»СЊ",
         "stream":  "https://nashestv.ru/radio/8020/nasheradiostv",
         "sourceUrl":  "https://radiopotok.ru/radio/2047",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2047.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5476,12 +5476,12 @@ window.STATIONS = [
     {
         "id":  "rp-2055",
         "externalId":  2055,
-        "name":  "Поколение Z",
+        "name":  "РџРѕРєРѕР»РµРЅРёРµ Z",
         "stream":  "https://myradio24.org/djmashkoff",
         "sourceUrl":  "https://radiopotok.ru/radio/2055",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2055.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5490,12 +5490,12 @@ window.STATIONS = [
     {
         "id":  "rp-2056",
         "externalId":  2056,
-        "name":  "Вольтаж FM",
+        "name":  "Р’РѕР»СЊС‚Р°Р¶ FM",
         "stream":  "https://radio.voltagefm.ru:9009/VOLTAGEFM",
         "sourceUrl":  "https://radiopotok.ru/radio/2056",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2056.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5508,8 +5508,8 @@ window.STATIONS = [
         "stream":  "https://listen1.myradio24.com/7934",
         "sourceUrl":  "https://radiopotok.ru/radio/2057",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2057.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5522,8 +5522,8 @@ window.STATIONS = [
         "stream":  "https://s0.radioheart.ru:8000/RH20472",
         "sourceUrl":  "https://radiopotok.ru/radio/2058",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2058.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5536,8 +5536,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/80032",
         "sourceUrl":  "https://radiopotok.ru/radio/2061",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2061.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5550,8 +5550,8 @@ window.STATIONS = [
         "stream":  "https://jointil.com/stream-beat",
         "sourceUrl":  "https://radiopotok.ru/radio/2062",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2062.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5560,12 +5560,12 @@ window.STATIONS = [
     {
         "id":  "rp-2063",
         "externalId":  2063,
-        "name":  "Радио Христианская Песня",
+        "name":  "Р Р°РґРёРѕ РҐСЂРёСЃС‚РёР°РЅСЃРєР°СЏ РџРµСЃРЅСЏ",
         "stream":  "https://pu.xpradio.ru:4085/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/2063",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2063.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5574,12 +5574,12 @@ window.STATIONS = [
     {
         "id":  "rp-2065",
         "externalId":  2065,
-        "name":  "Христианское Радио Сибири",
+        "name":  "РҐСЂРёСЃС‚РёР°РЅСЃРєРѕРµ Р Р°РґРёРѕ РЎРёР±РёСЂРё",
         "stream":  "https://myradio24.org/63908",
         "sourceUrl":  "https://radiopotok.ru/radio/2065",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2065.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5592,8 +5592,8 @@ window.STATIONS = [
         "stream":  "https://nashe1.hostingradio.ru:80/rock-128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2066",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2066.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5602,12 +5602,12 @@ window.STATIONS = [
     {
         "id":  "rp-2067",
         "externalId":  2067,
-        "name":  "Республика Луганск",
+        "name":  "Р РµСЃРїСѓР±Р»РёРєР° Р›СѓРіР°РЅСЃРє",
         "stream":  "https://radio.gtrklnr.ru:8443/republic.fm",
         "sourceUrl":  "https://radiopotok.ru/radio/2067",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2067.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5620,8 +5620,8 @@ window.STATIONS = [
         "stream":  "https://edmdnb.com:448/radio/8000/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2072",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2072.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5634,8 +5634,8 @@ window.STATIONS = [
         "stream":  "https://live.arenaradio.ru/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2073",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2073.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5644,12 +5644,12 @@ window.STATIONS = [
     {
         "id":  "rp-2074",
         "externalId":  2074,
-        "name":  "Монте-Карло Санкт-Петербург",
+        "name":  "РњРѕРЅС‚Рµ-РљР°СЂР»Рѕ РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі",
         "stream":  "https://montecarloreg.hostingradio.ru/spb.montecarlo96.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/2074",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2074.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5658,12 +5658,12 @@ window.STATIONS = [
     {
         "id":  "rp-2078",
         "externalId":  2078,
-        "name":  "Cassiopeia Station (Наука)",
+        "name":  "Cassiopeia Station (РќР°СѓРєР°)",
         "stream":  "https://stream.cassiopeia-station.ru:5125/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2078",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2078.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5676,8 +5676,8 @@ window.STATIONS = [
         "stream":  "https://stream.mixadance.fm/mixadance",
         "sourceUrl":  "https://radiopotok.ru/radio/208",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/208.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5690,8 +5690,8 @@ window.STATIONS = [
         "stream":  "https://misato.ru-hoster.com:8022/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2082",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2082.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5700,12 +5700,12 @@ window.STATIONS = [
     {
         "id":  "rp-2084",
         "externalId":  2084,
-        "name":  "Калейдоскоп Рок",
+        "name":  "РљР°Р»РµР№РґРѕСЃРєРѕРї Р РѕРє",
         "stream":  "https://a8.radioheart.ru:9039/KR",
         "sourceUrl":  "https://radiopotok.ru/radio/2084",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2084.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5714,12 +5714,12 @@ window.STATIONS = [
     {
         "id":  "rp-2086",
         "externalId":  2086,
-        "name":  "САМОПОЗНАНИЕ.online",
+        "name":  "РЎРђРњРћРџРћР—РќРђРќРР•.online",
         "stream":  "https://listen.myrh.ru/id055899",
         "sourceUrl":  "https://radiopotok.ru/radio/2086",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2086.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5728,12 +5728,12 @@ window.STATIONS = [
     {
         "id":  "rp-2088",
         "externalId":  2088,
-        "name":  "ИСКАТЕЛЬ Златоуст",
+        "name":  "РРЎРљРђРўР•Р›Р¬ Р—Р»Р°С‚РѕСѓСЃС‚",
         "stream":  "https://iskatel.radiostream.pro/mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2088",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2088.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5742,12 +5742,12 @@ window.STATIONS = [
     {
         "id":  "rp-2089",
         "externalId":  2089,
-        "name":  "Твой День",
+        "name":  "РўРІРѕР№ Р”РµРЅСЊ",
         "stream":  "https://listen.myrh.ru/id09449",
         "sourceUrl":  "https://radiopotok.ru/radio/2089",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2089.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5756,12 +5756,12 @@ window.STATIONS = [
     {
         "id":  "rp-2093",
         "externalId":  2093,
-        "name":  "Новороссия ROCKS",
+        "name":  "РќРѕРІРѕСЂРѕСЃСЃРёСЏ ROCKS",
         "stream":  "https://5.restream.one/2093_1",
         "sourceUrl":  "https://radiopotok.ru/radio/2093",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2093.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5774,8 +5774,8 @@ window.STATIONS = [
         "stream":  "https://radio.bbz.ru/radio/8000/192.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2095",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2095.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5784,12 +5784,12 @@ window.STATIONS = [
     {
         "id":  "rp-2100",
         "externalId":  2100,
-        "name":  "Калейдоскоп:Шансон",
+        "name":  "РљР°Р»РµР№РґРѕСЃРєРѕРї:РЁР°РЅСЃРѕРЅ",
         "stream":  "https://listen7.myradio24.com/22602",
         "sourceUrl":  "https://radiopotok.ru/radio/2100",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2100.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5802,8 +5802,8 @@ window.STATIONS = [
         "stream":  "https://stream.antiradio.net/radio/8000/web",
         "sourceUrl":  "https://radiopotok.ru/radio/2105",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2105.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5816,8 +5816,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/sohofm",
         "sourceUrl":  "https://radiopotok.ru/radio/2107",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2107.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5826,12 +5826,12 @@ window.STATIONS = [
     {
         "id":  "rp-2108",
         "externalId":  2108,
-        "name":  "МВ-Радио",
+        "name":  "РњР’-Р Р°РґРёРѕ",
         "stream":  "https://stream2.datacenter.by/mvradio",
         "sourceUrl":  "https://radiopotok.ru/radio/2108",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2108.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5844,8 +5844,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/41844",
         "sourceUrl":  "https://radiopotok.ru/radio/2109",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2109.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5858,8 +5858,8 @@ window.STATIONS = [
         "stream":  "https://stream.vyshka24.ru/radio24",
         "sourceUrl":  "https://radiopotok.ru/radio/2110",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2110.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5868,12 +5868,12 @@ window.STATIONS = [
     {
         "id":  "rp-2112",
         "externalId":  2112,
-        "name":  "Радио Тема",
+        "name":  "Р Р°РґРёРѕ РўРµРјР°",
         "stream":  "https://myradio24.org/trollbro5",
         "sourceUrl":  "https://radiopotok.ru/radio/2112",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2112.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5886,8 +5886,8 @@ window.STATIONS = [
         "stream":  "https://vtcradio.com:8005/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2113",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2113.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5900,8 +5900,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/radiolol",
         "sourceUrl":  "https://radiopotok.ru/radio/2115",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2115.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5910,12 +5910,12 @@ window.STATIONS = [
     {
         "id":  "rp-2116",
         "externalId":  2116,
-        "name":  "Яхт-Радио",
+        "name":  "РЇС…С‚-Р Р°РґРёРѕ",
         "stream":  "https://yacht-radio.lv:8005/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/2116",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2116.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5924,12 +5924,12 @@ window.STATIONS = [
     {
         "id":  "rp-2119",
         "externalId":  2119,
-        "name":  "Рок - Атака",
+        "name":  "Р РѕРє - РђС‚Р°РєР°",
         "stream":  "https://myradio24.org/rockataka",
         "sourceUrl":  "https://radiopotok.ru/radio/2119",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2119.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5938,12 +5938,12 @@ window.STATIONS = [
     {
         "id":  "rp-2120",
         "externalId":  2120,
-        "name":  "ЭлектроСтанция",
+        "name":  "Р­Р»РµРєС‚СЂРѕРЎС‚Р°РЅС†РёСЏ",
         "stream":  "https://stream.161.fm:9001/128",
         "sourceUrl":  "https://radiopotok.ru/radio/2120",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2120.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5956,8 +5956,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/absolutrad",
         "sourceUrl":  "https://radiopotok.ru/radio/2121",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2121.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5966,12 +5966,12 @@ window.STATIONS = [
     {
         "id":  "rp-2122",
         "externalId":  2122,
-        "name":  "Дискотека 80-90",
+        "name":  "Р”РёСЃРєРѕС‚РµРєР° 80-90",
         "stream":  "https://myradio24.org/dance80",
         "sourceUrl":  "https://radiopotok.ru/radio/2122",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2122.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5980,12 +5980,12 @@ window.STATIONS = [
     {
         "id":  "rp-2127",
         "externalId":  2127,
-        "name":  "Радио SP12",
+        "name":  "Р Р°РґРёРѕ SP12",
         "stream":  "https://myradio24.org/5894",
         "sourceUrl":  "https://radiopotok.ru/radio/2127",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2127.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -5998,8 +5998,8 @@ window.STATIONS = [
         "stream":  "http://myradio24.org/164fm",
         "sourceUrl":  "https://radiopotok.ru/radio/2128",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2128.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6012,8 +6012,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/indiedisco?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2129",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2129.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6026,8 +6026,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/bmg?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2130",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2130.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6040,8 +6040,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/rca?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2131",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2131.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6054,8 +6054,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/warnerbros?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2132",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2132.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6068,8 +6068,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/polydor?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2133",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2133.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6082,8 +6082,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/concord?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2134",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2134.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6092,12 +6092,12 @@ window.STATIONS = [
     {
         "id":  "rp-2137",
         "externalId":  2137,
-        "name":  "САФ балалар радиосы",
+        "name":  "РЎРђР¤ Р±Р°Р»Р°Р»Р°СЂ СЂР°РґРёРѕСЃС‹",
         "stream":  "https://c7.radioboss.fm:18335/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2137",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2137.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6110,8 +6110,8 @@ window.STATIONS = [
         "stream":  "https://breakradio.ice.infomaniak.ch/breakradio-192.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2138",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2138.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6120,12 +6120,12 @@ window.STATIONS = [
     {
         "id":  "rp-2141",
         "externalId":  2141,
-        "name":  "Пиратское Rock радио",
+        "name":  "РџРёСЂР°С‚СЃРєРѕРµ Rock СЂР°РґРёРѕ",
         "stream":  "https://live.rock-wawe.ru:8001/RockWawe",
         "sourceUrl":  "https://radiopotok.ru/radio/2141",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2141.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6138,8 +6138,8 @@ window.STATIONS = [
         "stream":  "https://jointil.com/stream-reggae",
         "sourceUrl":  "https://radiopotok.ru/radio/2143",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2143.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6148,12 +6148,12 @@ window.STATIONS = [
     {
         "id":  "rp-2145",
         "externalId":  2145,
-        "name":  "РЕТРО РАДИО",
+        "name":  "Р Р•РўР Рћ Р РђР”РРћ",
         "stream":  "https://listen2.myradio24.com/1458",
         "sourceUrl":  "https://radiopotok.ru/radio/2145",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2145.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6162,12 +6162,12 @@ window.STATIONS = [
     {
         "id":  "rp-2146",
         "externalId":  2146,
-        "name":  "Радио Гусь",
+        "name":  "Р Р°РґРёРѕ Р“СѓСЃСЊ",
         "stream":  "https://stream.radiogoose.ru/listen/radiogoose/play",
         "sourceUrl":  "https://radiopotok.ru/radio/2146",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2146.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6176,12 +6176,12 @@ window.STATIONS = [
     {
         "id":  "rp-2152",
         "externalId":  2152,
-        "name":  "Вечная Молодость",
+        "name":  "Р’РµС‡РЅР°СЏ РњРѕР»РѕРґРѕСЃС‚СЊ",
         "stream":  "https://misato.ru-hoster.com:8037/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2152",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2152.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6194,8 +6194,8 @@ window.STATIONS = [
         "stream":  "https://jointil.com/stream-blues",
         "sourceUrl":  "https://radiopotok.ru/radio/2153",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2153.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6208,8 +6208,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/nrastrology",
         "sourceUrl":  "https://radiopotok.ru/radio/2154",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2154.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6218,12 +6218,12 @@ window.STATIONS = [
     {
         "id":  "rp-2156",
         "externalId":  2156,
-        "name":  "Радио Азамат",
+        "name":  "Р Р°РґРёРѕ РђР·Р°РјР°С‚",
         "stream":  "https://listen4.myradio24.com/8162",
         "sourceUrl":  "https://radiopotok.ru/radio/2156",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2156.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6236,8 +6236,8 @@ window.STATIONS = [
         "stream":  "https://listen4.myradio24.com/ilshat",
         "sourceUrl":  "https://radiopotok.ru/radio/2158",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2158.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6246,12 +6246,12 @@ window.STATIONS = [
     {
         "id":  "rp-2159",
         "externalId":  2159,
-        "name":  "Упоротая Волна",
+        "name":  "РЈРїРѕСЂРѕС‚Р°СЏ Р’РѕР»РЅР°",
         "stream":  "https://i-radio.info:8025/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/2159",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2159.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6260,12 +6260,12 @@ window.STATIONS = [
     {
         "id":  "rp-2161",
         "externalId":  2161,
-        "name":  "Радио Nostalgie Perm",
+        "name":  "Р Р°РґРёРѕ Nostalgie Perm",
         "stream":  "https://icecast-bulteam.cdnvideo.ru/Nostalgie",
         "sourceUrl":  "https://radiopotok.ru/radio/2161",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2161.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6274,12 +6274,12 @@ window.STATIONS = [
     {
         "id":  "rp-2163",
         "externalId":  2163,
-        "name":  "Ночной звонок",
+        "name":  "РќРѕС‡РЅРѕР№ Р·РІРѕРЅРѕРє",
         "stream":  "https://myradio24.org/74828",
         "sourceUrl":  "https://radiopotok.ru/radio/2163",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2163.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6288,12 +6288,12 @@ window.STATIONS = [
     {
         "id":  "rp-2166",
         "externalId":  2166,
-        "name":  "Наш Шансон",
+        "name":  "РќР°С€ РЁР°РЅСЃРѕРЅ",
         "stream":  "https://myradio24.org/8144",
         "sourceUrl":  "https://radiopotok.ru/radio/2166",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2166.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6302,12 +6302,12 @@ window.STATIONS = [
     {
         "id":  "rp-2167",
         "externalId":  2167,
-        "name":  "Радио Вышка Казахстан",
+        "name":  "Р Р°РґРёРѕ Р’С‹С€РєР° РљР°Р·Р°С…СЃС‚Р°РЅ",
         "stream":  "https://stream.vyshka24.ru/kz",
         "sourceUrl":  "https://radiopotok.ru/radio/2167",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2167.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6320,8 +6320,8 @@ window.STATIONS = [
         "stream":  "https://deep.amgradio.ru/DeepFM",
         "sourceUrl":  "https://radiopotok.ru/radio/2170",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2170.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6334,8 +6334,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/9316",
         "sourceUrl":  "https://radiopotok.ru/radio/2171",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2171.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6344,12 +6344,12 @@ window.STATIONS = [
     {
         "id":  "rp-2172",
         "externalId":  2172,
-        "name":  "#КАЧПОХАРДКОРУ",
+        "name":  "#РљРђР§РџРћРҐРђР Р”РљРћР РЈ",
         "stream":  "https://a8.radioheart.ru:8018/RH64089",
         "sourceUrl":  "https://radiopotok.ru/radio/2172",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2172.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6362,8 +6362,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/nevermind",
         "sourceUrl":  "https://radiopotok.ru/radio/2174",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2174.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6376,8 +6376,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/5129",
         "sourceUrl":  "https://radiopotok.ru/radio/2176",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2176.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6390,8 +6390,8 @@ window.STATIONS = [
         "stream":  "https://listen.myrh.ru/id079040",
         "sourceUrl":  "https://radiopotok.ru/radio/2177",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2177.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6400,12 +6400,12 @@ window.STATIONS = [
     {
         "id":  "rp-2178",
         "externalId":  2178,
-        "name":  "Соловьёв LIVE FM",
+        "name":  "РЎРѕР»РѕРІСЊС‘РІ LIVE FM",
         "stream":  "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/2178",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2178.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6414,12 +6414,12 @@ window.STATIONS = [
     {
         "id":  "rp-2179",
         "externalId":  2179,
-        "name":  "Кот рекомендует =)",
+        "name":  "РљРѕС‚ СЂРµРєРѕРјРµРЅРґСѓРµС‚ =)",
         "stream":  "https://myradio24.org/radiokot",
         "sourceUrl":  "https://radiopotok.ru/radio/2179",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2179.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6428,12 +6428,12 @@ window.STATIONS = [
     {
         "id":  "rp-2183",
         "externalId":  2183,
-        "name":  "Радио Ы",
+        "name":  "Р Р°РґРёРѕ Р«",
         "stream":  "https://myradio24.org/73094",
         "sourceUrl":  "https://radiopotok.ru/radio/2183",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2183.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6446,8 +6446,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/93299",
         "sourceUrl":  "https://radiopotok.ru/radio/2184",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2184.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6460,8 +6460,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/8317",
         "sourceUrl":  "https://radiopotok.ru/radio/2185",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2185.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6470,12 +6470,12 @@ window.STATIONS = [
     {
         "id":  "rp-2187",
         "externalId":  2187,
-        "name":  "Первый Звук",
+        "name":  "РџРµСЂРІС‹Р№ Р—РІСѓРє",
         "stream":  "https://listen.myrh.ru/id068974",
         "sourceUrl":  "https://radiopotok.ru/radio/2187",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2187.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6488,8 +6488,8 @@ window.STATIONS = [
         "stream":  "https://runder.org/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2188",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2188.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6502,8 +6502,8 @@ window.STATIONS = [
         "stream":  "https://a6.radioheart.ru:9004/RH64862",
         "sourceUrl":  "https://radiopotok.ru/radio/2189",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2189.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6516,8 +6516,8 @@ window.STATIONS = [
         "stream":  "https://stream.zeno.fm/kbejoyto97atv",
         "sourceUrl":  "https://radiopotok.ru/radio/2190",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2190.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6526,12 +6526,12 @@ window.STATIONS = [
     {
         "id":  "rp-2194",
         "externalId":  2194,
-        "name":  "АМБЕР ФМ",
+        "name":  "РђРњР‘Р•Р  Р¤Рњ",
         "stream":  "https://myradio24.org/8770",
         "sourceUrl":  "https://radiopotok.ru/radio/2194",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2194.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6540,12 +6540,12 @@ window.STATIONS = [
     {
         "id":  "rp-2195",
         "externalId":  2195,
-        "name":  "КомпромиС ФМ",
+        "name":  "РљРѕРјРїСЂРѕРјРёРЎ Р¤Рњ",
         "stream":  "https://myradio24.org/kfm",
         "sourceUrl":  "https://radiopotok.ru/radio/2195",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2195.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6558,8 +6558,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/85516_320 ",
         "sourceUrl":  "https://radiopotok.ru/radio/2196",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2196.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6572,8 +6572,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/56276",
         "sourceUrl":  "https://radiopotok.ru/radio/2198",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2198.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6586,8 +6586,8 @@ window.STATIONS = [
         "stream":  "https://radio.rsound.cyou/stream.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2199",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2199.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6600,8 +6600,8 @@ window.STATIONS = [
         "stream":  "https://trmusicss.ddns.net:8443/live",
         "sourceUrl":  "https://radiopotok.ru/radio/2203",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2203.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6610,12 +6610,12 @@ window.STATIONS = [
     {
         "id":  "rp-2204",
         "externalId":  2204,
-        "name":  "Радио Золотая Колесница",
+        "name":  "Р Р°РґРёРѕ Р—РѕР»РѕС‚Р°СЏ РљРѕР»РµСЃРЅРёС†Р°",
         "stream":  "https://play.goldenchariot.ru:9595/golden",
         "sourceUrl":  "https://radiopotok.ru/radio/2204",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2204.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6628,8 +6628,8 @@ window.STATIONS = [
         "stream":  "https://listen.atomic.radio/dopephonk/middlequality",
         "sourceUrl":  "https://radiopotok.ru/radio/2205",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2205.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6642,8 +6642,8 @@ window.STATIONS = [
         "stream":  "https://stream.streetbeatfm.ru/online",
         "sourceUrl":  "https://radiopotok.ru/radio/2206",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2206.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6656,8 +6656,8 @@ window.STATIONS = [
         "stream":  "https://drh-node-04.dline-media.com/powerhit128",
         "sourceUrl":  "https://radiopotok.ru/radio/2207",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2207.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6670,8 +6670,8 @@ window.STATIONS = [
         "stream":  "https://listen.radio-greendance.su:8010/green_dance",
         "sourceUrl":  "https://radiopotok.ru/radio/2208",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2208.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6680,12 +6680,12 @@ window.STATIONS = [
     {
         "id":  "rp-2209",
         "externalId":  2209,
-        "name":  "Радио Пайванд",
+        "name":  "Р Р°РґРёРѕ РџР°Р№РІР°РЅРґ",
         "stream":  "https://c6.radioboss.fm/stream/234",
         "sourceUrl":  "https://radiopotok.ru/radio/2209",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2209.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6694,12 +6694,12 @@ window.STATIONS = [
     {
         "id":  "rp-221",
         "externalId":  221,
-        "name":  "Новое радио 98.4 FM",
+        "name":  "РќРѕРІРѕРµ СЂР°РґРёРѕ 98.4 FM",
         "stream":  "https://stream.newradio.ru/novoe96.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/221",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/221.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6708,12 +6708,12 @@ window.STATIONS = [
     {
         "id":  "rp-2210",
         "externalId":  2210,
-        "name":  "Радио Меломания",
+        "name":  "Р Р°РґРёРѕ РњРµР»РѕРјР°РЅРёСЏ",
         "stream":  "https://myradio24.org/90250",
         "sourceUrl":  "https://radiopotok.ru/radio/2210",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2210.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6722,12 +6722,12 @@ window.STATIONS = [
     {
         "id":  "rp-2223",
         "externalId":  2223,
-        "name":  "РАДИОДЕТКИ",
+        "name":  "Р РђР”РРћР”Р•РўРљР",
         "stream":  "https://myradio24.org/radiodetki",
         "sourceUrl":  "https://radiopotok.ru/radio/2223",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2223.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6736,12 +6736,12 @@ window.STATIONS = [
     {
         "id":  "rp-2229",
         "externalId":  2229,
-        "name":  "Ретроклуб Радиотеатр",
+        "name":  "Р РµС‚СЂРѕРєР»СѓР± Р Р°РґРёРѕС‚РµР°С‚СЂ",
         "stream":  "https://retroclub.hostingradio.ru/retroclub128.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/2229",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2229.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6750,12 +6750,12 @@ window.STATIONS = [
     {
         "id":  "rp-2230",
         "externalId":  2230,
-        "name":  "Ретроклуб Инструментал",
+        "name":  "Р РµС‚СЂРѕРєР»СѓР± РРЅСЃС‚СЂСѓРјРµРЅС‚Р°Р»",
         "stream":  "https://retroclub.hostingradio.ru/retroclubdbl224.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/2230",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2230.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6764,12 +6764,12 @@ window.STATIONS = [
     {
         "id":  "rp-2231",
         "externalId":  2231,
-        "name":  "Ретроклуб Радио 60-х",
+        "name":  "Р РµС‚СЂРѕРєР»СѓР± Р Р°РґРёРѕ 60-С…",
         "stream":  "https://retroclub.hostingradio.ru/retroclubdbl128.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/2231",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2231.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6778,12 +6778,12 @@ window.STATIONS = [
     {
         "id":  "rp-2232",
         "externalId":  2232,
-        "name":  "М Радио",
+        "name":  "Рњ Р Р°РґРёРѕ",
         "stream":  "https://myradio24.org/mradiomsk",
         "sourceUrl":  "https://radiopotok.ru/radio/2232",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2232.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6792,12 +6792,12 @@ window.STATIONS = [
     {
         "id":  "rp-2241",
         "externalId":  2241,
-        "name":  "Анапский Район",
+        "name":  "РђРЅР°РїСЃРєРёР№ Р Р°Р№РѕРЅ",
         "stream":  "https://anapskiy.ru/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2241",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2241.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6806,12 +6806,12 @@ window.STATIONS = [
     {
         "id":  "rp-2242",
         "externalId":  2242,
-        "name":  "ВЕТЕРАН FM",
+        "name":  "Р’Р•РўР•Р РђРќ FM",
         "stream":  "https://warveterans.ru:8000/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2242",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2242.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6824,8 +6824,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/67739",
         "sourceUrl":  "https://radiopotok.ru/radio/2246",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2246.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6834,12 +6834,12 @@ window.STATIONS = [
     {
         "id":  "rp-2249",
         "externalId":  2249,
-        "name":  "Российский национальный оркестр - РНО",
+        "name":  "Р РѕСЃСЃРёР№СЃРєРёР№ РЅР°С†РёРѕРЅР°Р»СЊРЅС‹Р№ РѕСЂРєРµСЃС‚СЂ - Р РќРћ",
         "stream":  "https://rnor.ru/data/radioRNO/radio128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2249",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2249.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6848,12 +6848,12 @@ window.STATIONS = [
     {
         "id":  "rp-2251",
         "externalId":  2251,
-        "name":  "Большой детский хор В.С. Попова",
+        "name":  "Р‘РѕР»СЊС€РѕР№ РґРµС‚СЃРєРёР№ С…РѕСЂ Р’.РЎ. РџРѕРїРѕРІР°",
         "stream":  "https://radio.rnor.ru:8010/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2251",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2251.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6862,12 +6862,12 @@ window.STATIONS = [
     {
         "id":  "rp-2253",
         "externalId":  2253,
-        "name":  "СВОЕFM | DEEP RADIO",
+        "name":  "РЎР’РћР•FM | DEEP RADIO",
         "stream":  "https://h.getradio.me/svoefm/hls.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/2253",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2253.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6876,12 +6876,12 @@ window.STATIONS = [
     {
         "id":  "rp-2254",
         "externalId":  2254,
-        "name":  "Мурзик Радио",
+        "name":  "РњСѓСЂР·РёРє Р Р°РґРёРѕ",
         "stream":  "https://murzikradio.ru:1040/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2254",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2254.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6890,12 +6890,12 @@ window.STATIONS = [
     {
         "id":  "rp-2255",
         "externalId":  2255,
-        "name":  "Радио-Н (Новочеркасск)",
+        "name":  "Р Р°РґРёРѕ-Рќ (РќРѕРІРѕС‡РµСЂРєР°СЃСЃРє)",
         "stream":  "https://online.radio-n.ru:4085/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/2255",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2255.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6908,8 +6908,8 @@ window.STATIONS = [
         "stream":  "https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2256",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2256.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6918,12 +6918,12 @@ window.STATIONS = [
     {
         "id":  "rp-2259",
         "externalId":  2259,
-        "name":  "Счастливы вместе",
+        "name":  "РЎС‡Р°СЃС‚Р»РёРІС‹ РІРјРµСЃС‚Рµ",
         "stream":  "https://myradio24.org/92472",
         "sourceUrl":  "https://radiopotok.ru/radio/2259",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2259.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6936,8 +6936,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/25274",
         "sourceUrl":  "https://radiopotok.ru/radio/2262",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2262.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6946,12 +6946,12 @@ window.STATIONS = [
     {
         "id":  "rp-2263",
         "externalId":  2263,
-        "name":  "Радиостанция «Открытие»",
+        "name":  "Р Р°РґРёРѕСЃС‚Р°РЅС†РёСЏ В«РћС‚РєСЂС‹С‚РёРµВ»",
         "stream":  "https://discoveryfm.hostingradio.ru/discovery128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2263",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2263.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6964,8 +6964,8 @@ window.STATIONS = [
         "stream":  "https://cast4.my-control-panel.com/proxy/nebulara/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2264",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2264.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6978,8 +6978,8 @@ window.STATIONS = [
         "stream":  "https://c30.radioboss.fm:8643/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2266",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2266.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -6988,12 +6988,12 @@ window.STATIONS = [
     {
         "id":  "rp-2267",
         "externalId":  2267,
-        "name":  "Радио Легенда",
+        "name":  "Р Р°РґРёРѕ Р›РµРіРµРЅРґР°",
         "stream":  "https://radiolegenda.ru:8001/64.aac",
         "sourceUrl":  "https://radiopotok.ru/radio/2267",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2267.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7006,8 +7006,8 @@ window.STATIONS = [
         "stream":  "https://cast1.torontocast.com:2805/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/2269",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2269.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7016,12 +7016,12 @@ window.STATIONS = [
     {
         "id":  "rp-2271",
         "externalId":  2271,
-        "name":  "Радио MWT",
+        "name":  "Р Р°РґРёРѕ MWT",
         "stream":  "https://stream.volnorez.com/live-app/908994",
         "sourceUrl":  "https://radiopotok.ru/radio/2271",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2271.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7034,8 +7034,8 @@ window.STATIONS = [
         "stream":  "https://broadcast.miami/proxy/italodisco?mp=/stream/;",
         "sourceUrl":  "https://radiopotok.ru/radio/2272",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2272.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7048,8 +7048,8 @@ window.STATIONS = [
         "stream":  "https://cors-proxy.elfsight.com/http://31.134.186.227:8000/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2274",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2274.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7062,8 +7062,8 @@ window.STATIONS = [
         "stream":  "https://icecast.livetv.az/yurdfm",
         "sourceUrl":  "https://radiopotok.ru/radio/2279",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2279.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7076,8 +7076,8 @@ window.STATIONS = [
         "stream":  "https://musicbox.amgradio.ru/musicbox",
         "sourceUrl":  "https://radiopotok.ru/radio/2281",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2281.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7086,12 +7086,12 @@ window.STATIONS = [
     {
         "id":  "rp-2282",
         "externalId":  2282,
-        "name":  "Русские Песни",
+        "name":  "Р СѓСЃСЃРєРёРµ РџРµСЃРЅРё",
         "stream":  "https://rusongs.amgradio.ru/rusongs",
         "sourceUrl":  "https://radiopotok.ru/radio/2282",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2282.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7104,8 +7104,8 @@ window.STATIONS = [
         "stream":  "https://djin.amgradio.ru/djin",
         "sourceUrl":  "https://radiopotok.ru/radio/2283",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2283.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7118,8 +7118,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/serz",
         "sourceUrl":  "https://radiopotok.ru/radio/2284",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2284.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7132,8 +7132,8 @@ window.STATIONS = [
         "stream":  "https://radio.retrolan.party:8000/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/2285",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2285.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7146,8 +7146,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/69846",
         "sourceUrl":  "https://radiopotok.ru/radio/2286",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/2286.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7156,12 +7156,12 @@ window.STATIONS = [
     {
         "id":  "rp-236",
         "externalId":  236,
-        "name":  "Спокойное радио",
+        "name":  "РЎРїРѕРєРѕР№РЅРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://myradio24.org/6262",
         "sourceUrl":  "https://radiopotok.ru/radio/236",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/236.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7170,12 +7170,12 @@ window.STATIONS = [
     {
         "id":  "rp-257",
         "externalId":  257,
-        "name":  "Русский хит",
+        "name":  "Р СѓСЃСЃРєРёР№ С…РёС‚",
         "stream":  "https://rp.amgradio.ru/RuWave48",
         "sourceUrl":  "https://radiopotok.ru/radio/257",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/257.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7184,12 +7184,12 @@ window.STATIONS = [
     {
         "id":  "rp-291",
         "externalId":  291,
-        "name":  "Радио Пассаж",
+        "name":  "Р Р°РґРёРѕ РџР°СЃСЃР°Р¶",
         "stream":  "https://listen.radiopassazh.ru/aac-64",
         "sourceUrl":  "https://radiopotok.ru/radio/291",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/291.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7202,8 +7202,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/8118",
         "sourceUrl":  "https://radiopotok.ru/radio/296",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/296.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7216,8 +7216,8 @@ window.STATIONS = [
         "stream":  "https://bfmreg.hostingradio.ru/spb.bfm128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/3",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/3.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7230,8 +7230,8 @@ window.STATIONS = [
         "stream":  "https://uk2.streamingpulse.com/ssl/vcr1",
         "sourceUrl":  "https://radiopotok.ru/radio/30",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/30.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7240,12 +7240,12 @@ window.STATIONS = [
     {
         "id":  "rp-308",
         "externalId":  308,
-        "name":  "Радио Джаз 89.1",
+        "name":  "Р Р°РґРёРѕ Р”Р¶Р°Р· 89.1",
         "stream":  "https://nashe1.hostingradio.ru/jazz-128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/308",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/308.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7258,8 +7258,8 @@ window.STATIONS = [
         "stream":  "https://nl1.streamhosting.ch/;",
         "sourceUrl":  "https://radiopotok.ru/radio/310",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/310.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7268,12 +7268,12 @@ window.STATIONS = [
     {
         "id":  "rp-316",
         "externalId":  316,
-        "name":  "Диполь FM",
+        "name":  "Р”РёРїРѕР»СЊ FM",
         "stream":  "https://5.restream.one/316_1",
         "sourceUrl":  "https://radiopotok.ru/radio/316",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/316.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7286,8 +7286,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/34_1",
         "sourceUrl":  "https://radiopotok.ru/radio/34",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/34.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7296,12 +7296,12 @@ window.STATIONS = [
     {
         "id":  "rp-35",
         "externalId":  35,
-        "name":  "Радио PREMIUM",
+        "name":  "Р Р°РґРёРѕ PREMIUM",
         "stream":  "https://hls.rpfm.ru/rpfm/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/35",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/35.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7310,12 +7310,12 @@ window.STATIONS = [
     {
         "id":  "rp-354",
         "externalId":  354,
-        "name":  "Радио Брянск 32",
+        "name":  "Р Р°РґРёРѕ Р‘СЂСЏРЅСЃРє 32",
         "stream":  "https://online.guberniya.tv:8443/32radio",
         "sourceUrl":  "https://radiopotok.ru/radio/354",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/354.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7324,12 +7324,12 @@ window.STATIONS = [
     {
         "id":  "rp-36",
         "externalId":  36,
-        "name":  "Fréquence 3",
+        "name":  "FrГ©quence 3",
         "stream":  "https://frequence3.net-radio.fr/frequence3-128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/36",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/36.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7338,12 +7338,12 @@ window.STATIONS = [
     {
         "id":  "rp-361",
         "externalId":  361,
-        "name":  "Чистые ключи - Брянск",
+        "name":  "Р§РёСЃС‚С‹Рµ РєР»СЋС‡Рё - Р‘СЂСЏРЅСЃРє",
         "stream":  "https://myradio24.org/chk2",
         "sourceUrl":  "https://radiopotok.ru/radio/361",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/361.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7352,12 +7352,12 @@ window.STATIONS = [
     {
         "id":  "rp-362",
         "externalId":  362,
-        "name":  "Радио НЕСТАНДАРТ",
+        "name":  "Р Р°РґРёРѕ РќР•РЎРўРђРќР”РђР Рў",
         "stream":  "https://listen.radionestandart.ru/nestandart-320.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/362",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/362.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7366,12 +7366,12 @@ window.STATIONS = [
     {
         "id":  "rp-364",
         "externalId":  364,
-        "name":  "Православное радио Молдовы",
+        "name":  "РџСЂР°РІРѕСЃР»Р°РІРЅРѕРµ СЂР°РґРёРѕ РњРѕР»РґРѕРІС‹",
         "stream":  "https://1.restream.one/364_1",
         "sourceUrl":  "https://radiopotok.ru/radio/364",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/364.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7380,12 +7380,12 @@ window.STATIONS = [
     {
         "id":  "rp-369",
         "externalId":  369,
-        "name":  "Русские популярные песни",
+        "name":  "Р СѓСЃСЃРєРёРµ РїРѕРїСѓР»СЏСЂРЅС‹Рµ РїРµСЃРЅРё",
         "stream":  "https://listen.rusongs.ru/ru-aac-64",
         "sourceUrl":  "https://radiopotok.ru/radio/369",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/369.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7398,8 +7398,8 @@ window.STATIONS = [
         "stream":  "https://air.dnbfm.ru/listen/player/play",
         "sourceUrl":  "https://radiopotok.ru/radio/373",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/373.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7408,12 +7408,12 @@ window.STATIONS = [
     {
         "id":  "rp-38",
         "externalId":  38,
-        "name":  "1.FM – TOP 40",
+        "name":  "1.FM вЂ“ TOP 40",
         "stream":  "https://strm112.1.fm/top40_mobile_mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/38",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/38.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7426,8 +7426,8 @@ window.STATIONS = [
         "stream":  "https://stream.bfmradio.us/stream128/",
         "sourceUrl":  "https://radiopotok.ru/radio/384",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/384.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7440,8 +7440,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/45329",
         "sourceUrl":  "https://radiopotok.ru/radio/400",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/400.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7450,12 +7450,12 @@ window.STATIONS = [
     {
         "id":  "rp-406",
         "externalId":  406,
-        "name":  "Вышка",
+        "name":  "Р’С‹С€РєР°",
         "stream":  "https://stream.vyshka24.ru/256",
         "sourceUrl":  "https://radiopotok.ru/radio/406",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/406.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7468,8 +7468,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/42_1",
         "sourceUrl":  "https://radiopotok.ru/radio/42",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/42.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7478,12 +7478,12 @@ window.STATIONS = [
     {
         "id":  "rp-420",
         "externalId":  420,
-        "name":  "Радио Благовестие",
+        "name":  "Р Р°РґРёРѕ Р‘Р»Р°РіРѕРІРµСЃС‚РёРµ",
         "stream":  "https://1.restream.one/420_1",
         "sourceUrl":  "https://radiopotok.ru/radio/420",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/420.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7492,12 +7492,12 @@ window.STATIONS = [
     {
         "id":  "rp-422",
         "externalId":  422,
-        "name":  "Радио Вера",
+        "name":  "Р Р°РґРёРѕ Р’РµСЂР°",
         "stream":  "https://radiovera.hostingradio.ru:8007/radiovera_128",
         "sourceUrl":  "https://radiopotok.ru/radio/422",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/422.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7510,8 +7510,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/423_1",
         "sourceUrl":  "https://radiopotok.ru/radio/423",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/423.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7524,8 +7524,8 @@ window.STATIONS = [
         "stream":  "https://europarussia.ru:8006/live",
         "sourceUrl":  "https://radiopotok.ru/radio/426",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/426.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7534,12 +7534,12 @@ window.STATIONS = [
     {
         "id":  "rp-427",
         "externalId":  427,
-        "name":  "Р52",
+        "name":  "Р 52",
         "stream":  "https://1.restream.one/427_1",
         "sourceUrl":  "https://radiopotok.ru/radio/427",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/427.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7548,12 +7548,12 @@ window.STATIONS = [
     {
         "id":  "rp-429",
         "externalId":  429,
-        "name":  "Музком",
+        "name":  "РњСѓР·РєРѕРј",
         "stream":  "https://thenonstopradio.com/play?url=http://s02.radio-tochka.com:5000/stream",
         "sourceUrl":  "https://radiopotok.ru/radio/429",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/429.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7562,12 +7562,12 @@ window.STATIONS = [
     {
         "id":  "rp-436",
         "externalId":  436,
-        "name":  "КП Челябинск",
+        "name":  "РљРџ Р§РµР»СЏР±РёРЅСЃРє",
         "stream":  "https://5.restream.one/436_1",
         "sourceUrl":  "https://radiopotok.ru/radio/436",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/436.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7580,8 +7580,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/44_1",
         "sourceUrl":  "https://radiopotok.ru/radio/44",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/44.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7590,12 +7590,12 @@ window.STATIONS = [
     {
         "id":  "rp-444",
         "externalId":  444,
-        "name":  "Радио Орэну",
+        "name":  "Р Р°РґРёРѕ РћСЂСЌРЅСѓ",
         "stream":  "https://myradio24.org/orenu",
         "sourceUrl":  "https://radiopotok.ru/radio/444",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/444.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7604,12 +7604,12 @@ window.STATIONS = [
     {
         "id":  "rp-457",
         "externalId":  457,
-        "name":  "Старое радио — музыка",
+        "name":  "РЎС‚Р°СЂРѕРµ СЂР°РґРёРѕ вЂ” РјСѓР·С‹РєР°",
         "stream":  "https://1.restream.one/457_1",
         "sourceUrl":  "https://radiopotok.ru/radio/457",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/457.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7622,8 +7622,8 @@ window.STATIONS = [
         "stream":  "https://radio.stereoscenic.com/asp-s",
         "sourceUrl":  "https://radiopotok.ru/radio/465",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/465.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7636,8 +7636,8 @@ window.STATIONS = [
         "stream":  "https://listen.181fm.com/181-chilled_128k.mp3?noPreRoll=true",
         "sourceUrl":  "https://radiopotok.ru/radio/469",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/469.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7650,8 +7650,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/471_1",
         "sourceUrl":  "https://radiopotok.ru/radio/471",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/471.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7660,12 +7660,12 @@ window.STATIONS = [
     {
         "id":  "rp-472",
         "externalId":  472,
-        "name":  "Costa Del Mar – Chillout",
+        "name":  "Costa Del Mar вЂ“ Chillout",
         "stream":  "https://1.restream.one/472_1",
         "sourceUrl":  "https://radiopotok.ru/radio/472",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/472.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7678,8 +7678,8 @@ window.STATIONS = [
         "stream":  "https://ice3.somafm.com/spacestation-128-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/477",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/477.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7692,8 +7692,8 @@ window.STATIONS = [
         "stream":  "https://ice3.somafm.com/missioncontrol-128-mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/478",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/478.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7702,12 +7702,12 @@ window.STATIONS = [
     {
         "id":  "rp-482",
         "externalId":  482,
-        "name":  "Радио Хит",
+        "name":  "Р Р°РґРёРѕ РҐРёС‚",
         "stream":  "https://hit.trkeurasia.ru/hit128",
         "sourceUrl":  "https://radiopotok.ru/radio/482",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/482.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7716,12 +7716,12 @@ window.STATIONS = [
     {
         "id":  "rp-485",
         "externalId":  485,
-        "name":  "Радио Uvaga.by",
+        "name":  "Р Р°РґРёРѕ Uvaga.by",
         "stream":  "https://1.restream.one/485_1",
         "sourceUrl":  "https://radiopotok.ru/radio/485",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/485.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7730,12 +7730,12 @@ window.STATIONS = [
     {
         "id":  "rp-487",
         "externalId":  487,
-        "name":  "Хорошее Радио",
+        "name":  "РҐРѕСЂРѕС€РµРµ Р Р°РґРёРѕ",
         "stream":  "https://hr.amgradio.ru/Horoshee",
         "sourceUrl":  "https://radiopotok.ru/radio/487",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/487.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7744,12 +7744,12 @@ window.STATIONS = [
     {
         "id":  "rp-488",
         "externalId":  488,
-        "name":  "Радио Теос",
+        "name":  "Р Р°РґРёРѕ РўРµРѕСЃ",
         "stream":  "https://stream.teos.fm/mp3_hq",
         "sourceUrl":  "https://radiopotok.ru/radio/488",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/488.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7762,8 +7762,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/491_1",
         "sourceUrl":  "https://radiopotok.ru/radio/491",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/491.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7772,12 +7772,12 @@ window.STATIONS = [
     {
         "id":  "rp-495",
         "externalId":  495,
-        "name":  "Радио Звезда",
+        "name":  "Р Р°РґРёРѕ Р—РІРµР·РґР°",
         "stream":  "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
         "sourceUrl":  "https://radiopotok.ru/radio/495",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/495.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7790,8 +7790,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/50_1",
         "sourceUrl":  "https://radiopotok.ru/radio/50",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/50.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7804,8 +7804,8 @@ window.STATIONS = [
         "stream":  "https://idobiradio.idobi.com/;",
         "sourceUrl":  "https://radiopotok.ru/radio/51",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/51.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7814,12 +7814,12 @@ window.STATIONS = [
     {
         "id":  "rp-523",
         "externalId":  523,
-        "name":  "Радио Экстрим",
+        "name":  "Р Р°РґРёРѕ Р­РєСЃС‚СЂРёРј",
         "stream":  "https://listen.radioextreme.ru",
         "sourceUrl":  "https://radiopotok.ru/radio/523",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/523.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7832,8 +7832,8 @@ window.STATIONS = [
         "stream":  "https://hls-01-gpm.hostingradio.ru/comedyradio495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/526",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/526.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7842,12 +7842,12 @@ window.STATIONS = [
     {
         "id":  "rp-541",
         "externalId":  541,
-        "name":  "Лемма (Владивосток)",
+        "name":  "Р›РµРјРјР° (Р’Р»Р°РґРёРІРѕСЃС‚РѕРє)",
         "stream":  "https://stream.radiosibir.ru:8093/HQ",
         "sourceUrl":  "https://radiopotok.ru/radio/541",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/541.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7856,12 +7856,12 @@ window.STATIONS = [
     {
         "id":  "rp-542",
         "externalId":  542,
-        "name":  "Атмосфера",
+        "name":  "РђС‚РјРѕСЃС„РµСЂР°",
         "stream":  "https://myradio24.org/atmo",
         "sourceUrl":  "https://radiopotok.ru/radio/542",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/542.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7874,8 +7874,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/543_1",
         "sourceUrl":  "https://radiopotok.ru/radio/543",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/543.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7888,8 +7888,8 @@ window.STATIONS = [
         "stream":  "https://streaming.radio.co/s774887f7b/listen",
         "sourceUrl":  "https://radiopotok.ru/radio/55",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/55.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7902,8 +7902,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/56_1",
         "sourceUrl":  "https://radiopotok.ru/radio/56",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/56.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7916,8 +7916,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/561_1",
         "sourceUrl":  "https://radiopotok.ru/radio/561",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/561.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7930,8 +7930,8 @@ window.STATIONS = [
         "stream":  "https://1.restream.one/57_1",
         "sourceUrl":  "https://radiopotok.ru/radio/57",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/57.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7944,8 +7944,8 @@ window.STATIONS = [
         "stream":  "https://ice5.securenetsystems.net/KCSM?type=.flv",
         "sourceUrl":  "https://radiopotok.ru/radio/59",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/59.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7958,8 +7958,8 @@ window.STATIONS = [
         "stream":  "https://hls-01-gpm.hostingradio.ru/relaxfm495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/597",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/597.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7972,8 +7972,8 @@ window.STATIONS = [
         "stream":  "https://us9.streamingpulse.com/ssl/WDNA",
         "sourceUrl":  "https://radiopotok.ru/radio/60",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/60.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7982,12 +7982,12 @@ window.STATIONS = [
     {
         "id":  "rp-602",
         "externalId":  602,
-        "name":  "Дорожное радио Златоуст",
+        "name":  "Р”РѕСЂРѕР¶РЅРѕРµ СЂР°РґРёРѕ Р—Р»Р°С‚РѕСѓСЃС‚",
         "stream":  "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/602",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/602.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -7996,12 +7996,12 @@ window.STATIONS = [
     {
         "id":  "rp-603",
         "externalId":  603,
-        "name":  "Монте-Карло",
+        "name":  "РњРѕРЅС‚Рµ-РљР°СЂР»Рѕ",
         "stream":  "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/603",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/603.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8010,12 +8010,12 @@ window.STATIONS = [
     {
         "id":  "rp-608",
         "externalId":  608,
-        "name":  "Радио МИР.Беларусь",
+        "name":  "Р Р°РґРёРѕ РњРР .Р‘РµР»Р°СЂСѓСЃСЊ",
         "stream":  "https://media1.datacenter.by:1936/radiomir/radiomir/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/608",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/608.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8024,12 +8024,12 @@ window.STATIONS = [
     {
         "id":  "rp-609",
         "externalId":  609,
-        "name":  "Народы мира",
+        "name":  "РќР°СЂРѕРґС‹ РјРёСЂР°",
         "stream":  "https://stream.drugradio.ru:8010/stream128",
         "sourceUrl":  "https://radiopotok.ru/radio/609",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/609.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8042,8 +8042,8 @@ window.STATIONS = [
         "stream":  "https://stream.srg-ssr.ch/m/rsj/mp3_128",
         "sourceUrl":  "https://radiopotok.ru/radio/61",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/61.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8052,12 +8052,12 @@ window.STATIONS = [
     {
         "id":  "rp-611",
         "externalId":  611,
-        "name":  "для Медитации",
+        "name":  "РґР»СЏ РњРµРґРёС‚Р°С†РёРё",
         "stream":  "https://i-radio.info:8055/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/611",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/611.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8066,12 +8066,12 @@ window.STATIONS = [
     {
         "id":  "rp-614",
         "externalId":  614,
-        "name":  "Коммерсантъ FM",
+        "name":  "РљРѕРјРјРµСЂСЃР°РЅС‚СЉ FM",
         "stream":  "https://kommersant77.hostingradio.ru:8016/kommersant128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/614",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/614.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8080,12 +8080,12 @@ window.STATIONS = [
     {
         "id":  "rp-615",
         "externalId":  615,
-        "name":  "Радио России",
+        "name":  "Р Р°РґРёРѕ Р РѕСЃСЃРёРё",
         "stream":  "https://5.restream.one/615_1",
         "sourceUrl":  "https://radiopotok.ru/radio/615",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/615.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8098,8 +8098,8 @@ window.STATIONS = [
         "stream":  "https://radiolive.trm.md:8001/hls/actualitati.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/616",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/616.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8108,12 +8108,12 @@ window.STATIONS = [
     {
         "id":  "rp-617",
         "externalId":  617,
-        "name":  "Радио День",
+        "name":  "Р Р°РґРёРѕ Р”РµРЅСЊ",
         "stream":  "https://radioday.fm/mp3site",
         "sourceUrl":  "https://radiopotok.ru/radio/617",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/617.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8122,12 +8122,12 @@ window.STATIONS = [
     {
         "id":  "rp-620",
         "externalId":  620,
-        "name":  "УВБ-76",
+        "name":  "РЈР’Р‘-76",
         "stream":  "https://www.uvb76radio.ru/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/620",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/620.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8136,12 +8136,12 @@ window.STATIONS = [
     {
         "id":  "rp-626",
         "externalId":  626,
-        "name":  "Душевное Радио",
+        "name":  "Р”СѓС€РµРІРЅРѕРµ Р Р°РґРёРѕ",
         "stream":  "https://stream2.datacenter.by/dushevnoe",
         "sourceUrl":  "https://radiopotok.ru/radio/626",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/626.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8150,12 +8150,12 @@ window.STATIONS = [
     {
         "id":  "rp-63",
         "externalId":  63,
-        "name":  "Бизнес ФМ",
+        "name":  "Р‘РёР·РЅРµСЃ Р¤Рњ",
         "stream":  "https://bfm.hostingradio.ru:8004/fm",
         "sourceUrl":  "https://radiopotok.ru/radio/63",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/63.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8164,12 +8164,12 @@ window.STATIONS = [
     {
         "id":  "rp-637",
         "externalId":  637,
-        "name":  "Радио Культура",
+        "name":  "Р Р°РґРёРѕ РљСѓР»СЊС‚СѓСЂР°",
         "stream":  "https://5.restream.one/637_1",
         "sourceUrl":  "https://radiopotok.ru/radio/637",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/637.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8178,12 +8178,12 @@ window.STATIONS = [
     {
         "id":  "rp-638",
         "externalId":  638,
-        "name":  "Ностальжи Россия",
+        "name":  "РќРѕСЃС‚Р°Р»СЊР¶Рё Р РѕСЃСЃРёСЏ",
         "stream":  "https://listen7.myradio24.com/alexx333",
         "sourceUrl":  "https://radiopotok.ru/radio/638",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/638.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8196,8 +8196,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/639_1",
         "sourceUrl":  "https://radiopotok.ru/radio/639",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/639.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8206,12 +8206,12 @@ window.STATIONS = [
     {
         "id":  "rp-64",
         "externalId":  64,
-        "name":  "Юмор FM",
+        "name":  "Р®РјРѕСЂ FM",
         "stream":  "https://hls-01-gpm.hostingradio.ru/humorfm495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/64",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/64.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8220,12 +8220,12 @@ window.STATIONS = [
     {
         "id":  "rp-644",
         "externalId":  644,
-        "name":  "Вести FM",
+        "name":  "Р’РµСЃС‚Рё FM",
         "stream":  "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
         "sourceUrl":  "https://radiopotok.ru/radio/644",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/644.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8234,12 +8234,12 @@ window.STATIONS = [
     {
         "id":  "rp-646",
         "externalId":  646,
-        "name":  "Сити Эдем (Христианское)",
+        "name":  "РЎРёС‚Рё Р­РґРµРј (РҐСЂРёСЃС‚РёР°РЅСЃРєРѕРµ)",
         "stream":  "https://myradio24.org/cityeden",
         "sourceUrl":  "https://radiopotok.ru/radio/646",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/646.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8252,8 +8252,8 @@ window.STATIONS = [
         "stream":  "https://c22.radioboss.fm/stream/144",
         "sourceUrl":  "https://radiopotok.ru/radio/649",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/649.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8266,8 +8266,8 @@ window.STATIONS = [
         "stream":  "https://play.sas-media.ru/play_256",
         "sourceUrl":  "https://radiopotok.ru/radio/650",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/650.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8276,12 +8276,12 @@ window.STATIONS = [
     {
         "id":  "rp-652",
         "externalId":  652,
-        "name":  ".:: KAZA FM : КАЗА ФМ ::.",
+        "name":  ".:: KAZA FM : РљРђР—Рђ Р¤Рњ ::.",
         "stream":  "https://kazafm.radioca.st/;",
         "sourceUrl":  "https://radiopotok.ru/radio/652",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/652.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8290,12 +8290,12 @@ window.STATIONS = [
     {
         "id":  "rp-657",
         "externalId":  657,
-        "name":  "Авторадио Екатеринбург",
+        "name":  "РђРІС‚РѕСЂР°РґРёРѕ Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
         "stream":  "https://pub0101.101.ru:8000/stream/air/aac/64/100",
         "sourceUrl":  "https://radiopotok.ru/radio/657",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/657.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8304,12 +8304,12 @@ window.STATIONS = [
     {
         "id":  "rp-658",
         "externalId":  658,
-        "name":  "Юмор FM Екатеринбург",
+        "name":  "Р®РјРѕСЂ FM Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
         "stream":  "https://5.restream.one/658_1",
         "sourceUrl":  "https://radiopotok.ru/radio/658",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/658.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8318,12 +8318,12 @@ window.STATIONS = [
     {
         "id":  "rp-660",
         "externalId":  660,
-        "name":  "Радио NRJ (ENERGY) Екатеринбург",
+        "name":  "Р Р°РґРёРѕ NRJ (ENERGY) Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
         "stream":  "https://5.restream.one/660_1",
         "sourceUrl":  "https://radiopotok.ru/radio/660",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/660.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8332,12 +8332,12 @@ window.STATIONS = [
     {
         "id":  "rp-666",
         "externalId":  666,
-        "name":  "Лучшие Песни",
+        "name":  "Р›СѓС‡С€РёРµ РџРµСЃРЅРё",
         "stream":  "https://rbs.amgradio.ru/rbs",
         "sourceUrl":  "https://radiopotok.ru/radio/666",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/666.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8350,8 +8350,8 @@ window.STATIONS = [
         "stream":  "https://radiorecord.hostingradio.ru/rr_main96.aacp",
         "sourceUrl":  "https://radiopotok.ru/radio/67",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/67.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8360,12 +8360,12 @@ window.STATIONS = [
     {
         "id":  "rp-677",
         "externalId":  677,
-        "name":  "Говорит Москва",
+        "name":  "Р“РѕРІРѕСЂРёС‚ РњРѕСЃРєРІР°",
         "stream":  "https://media.govoritmoskva.ru/radio/rufm.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/677",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/677.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8378,8 +8378,8 @@ window.STATIONS = [
         "stream":  "https://stream.deep1.ru/deep1mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/679",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/679.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8392,8 +8392,8 @@ window.STATIONS = [
         "stream":  "https://air.unmixed.ru/lradio256moscow",
         "sourceUrl":  "https://radiopotok.ru/radio/68",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/68.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8402,12 +8402,12 @@ window.STATIONS = [
     {
         "id":  "rp-682",
         "externalId":  682,
-        "name":  "Город FM 107.6",
+        "name":  "Р“РѕСЂРѕРґ FM 107.6",
         "stream":  "https://5.restream.one/682_1",
         "sourceUrl":  "https://radiopotok.ru/radio/682",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/682.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8416,12 +8416,12 @@ window.STATIONS = [
     {
         "id":  "rp-687",
         "externalId":  687,
-        "name":  "Отличное радио",
+        "name":  "РћС‚Р»РёС‡РЅРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://myradio24.org/nvolna",
         "sourceUrl":  "https://radiopotok.ru/radio/687",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/687.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8430,12 +8430,12 @@ window.STATIONS = [
     {
         "id":  "rp-692",
         "externalId":  692,
-        "name":  "Радио Ватан",
+        "name":  "Р Р°РґРёРѕ Р’Р°С‚Р°РЅ",
         "stream":  "https://5.restream.one/692_1",
         "sourceUrl":  "https://radiopotok.ru/radio/692",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/692.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8448,8 +8448,8 @@ window.STATIONS = [
         "stream":  "https://topradio-stream32.radiohost.de/kissfm-deutschrap-hits_mp3-128",
         "sourceUrl":  "https://radiopotok.ru/radio/708",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/708.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8462,8 +8462,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/710_1",
         "sourceUrl":  "https://radiopotok.ru/radio/710",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/710.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8476,8 +8476,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/715_1",
         "sourceUrl":  "https://radiopotok.ru/radio/715",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/715.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8490,8 +8490,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/kidshits",
         "sourceUrl":  "https://radiopotok.ru/radio/716",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/716.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8500,12 +8500,12 @@ window.STATIONS = [
     {
         "id":  "rp-721",
         "externalId":  721,
-        "name":  "Радио «Книга»",
+        "name":  "Р Р°РґРёРѕ В«РљРЅРёРіР°В»",
         "stream":  "https://bookradio.hostingradio.ru:8069/fm",
         "sourceUrl":  "https://radiopotok.ru/radio/721",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/721.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8518,8 +8518,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/723_1",
         "sourceUrl":  "https://radiopotok.ru/radio/723",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/723.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8532,8 +8532,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/729_1",
         "sourceUrl":  "https://radiopotok.ru/radio/729",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/729.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8542,12 +8542,12 @@ window.STATIONS = [
     {
         "id":  "rp-730",
         "externalId":  730,
-        "name":  "Детское радио",
+        "name":  "Р”РµС‚СЃРєРѕРµ СЂР°РґРёРѕ",
         "stream":  "https://hls-01-gpm.hostingradio.ru/detifm495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/730",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/730.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8556,12 +8556,12 @@ window.STATIONS = [
     {
         "id":  "rp-744",
         "externalId":  744,
-        "name":  "Красноярск Главный",
+        "name":  "РљСЂР°СЃРЅРѕСЏСЂСЃРє Р“Р»Р°РІРЅС‹Р№",
         "stream":  "https://streamer01.1028.fm:8443/arstream",
         "sourceUrl":  "https://radiopotok.ru/radio/744",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/744.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8570,12 +8570,12 @@ window.STATIONS = [
     {
         "id":  "rp-758",
         "externalId":  758,
-        "name":  "КП Екатеринбург",
+        "name":  "РљРџ Р•РєР°С‚РµСЂРёРЅР±СѓСЂРі",
         "stream":  "https://5.restream.one/758_1",
         "sourceUrl":  "https://radiopotok.ru/radio/758",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/758.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8584,12 +8584,12 @@ window.STATIONS = [
     {
         "id":  "rp-759",
         "externalId":  759,
-        "name":  "КП Новосибирск",
+        "name":  "РљРџ РќРѕРІРѕСЃРёР±РёСЂСЃРє",
         "stream":  "https://kpradio.hostingradio.ru:8000/novosibirsk.radiokp128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/759",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/759.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8602,8 +8602,8 @@ window.STATIONS = [
         "stream":  "https://megapolisfm.md:8443/886aac",
         "sourceUrl":  "https://radiopotok.ru/radio/76",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/76.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8612,12 +8612,12 @@ window.STATIONS = [
     {
         "id":  "rp-762",
         "externalId":  762,
-        "name":  "Радио Городская Волна",
+        "name":  "Р Р°РґРёРѕ Р“РѕСЂРѕРґСЃРєР°СЏ Р’РѕР»РЅР°",
         "stream":  "https://online.gorvolna.ru:8443/gorvolna",
         "sourceUrl":  "https://radiopotok.ru/radio/762",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/762.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8630,8 +8630,8 @@ window.STATIONS = [
         "stream":  "https://stream.radiometro.ru:8443/metro.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/766",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/766.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8640,12 +8640,12 @@ window.STATIONS = [
     {
         "id":  "rp-767",
         "externalId":  767,
-        "name":  "Эльдорадио",
+        "name":  "Р­Р»СЊРґРѕСЂР°РґРёРѕ",
         "stream":  "https://emgspb.hostingradio.ru/eldoradio128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/767",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/767.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8654,12 +8654,12 @@ window.STATIONS = [
     {
         "id":  "rp-771",
         "externalId":  771,
-        "name":  "Радио Зенит",
+        "name":  "Р Р°РґРёРѕ Р—РµРЅРёС‚",
         "stream":  "https://pub0101.101.ru:8000/v15_1",
         "sourceUrl":  "https://radiopotok.ru/radio/771",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/771.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8668,12 +8668,12 @@ window.STATIONS = [
     {
         "id":  "rp-772",
         "externalId":  772,
-        "name":  "Град Петров",
+        "name":  "Р“СЂР°Рґ РџРµС‚СЂРѕРІ",
         "stream":  "https://grad-petrov.ru:8094/mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/772",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/772.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8682,12 +8682,12 @@ window.STATIONS = [
     {
         "id":  "rp-773",
         "externalId":  773,
-        "name":  "Питер FM",
+        "name":  "РџРёС‚РµСЂ FM",
         "stream":  "https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/773",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/773.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8696,12 +8696,12 @@ window.STATIONS = [
     {
         "id":  "rp-776",
         "externalId":  776,
-        "name":  "Москва FM",
+        "name":  "РњРѕСЃРєРІР° FM",
         "stream":  "https://icecast-vgtrk.cdnvideo.ru/moscowfm128",
         "sourceUrl":  "https://radiopotok.ru/radio/776",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/776.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8710,12 +8710,12 @@ window.STATIONS = [
     {
         "id":  "rp-78",
         "externalId":  78,
-        "name":  "Авторадио",
+        "name":  "РђРІС‚РѕСЂР°РґРёРѕ",
         "stream":  "https://hls-01-gpm.hostingradio.ru/avtoradio495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/78",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/78.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8724,12 +8724,12 @@ window.STATIONS = [
     {
         "id":  "rp-780",
         "externalId":  780,
-        "name":  "Шоколад",
+        "name":  "РЁРѕРєРѕР»Р°Рґ",
         "stream":  "https://choco.hostingradio.ru:10010/fm",
         "sourceUrl":  "https://radiopotok.ru/radio/780",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/780.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8738,12 +8738,12 @@ window.STATIONS = [
     {
         "id":  "rp-782",
         "externalId":  782,
-        "name":  "Радио 107",
+        "name":  "Р Р°РґРёРѕ 107",
         "stream":  "https://5.restream.one/782_1",
         "sourceUrl":  "https://radiopotok.ru/radio/782",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/782.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8752,12 +8752,12 @@ window.STATIONS = [
     {
         "id":  "rp-784",
         "externalId":  784,
-        "name":  "Казак FM",
+        "name":  "РљР°Р·Р°Рє FM",
         "stream":  "https://radio.kazak.fm/kazak_fm.mp3?radiostatistica=radiopotok.ru",
         "sourceUrl":  "https://radiopotok.ru/radio/784",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/784.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8766,12 +8766,12 @@ window.STATIONS = [
     {
         "id":  "rp-789",
         "externalId":  789,
-        "name":  "Радио «Образ»",
+        "name":  "Р Р°РґРёРѕ В«РћР±СЂР°Р·В»",
         "stream":  "https://nne.ru/api/radioobraz.php",
         "sourceUrl":  "https://radiopotok.ru/radio/789",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/789.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8780,12 +8780,12 @@ window.STATIONS = [
     {
         "id":  "rp-79",
         "externalId":  79,
-        "name":  "Радио Фантастики",
+        "name":  "Р Р°РґРёРѕ Р¤Р°РЅС‚Р°СЃС‚РёРєРё",
         "stream":  "https://myradio24.org/55699",
         "sourceUrl":  "https://radiopotok.ru/radio/79",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/79.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8794,12 +8794,12 @@ window.STATIONS = [
     {
         "id":  "rp-80",
         "externalId":  80,
-        "name":  "Радио Сибирь",
+        "name":  "Р Р°РґРёРѕ РЎРёР±РёСЂСЊ",
         "stream":  "https://stream.radiosibir.ru:8093/RadioSibirFed",
         "sourceUrl":  "https://radiopotok.ru/radio/80",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/80.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8808,12 +8808,12 @@ window.STATIONS = [
     {
         "id":  "rp-801",
         "externalId":  801,
-        "name":  "Радио-Континенталь",
+        "name":  "Р Р°РґРёРѕ-РљРѕРЅС‚РёРЅРµРЅС‚Р°Р»СЊ",
         "stream":  "https://stream01.radiocon.ru:8443/live",
         "sourceUrl":  "https://radiopotok.ru/radio/801",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/801.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8822,12 +8822,12 @@ window.STATIONS = [
     {
         "id":  "rp-803",
         "externalId":  803,
-        "name":  "Роксана (Уфа)",
+        "name":  "Р РѕРєСЃР°РЅР° (РЈС„Р°)",
         "stream":  "https://stream.roksanaradio.ru/roksana.aac",
         "sourceUrl":  "https://radiopotok.ru/radio/803",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/803.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8836,12 +8836,12 @@ window.STATIONS = [
     {
         "id":  "rp-814",
         "externalId":  814,
-        "name":  "Радио mCm 102.1 FM",
+        "name":  "Р Р°РґРёРѕ mCm 102.1 FM",
         "stream":  "https://radio.irkmedia.ru:10443/hit128",
         "sourceUrl":  "https://radiopotok.ru/radio/814",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/814.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8850,12 +8850,12 @@ window.STATIONS = [
     {
         "id":  "rp-816",
         "externalId":  816,
-        "name":  "Старое Доброе Радио",
+        "name":  "РЎС‚Р°СЂРѕРµ Р”РѕР±СЂРѕРµ Р Р°РґРёРѕ",
         "stream":  "https://5.restream.one/816_1",
         "sourceUrl":  "https://radiopotok.ru/radio/816",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/816.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8864,12 +8864,12 @@ window.STATIONS = [
     {
         "id":  "rp-817",
         "externalId":  817,
-        "name":  "Голос Ангары",
+        "name":  "Р“РѕР»РѕСЃ РђРЅРіР°СЂС‹",
         "stream":  "https://radiopotok2.online/http://91.189.162.134:8006/;stream.nsv",
         "sourceUrl":  "https://radiopotok.ru/radio/817",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/817.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8878,12 +8878,12 @@ window.STATIONS = [
     {
         "id":  "rp-822",
         "externalId":  822,
-        "name":  "Болид",
+        "name":  "Р‘РѕР»РёРґ",
         "stream":  "https://icecast-bulteam.cdnvideo.ru/bolid128",
         "sourceUrl":  "https://radiopotok.ru/radio/822",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/822.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8892,12 +8892,12 @@ window.STATIONS = [
     {
         "id":  "rp-825",
         "externalId":  825,
-        "name":  "Белое Радио",
+        "name":  "Р‘РµР»РѕРµ Р Р°РґРёРѕ",
         "stream":  "https://5.restream.one/825_1",
         "sourceUrl":  "https://radiopotok.ru/radio/825",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/825.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8906,12 +8906,12 @@ window.STATIONS = [
     {
         "id":  "rp-826",
         "externalId":  826,
-        "name":  "Dixi 102.8 Fm г.Чайковский",
+        "name":  "Dixi 102.8 Fm Рі.Р§Р°Р№РєРѕРІСЃРєРёР№",
         "stream":  "https://myradio24.org/dixi",
         "sourceUrl":  "https://radiopotok.ru/radio/826",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/826.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8920,12 +8920,12 @@ window.STATIONS = [
     {
         "id":  "rp-827",
         "externalId":  827,
-        "name":  "Кузбасс FM",
+        "name":  "РљСѓР·Р±Р°СЃСЃ FM",
         "stream":  "https://kuzbassfm.ru:8443/kuzbassfm",
         "sourceUrl":  "https://radiopotok.ru/radio/827",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/827.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8934,12 +8934,12 @@ window.STATIONS = [
     {
         "id":  "rp-829",
         "externalId":  829,
-        "name":  "Апекс-Радио",
+        "name":  "РђРїРµРєСЃ-Р Р°РґРёРѕ",
         "stream":  "https://cors-proxy.elfsight.com/http://62.152.59.3:8000/kem",
         "sourceUrl":  "https://radiopotok.ru/radio/829",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/829.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8948,12 +8948,12 @@ window.STATIONS = [
     {
         "id":  "rp-83",
         "externalId":  83,
-        "name":  "Дорожное радио СПб",
+        "name":  "Р”РѕСЂРѕР¶РЅРѕРµ СЂР°РґРёРѕ РЎРџР±",
         "stream":  "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/83",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/83.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8962,12 +8962,12 @@ window.STATIONS = [
     {
         "id":  "rp-836",
         "externalId":  836,
-        "name":  "Радио Борнео",
+        "name":  "Р Р°РґРёРѕ Р‘РѕСЂРЅРµРѕ",
         "stream":  "https://5.restream.one/836_1",
         "sourceUrl":  "https://radiopotok.ru/radio/836",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/836.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8976,12 +8976,12 @@ window.STATIONS = [
     {
         "id":  "rp-837",
         "externalId":  837,
-        "name":  "Радио Губерния",
+        "name":  "Р Р°РґРёРѕ Р“СѓР±РµСЂРЅРёСЏ",
         "stream":  "https://5.restream.one/837_1",
         "sourceUrl":  "https://radiopotok.ru/radio/837",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/837.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -8994,8 +8994,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/840_1",
         "sourceUrl":  "https://radiopotok.ru/radio/840",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/840.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9004,12 +9004,12 @@ window.STATIONS = [
     {
         "id":  "rp-844",
         "externalId":  844,
-        "name":  "Татар Радиосы",
+        "name":  "РўР°С‚Р°СЂ Р Р°РґРёРѕСЃС‹",
         "stream":  "https://tatarradio.hostingradio.ru/tatarradio320.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/844",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/844.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9018,12 +9018,12 @@ window.STATIONS = [
     {
         "id":  "rp-85",
         "externalId":  85,
-        "name":  "Русское Радио",
+        "name":  "Р СѓСЃСЃРєРѕРµ Р Р°РґРёРѕ",
         "stream":  "https://rusradio.hostingradio.ru/rusradio128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/85",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/85.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9032,12 +9032,12 @@ window.STATIONS = [
     {
         "id":  "rp-87",
         "externalId":  87,
-        "name":  "Максимум",
+        "name":  "РњР°РєСЃРёРјСѓРј",
         "stream":  "https://maximum.hostingradio.ru/maximum128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/87",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/87.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9046,12 +9046,12 @@ window.STATIONS = [
     {
         "id":  "rp-88",
         "externalId":  88,
-        "name":  "DFM Москва",
+        "name":  "DFM РњРѕСЃРєРІР°",
         "stream":  "https://dfm.hostingradio.ru/dfm128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/88",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/88.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9060,12 +9060,12 @@ window.STATIONS = [
     {
         "id":  "rp-880",
         "externalId":  880,
-        "name":  "MIX FM г. Хабаровск",
+        "name":  "MIX FM Рі. РҐР°Р±Р°СЂРѕРІСЃРє",
         "stream":  "https://radio.settv.ru/radio3",
         "sourceUrl":  "https://radiopotok.ru/radio/880",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/880.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9074,12 +9074,12 @@ window.STATIONS = [
     {
         "id":  "rp-883",
         "externalId":  883,
-        "name":  "Чикен FM",
+        "name":  "Р§РёРєРµРЅ FM",
         "stream":  "https://yumfm.hostingradio.ru:8020/yumfm128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/883",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/883.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9092,8 +9092,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/889_1",
         "sourceUrl":  "https://radiopotok.ru/radio/889",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/889.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9102,12 +9102,12 @@ window.STATIONS = [
     {
         "id":  "rp-89",
         "externalId":  89,
-        "name":  "Маяк",
+        "name":  "РњР°СЏРє",
         "stream":  "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps",
         "sourceUrl":  "https://radiopotok.ru/radio/89",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/89.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9116,12 +9116,12 @@ window.STATIONS = [
     {
         "id":  "rp-890",
         "externalId":  890,
-        "name":  "Первое железнодорожное радио - канал ПЖ",
+        "name":  "РџРµСЂРІРѕРµ Р¶РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅРѕРµ СЂР°РґРёРѕ - РєР°РЅР°Р» РџР–",
         "stream":  "https://5.restream.one/890_1",
         "sourceUrl":  "https://radiopotok.ru/radio/890",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/890.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9134,8 +9134,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/5967",
         "sourceUrl":  "https://radiopotok.ru/radio/893",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/893.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9144,12 +9144,12 @@ window.STATIONS = [
     {
         "id":  "rp-900",
         "externalId":  900,
-        "name":  "Олдхит",
+        "name":  "РћР»РґС…РёС‚",
         "stream":  "https://oldxit.ru:8005/radio",
         "sourceUrl":  "https://radiopotok.ru/radio/900",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/900.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9158,12 +9158,12 @@ window.STATIONS = [
     {
         "id":  "rp-903",
         "externalId":  903,
-        "name":  "Ника FM",
+        "name":  "РќРёРєР° FM",
         "stream":  "https://radio.nikatv.ru/;.mp4",
         "sourceUrl":  "https://radiopotok.ru/radio/903",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/903.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9172,12 +9172,12 @@ window.STATIONS = [
     {
         "id":  "rp-906",
         "externalId":  906,
-        "name":  "Русский мир",
+        "name":  "Р СѓСЃСЃРєРёР№ РјРёСЂ",
         "stream":  "https://a5.radioheart.ru:9043/RH4272",
         "sourceUrl":  "https://radiopotok.ru/radio/906",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/906.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9190,8 +9190,8 @@ window.STATIONS = [
         "stream":  "https://radio.djgelius.ru/best.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/910",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/910.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9200,12 +9200,12 @@ window.STATIONS = [
     {
         "id":  "rp-915",
         "externalId":  915,
-        "name":  "Deep–House",
+        "name":  "DeepвЂ“House",
         "stream":  "https://1.restream.one/915_1",
         "sourceUrl":  "https://radiopotok.ru/radio/915",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/915.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9218,8 +9218,8 @@ window.STATIONS = [
         "stream":  "https://hls-01-gpm.hostingradio.ru/likefm495/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/916",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/916.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9232,8 +9232,8 @@ window.STATIONS = [
         "stream":  "https://radio2.vip-radios.fm:18054/stream-128kmp3-Sax4love",
         "sourceUrl":  "https://radiopotok.ru/radio/918",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/918.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9242,12 +9242,12 @@ window.STATIONS = [
     {
         "id":  "rp-93",
         "externalId":  93,
-        "name":  "Радио 7",
+        "name":  "Р Р°РґРёРѕ 7",
         "stream":  "https://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8",
         "sourceUrl":  "https://radiopotok.ru/radio/93",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/93.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9260,8 +9260,8 @@ window.STATIONS = [
         "stream":  "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm",
         "sourceUrl":  "https://radiopotok.ru/radio/94",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/94.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9274,8 +9274,8 @@ window.STATIONS = [
         "stream":  "https://radio.housemonkey.ru/radiomid",
         "sourceUrl":  "https://radiopotok.ru/radio/940",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/940.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9288,8 +9288,8 @@ window.STATIONS = [
         "stream":  "https://myradio24.org/18357",
         "sourceUrl":  "https://radiopotok.ru/radio/941",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/941.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9298,12 +9298,12 @@ window.STATIONS = [
     {
         "id":  "rp-944",
         "externalId":  944,
-        "name":  "Радио 7 Ветров",
+        "name":  "Р Р°РґРёРѕ 7 Р’РµС‚СЂРѕРІ",
         "stream":  "https://play.radiowinds.ru:8443/live",
         "sourceUrl":  "https://radiopotok.ru/radio/944",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/944.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9316,8 +9316,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/945_1",
         "sourceUrl":  "https://radiopotok.ru/radio/945",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/945.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9330,8 +9330,8 @@ window.STATIONS = [
         "stream":  "https://stream.zeno.fm/nkeaps48xg0uv",
         "sourceUrl":  "https://radiopotok.ru/radio/947",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/947.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9344,8 +9344,8 @@ window.STATIONS = [
         "stream":  "https://stream.zeno.fm/tfqyy4bewz3uv",
         "sourceUrl":  "https://radiopotok.ru/radio/948",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/948.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9358,8 +9358,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/949_1",
         "sourceUrl":  "https://radiopotok.ru/radio/949",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/949.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9372,8 +9372,8 @@ window.STATIONS = [
         "stream":  "https://bob.hoerradar.de/mp3-radiobob",
         "sourceUrl":  "https://radiopotok.ru/radio/95",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/95.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9386,8 +9386,8 @@ window.STATIONS = [
         "stream":  "https://listen.radionomy.com/dbdrumradio",
         "sourceUrl":  "https://radiopotok.ru/radio/955",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/955.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9396,12 +9396,12 @@ window.STATIONS = [
     {
         "id":  "rp-957",
         "externalId":  957,
-        "name":  "Радио Автодор",
+        "name":  "Р Р°РґРёРѕ РђРІС‚РѕРґРѕСЂ",
         "stream":  "https://avtodor-tr.hostingradio.ru/avtodortr128.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/957",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/957.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9410,12 +9410,12 @@ window.STATIONS = [
     {
         "id":  "rp-958",
         "externalId":  958,
-        "name":  "Солнечный Вектор",
+        "name":  "РЎРѕР»РЅРµС‡РЅС‹Р№ Р’РµРєС‚РѕСЂ",
         "stream":  "https://sunvector.tk/radio/8000/radio.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/958",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/958.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9428,8 +9428,8 @@ window.STATIONS = [
         "stream":  "https://icepool.silvacast.com/DEFJAYcom.mp3",
         "sourceUrl":  "https://radiopotok.ru/radio/96",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/96.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9438,12 +9438,12 @@ window.STATIONS = [
     {
         "id":  "rp-962",
         "externalId":  962,
-        "name":  "Спутник",
+        "name":  "РЎРїСѓС‚РЅРёРє",
         "stream":  "https://icecast-rian.cdnvideo.ru/voicerus",
         "sourceUrl":  "https://radiopotok.ru/radio/962",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/962.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9456,8 +9456,8 @@ window.STATIONS = [
         "stream":  "https://icecast-rian.cdnvideo.ru/voiceusa",
         "sourceUrl":  "https://radiopotok.ru/radio/963",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/963.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9470,8 +9470,8 @@ window.STATIONS = [
         "stream":  "https://5.restream.one/982_1",
         "sourceUrl":  "https://radiopotok.ru/radio/982",
         "logoUrl":  "https://radiopotok.ru/f/station_webp/256/982.webp",
-        "description":  "РЎС‚Р°РЅС†РёСЏ РёР· РєР°С‚Р°Р»РѕРіР° RadioPotok.",
-        "listeners":  "РСЃС‚РѕС‡РЅРёРє: RadioPotok",
+        "description":  "Р РЋРЎвЂљР В°Р Р…РЎвЂ Р С‘РЎРЏ Р С‘Р В· Р С”Р В°РЎвЂљР В°Р В»Р С•Р С–Р В° RadioPotok.",
+        "listeners":  "Р ВРЎРѓРЎвЂљР С•РЎвЂЎР Р…Р С‘Р С”: RadioPotok",
         "tags":  [
                      "Radiopotok",
                      "Live"
@@ -9479,79 +9479,79 @@ window.STATIONS = [
     }
 ,
   {
-    id: "kz-001-авторадио",
-    name: "Авторадио",
+    id: "kz-001-Р°РІС‚РѕСЂР°РґРёРѕ",
+    name: "РђРІС‚РѕСЂР°РґРёРѕ",
     stream: "http://178.88.167.62:8080/AVTORADIO_192",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#D53F8C", "#B83280"]
   },
   {
-    id: "kz-002-ваше-радио",
-    name: "Ваше Радио",
+    id: "kz-002-РІР°С€Рµ-СЂР°РґРёРѕ",
+    name: "Р’Р°С€Рµ Р Р°РґРёРѕ",
     stream: "https://live.zhanafm.kz:8443/vasheradio",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#2B6CB0", "#2C5282"]
   },
   {
-    id: "kz-003-жаңа-lounge",
-    name: "Жаңа Lounge",
+    id: "kz-003-Р¶Р°ТЈР°-lounge",
+    name: "Р–Р°ТЈР° Lounge",
     stream: "https://live.zhanafm.kz:8443/zhanalounge",
-    genre: "Лаунж",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р›Р°СѓРЅР¶",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#276749", "#22543D"]
   },
   {
-    id: "kz-004-жаңа-mix",
-    name: "Жаңа MIX",
+    id: "kz-004-Р¶Р°ТЈР°-mix",
+    name: "Р–Р°ТЈР° MIX",
     stream: "https://live.zhanafm.kz:8443/zhanamix",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#744210", "#975A16"]
   },
   {
-    id: "kz-005-жаңа-rock",
-    name: "Жаңа Rock",
+    id: "kz-005-Р¶Р°ТЈР°-rock",
+    name: "Р–Р°ТЈР° Rock",
     stream: "https://live.zhanafm.kz:8443/zhanarock",
-    genre: "Рок",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р РѕРє",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A365D", "#2A4365"]
   },
   {
-    id: "kz-006-народное-радио",
-    name: "Народное радио",
+    id: "kz-006-РЅР°СЂРѕРґРЅРѕРµ-СЂР°РґРёРѕ",
+    name: "РќР°СЂРѕРґРЅРѕРµ СЂР°РґРёРѕ",
     stream: "http://178.88.167.62:8080/DALA_192",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#702459", "#521B41"]
@@ -9560,11 +9560,11 @@ window.STATIONS = [
     id: "kz-007-radio-classic",
     name: "Radio Classic",
     stream: "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
-    genre: "Классика",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РљР»Р°СЃСЃРёРєР°",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#234E52", "#1D4044"]
@@ -9573,102 +9573,102 @@ window.STATIONS = [
     id: "kz-008-energy-fm",
     name: "Energy FM",
     stream: "http://89.219.34.117:8008/NEWENERGY",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#3C366B", "#2D3748"]
   },
   {
-    id: "kz-009-радио-рассвет",
-    name: "Радио Рассвет",
+    id: "kz-009-СЂР°РґРёРѕ-СЂР°СЃСЃРІРµС‚",
+    name: "Р Р°РґРёРѕ Р Р°СЃСЃРІРµС‚",
     stream: "http://s1.radioheart.ru:8001/rassvet",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A202C", "#2D3748"]
   },
   {
-    id: "kz-010-радио-орда",
-    name: "Радио Орда",
+    id: "kz-010-СЂР°РґРёРѕ-РѕСЂРґР°",
+    name: "Р Р°РґРёРѕ РћСЂРґР°",
     stream: "https://ordacast.astanatv.kz:8443/orda",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#6B46C1", "#4C51BF"]
   },
   {
-    id: "kz-011-радио-астана",
-    name: "Радио Астана",
+    id: "kz-011-СЂР°РґРёРѕ-Р°СЃС‚Р°РЅР°",
+    name: "Р Р°РґРёРѕ РђСЃС‚Р°РЅР°",
     stream: "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#D53F8C", "#B83280"]
   },
   {
-    id: "kz-012-жулдыз-фм",
-    name: "Жулдыз ФМ",
+    id: "kz-012-Р¶СѓР»РґС‹Р·-С„Рј",
+    name: "Р–СѓР»РґС‹Р· Р¤Рњ",
     stream: "http://91.201.214.229:8000/zhulduz",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#2B6CB0", "#2C5282"]
   },
   {
-    id: "kz-013-радио-дача",
-    name: "Радио Дача",
+    id: "kz-013-СЂР°РґРёРѕ-РґР°С‡Р°",
+    name: "Р Р°РґРёРѕ Р”Р°С‡Р°",
     stream: "https://stream.gakku.kz:8443/dacha",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#276749", "#22543D"]
   },
   {
-    id: "kz-014-татарское-радио-тмк",
-    name: "Татарское Радио ТМК",
+    id: "kz-014-С‚Р°С‚Р°СЂСЃРєРѕРµ-СЂР°РґРёРѕ-С‚РјРє",
+    name: "РўР°С‚Р°СЂСЃРєРѕРµ Р Р°РґРёРѕ РўРњРљ",
     stream: "https://a4.radioheart.ru:9036/RH13170",
-    genre: "Лаунж",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р›Р°СѓРЅР¶",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#744210", "#975A16"]
   },
   {
-    id: "kz-015-жаңа-fm",
-    name: "Жаңа FM",
+    id: "kz-015-Р¶Р°ТЈР°-fm",
+    name: "Р–Р°ТЈР° FM",
     stream: "https://live.zhanafm.kz:8443/zhanafm_onair",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A365D", "#2A4365"]
@@ -9677,11 +9677,11 @@ window.STATIONS = [
     id: "kz-016-business-fm",
     name: "Business FM",
     stream: "https://bfmreg.hostingradio.ru/kz.bfm128.mp3",
-    genre: "Разговорное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РіРѕРІРѕСЂРЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#702459", "#521B41"]
@@ -9690,128 +9690,128 @@ window.STATIONS = [
     id: "kz-017-green-dance",
     name: "Green Dance",
     stream: "https://listen.radio-greendance.su/listen/green_dance/green_dance",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#234E52", "#1D4044"]
   },
   {
-    id: "kz-018-айсын-fm",
-    name: "Айсын FM",
+    id: "kz-018-Р°Р№СЃС‹РЅ-fm",
+    name: "РђР№СЃС‹РЅ FM",
     stream: "http://s0.radioheart.ru:8000/RH83921",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#3C366B", "#2D3748"]
   },
   {
-    id: "kz-019-радио-онлайн-житикар",
-    name: "Радио онлайн Житикара",
+    id: "kz-019-СЂР°РґРёРѕ-РѕРЅР»Р°Р№РЅ-Р¶РёС‚РёРєР°СЂ",
+    name: "Р Р°РґРёРѕ РѕРЅР»Р°Р№РЅ Р–РёС‚РёРєР°СЂР°",
     stream: "https://a8.radioheart.ru:9006/RH75633",
-    genre: "Рок",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р РѕРє",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A202C", "#2D3748"]
   },
   {
-    id: "kz-020-той-думан",
-    name: "Той Думан",
+    id: "kz-020-С‚РѕР№-РґСѓРјР°РЅ",
+    name: "РўРѕР№ Р”СѓРјР°РЅ",
     stream: "https://stream.gakku.kz:8443/live.mp3",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#6B46C1", "#4C51BF"]
   },
   {
-    id: "kz-021-русское-радио-азия",
-    name: "Русское Радио Азия",
+    id: "kz-021-СЂСѓСЃСЃРєРѕРµ-СЂР°РґРёРѕ-Р°Р·РёСЏ",
+    name: "Р СѓСЃСЃРєРѕРµ Р Р°РґРёРѕ РђР·РёСЏ",
     stream: "https://rusradioreg.hostingradio.ru/asia.rusradio128.mp3",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#D53F8C", "#B83280"]
   },
   {
-    id: "kz-022-тенгри-fm",
-    name: "Тенгри FM",
+    id: "kz-022-С‚РµРЅРіСЂРё-fm",
+    name: "РўРµРЅРіСЂРё FM",
     stream: "http://91.201.214.229:8000/tengrifm",
-    genre: "Рок",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р РѕРє",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#2B6CB0", "#2C5282"]
   },
   {
-    id: "kz-023-шалқар-радиосы",
-    name: "Шалқар Радиосы",
+    id: "kz-023-С€Р°Р»Т›Р°СЂ-СЂР°РґРёРѕСЃС‹",
+    name: "РЁР°Р»Т›Р°СЂ Р Р°РґРёРѕСЃС‹",
     stream: "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
-    genre: "Разговорное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РіРѕРІРѕСЂРЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#276749", "#22543D"]
   },
   {
-    id: "kz-024-қазақ-радиосы",
-    name: "Қазақ радиосы",
+    id: "kz-024-Т›Р°Р·Р°Т›-СЂР°РґРёРѕСЃС‹",
+    name: "ТљР°Р·Р°Т› СЂР°РґРёРѕСЃС‹",
     stream: "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#744210", "#975A16"]
   },
   {
-    id: "kz-025-юмор-fm-казахстан",
-    name: "Юмор FM Казахстан",
+    id: "kz-025-СЋРјРѕСЂ-fm-РєР°Р·Р°С…СЃС‚Р°РЅ",
+    name: "Р®РјРѕСЂ FM РљР°Р·Р°С…СЃС‚Р°РЅ",
     stream: "https://live.zhanafm.kz:8443/veseloeradio_onair",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A365D", "#2A4365"]
   },
   {
-    id: "kz-026-европа-плюс-казахста",
-    name: "Европа Плюс Казахстан",
+    id: "kz-026-РµРІСЂРѕРїР°-РїР»СЋСЃ-РєР°Р·Р°С…СЃС‚Р°",
+    name: "Р•РІСЂРѕРїР° РџР»СЋСЃ РљР°Р·Р°С…СЃС‚Р°РЅ",
     stream: "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8",
-    genre: "Электронная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#702459", "#521B41"]
@@ -9820,11 +9820,11 @@ window.STATIONS = [
     id: "kz-027-love-radio",
     name: "Love Radio",
     stream: "https://stream.gakku.kz:8443/love128.mp3",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#234E52", "#1D4044"]
@@ -9833,11 +9833,11 @@ window.STATIONS = [
     id: "kz-028-jibek-joly-1014fm",
     name: "Jibek Joly 101.4FM",
     stream: "https://stream.qazcdn.net/ex6r514/D0Ik7bYjFJq/tracks-v3a1/mono.ts.m3u8",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#3C366B", "#2D3748"]
@@ -9846,11 +9846,11 @@ window.STATIONS = [
     id: "kz-029-love-radio-kazakhsta",
     name: "Love Radio Kazakhstan",
     stream: "https://stream.gakku.tv:8443/love128.mp3",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A202C", "#2D3748"]
@@ -9859,11 +9859,11 @@ window.STATIONS = [
     id: "kz-030-orda-fm",
     name: "Orda FM",
     stream: "https://85.29.129.134:8443/orda",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#6B46C1", "#4C51BF"]
@@ -9872,24 +9872,24 @@ window.STATIONS = [
     id: "kz-031-pioner-fm-kz",
     name: "Pioner FM KZ",
     stream: "https://live.zhanafm.kz:8443/pionerfm",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#D53F8C", "#B83280"]
   },
   {
-    id: "kz-032-актобе-радио",
-    name: "Актобе радио",
+    id: "kz-032-Р°РєС‚РѕР±Рµ-СЂР°РґРёРѕ",
+    name: "РђРєС‚РѕР±Рµ СЂР°РґРёРѕ",
     stream: "https://radiokrug.ru/radio/aktobe/icecast.audio",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#2B6CB0", "#2C5282"]
@@ -9898,102 +9898,102 @@ window.STATIONS = [
     id: "kz-033-boomroomkz",
     name: "BoomRoom.kz",
     stream: "https://a5.radioheart.ru:9037/RH3009",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#276749", "#22543D"]
   },
   {
-    id: "kz-034-радио-алау",
-    name: "Радио Алау",
+    id: "kz-034-СЂР°РґРёРѕ-Р°Р»Р°Сѓ",
+    name: "Р Р°РґРёРѕ РђР»Р°Сѓ",
     stream: "https://s0.radioheart.ru:8000/RH67172",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#744210", "#975A16"]
   },
   {
-    id: "kz-035-радио-халык",
-    name: "Радио Халык",
+    id: "kz-035-СЂР°РґРёРѕ-С…Р°Р»С‹Рє",
+    name: "Р Р°РґРёРѕ РҐР°Р»С‹Рє",
     stream: "https://s0.radioheart.ru:8000/RH46806",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#1A365D", "#2A4365"]
   },
   {
-    id: "kz-036-радио-starkidsfm",
-    name: "Радио STARKIDS.FM",
+    id: "kz-036-СЂР°РґРёРѕ-starkidsfm",
+    name: "Р Р°РґРёРѕ STARKIDS.FM",
     stream: "https://c24.radioboss.fm:18223/stream",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#702459", "#521B41"]
   },
   {
-    id: "kz-037-жулдыз-fm",
-    name: "Жулдыз FM",
+    id: "kz-037-Р¶СѓР»РґС‹Р·-fm",
+    name: "Р–СѓР»РґС‹Р· FM",
     stream: "https://radiosolo.ru/radio/zhuldyz-fm/icecast.audio",
-    genre: "Разное",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Казахстан",
-    tags: ["Казахстан", "Прямой эфир"],
+    genre: "Р Р°Р·РЅРѕРµ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РљР°Р·Р°С…СЃС‚Р°РЅ",
+    tags: ["РљР°Р·Р°С…СЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: null,
     badge: "KZ",
     color: ["#234E52", "#1D4044"]
     },
     {
-        id: "by-001-свое-радио-пинск",
-        name: "Свое Радио Пинск",
+        id: "by-001-СЃРІРѕРµ-СЂР°РґРёРѕ-РїРёРЅСЃРє",
+        name: "РЎРІРѕРµ Р Р°РґРёРѕ РџРёРЅСЃРє",
         stream: "https://live.svoyoradio.by:8443/svoyoradio",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
     },
     {
-        id: "by-002-радыё-relax",
-        name: "Радыё Relax",
+        id: "by-002-СЂР°РґС‹С‘-relax",
+        name: "Р Р°РґС‹С‘ Relax",
         stream: "http://live.humorfm.by:8000/radiorelax",
-        genre: "Лаунж",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р›Р°СѓРЅР¶",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
     },
     {
-        id: "by-003-радые-марыя",
-        name: "Радые Марыя",
+        id: "by-003-СЂР°РґС‹Рµ-РјР°СЂС‹СЏ",
+        name: "Р Р°РґС‹Рµ РњР°СЂС‹СЏ",
         stream: "https://server.radiorm.by:8443/live",
-        genre: "Религиозное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РµР»РёРіРёРѕР·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#BE185D", "#9D174D"]
@@ -10002,11 +10002,11 @@ window.STATIONS = [
         id: "by-004-aplus-beat",
         name: "Aplus Beat",
         stream: "http://107.173.210.247:9000/aplus_beat_128",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#7C3AED", "#5B21B6"]
@@ -10015,11 +10015,11 @@ window.STATIONS = [
         id: "by-005-aplus-one-aac-16-kbs",
         name: "Aplus One aac, 16 kb/s",
         stream: "http://s.aplus.fm:9000/aplus_16.aac",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#B45309", "#92400E"]
@@ -10028,11 +10028,11 @@ window.STATIONS = [
         id: "by-006-aplus-progressive-techno",
         name: "Aplus Progressive Techno",
         stream: "http://shoutcast.aplus.fm:9000/aplus_progressive-techno_128",
-        genre: "Электронная",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#047857", "#065F46"]
@@ -10041,24 +10041,24 @@ window.STATIONS = [
         id: "by-007-gjr",
         name: "gjr",
         stream: "https://kathy.torontocast.com:3375/stream",
-        genre: "Джаз",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р”Р¶Р°Р·",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#C2410C", "#9A3412"]
     },
     {
-        id: "by-008-двухтысячные",
-        name: "Двухтысячные",
+        id: "by-008-РґРІСѓС…С‚С‹СЃСЏС‡РЅС‹Рµ",
+        name: "Р”РІСѓС…С‚С‹СЃСЏС‡РЅС‹Рµ",
         stream: "https://stream.unistar.by/unistar_best_internal/unistar_best/playlist.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#334155", "#1E293B"]
@@ -10067,11 +10067,11 @@ window.STATIONS = [
         id: "by-009-unistar",
         name: "Unistar",
         stream: "https://stream.unistar.by/unistar_rap_internal/unistar_rap/playlist.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
@@ -10080,11 +10080,11 @@ window.STATIONS = [
         id: "by-010-unistar",
         name: "Unistar",
         stream: "https://stream.unistar.by/unistar_fast_internal/unistar_fast/playlist.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
@@ -10093,50 +10093,50 @@ window.STATIONS = [
         id: "by-011-unistar",
         name: "Unistar",
         stream: "https://stream.unistar.by/unistar_covers_internal/unistar_covers/playlist.m3u8",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#BE185D", "#9D174D"]
     },
     {
-        id: "by-012-мой-рок",
-        name: "Мой рок",
+        id: "by-012-РјРѕР№-СЂРѕРє",
+        name: "РњРѕР№ СЂРѕРє",
         stream: "https://stream.unistar.by/unistar_rock_internal/unistar_rock/playlist.m3u8",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#7C3AED", "#5B21B6"]
     },
     {
-        id: "by-013-офисное-радио-unistar",
-        name: "Офисное радио Unistar",
+        id: "by-013-РѕС„РёСЃРЅРѕРµ-СЂР°РґРёРѕ-unistar",
+        name: "РћС„РёСЃРЅРѕРµ СЂР°РґРёРѕ Unistar",
         stream: "https://stream.unistar.by/unistar_office_internal/unistar_office/playlist.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#B45309", "#92400E"]
     },
     {
-        id: "by-014-свежие-хиты-юнистар",
-        name: "Свежие хиты Юнистар",
+        id: "by-014-СЃРІРµР¶РёРµ-С…РёС‚С‹-СЋРЅРёСЃС‚Р°СЂ",
+        name: "РЎРІРµР¶РёРµ С…РёС‚С‹ Р®РЅРёСЃС‚Р°СЂ",
         stream: "https://stream.unistar.by/unistar_top_internal/unistar_top/playlist.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#047857", "#065F46"]
@@ -10145,115 +10145,115 @@ window.STATIONS = [
         id: "by-015-unistar",
         name: "Unistar",
         stream: "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#C2410C", "#9A3412"]
     },
     {
-        id: "by-016-свежие-хиты",
-        name: "Свежие хиты",
+        id: "by-016-СЃРІРµР¶РёРµ-С…РёС‚С‹",
+        name: "РЎРІРµР¶РёРµ С…РёС‚С‹",
         stream: "https://stream.unistar.by/unistar_top_internal/unistar_top/unistar_top/unistar_top_128/chunks.m3u8",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#334155", "#1E293B"]
     },
     {
-        id: "by-017-зефир-fm",
-        name: "Зефир FM",
+        id: "by-017-Р·РµС„РёСЂ-fm",
+        name: "Р—РµС„РёСЂ FM",
         stream: "http://178.124.152.212:8008/Zefir",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
     },
     {
-        id: "by-018-открытое-слово-авто-ради",
-        name: "Открытое Слово Авто Радио",
+        id: "by-018-РѕС‚РєСЂС‹С‚РѕРµ-СЃР»РѕРІРѕ-Р°РІС‚Рѕ-СЂР°РґРё",
+        name: "РћС‚РєСЂС‹С‚РѕРµ РЎР»РѕРІРѕ РђРІС‚Рѕ Р Р°РґРёРѕ",
         stream: "https://rt.radioslovo.net:4145/stream",
-        genre: "Религиозное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РµР»РёРіРёРѕР·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
     },
     {
-        id: "by-019-открытое-слово-братские-",
-        name: "Открытое Слово Братские встречи",
+        id: "by-019-РѕС‚РєСЂС‹С‚РѕРµ-СЃР»РѕРІРѕ-Р±СЂР°С‚СЃРєРёРµ-",
+        name: "РћС‚РєСЂС‹С‚РѕРµ РЎР»РѕРІРѕ Р‘СЂР°С‚СЃРєРёРµ РІСЃС‚СЂРµС‡Рё",
         stream: "https://rt.radioslovo.net:4135/stream",
-        genre: "Религиозное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РµР»РёРіРёРѕР·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#BE185D", "#9D174D"]
     },
     {
-        id: "by-020-открытое-слово-инструмен",
-        name: "Открытое Слово Инструментальная музыка",
+        id: "by-020-РѕС‚РєСЂС‹С‚РѕРµ-СЃР»РѕРІРѕ-РёРЅСЃС‚СЂСѓРјРµРЅ",
+        name: "РћС‚РєСЂС‹С‚РѕРµ РЎР»РѕРІРѕ РРЅСЃС‚СЂСѓРјРµРЅС‚Р°Р»СЊРЅР°СЏ РјСѓР·С‹РєР°",
         stream: "https://rt.radioslovo.net:4275/stream",
-        genre: "Религиозное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РµР»РёРіРёРѕР·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#7C3AED", "#5B21B6"]
     },
     {
-        id: "by-021-еўрарадыё-alternative",
-        name: "Еўрарадыё Alternative",
+        id: "by-021-РµСћСЂР°СЂР°РґС‹С‘-alternative",
+        name: "Р•СћСЂР°СЂР°РґС‹С‘ Alternative",
         stream: "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#B45309", "#92400E"]
     },
     {
-        id: "by-022-еўрарадыё-by",
-        name: "Еўрарадыё BY",
+        id: "by-022-РµСћСЂР°СЂР°РґС‹С‘-by",
+        name: "Р•СћСЂР°СЂР°РґС‹С‘ BY",
         stream: "http://stream1.euroradio.fm:8000/euroradio1",
-        genre: "Новости",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РќРѕРІРѕСЃС‚Рё",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#047857", "#065F46"]
     },
     {
-        id: "by-023-новое-радио-984-fm",
-        name: "Новое радио 98.4 fm",
+        id: "by-023-РЅРѕРІРѕРµ-СЂР°РґРёРѕ-984-fm",
+        name: "РќРѕРІРѕРµ СЂР°РґРёРѕ 98.4 fm",
         stream: "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#C2410C", "#9A3412"]
@@ -10262,24 +10262,24 @@ window.STATIONS = [
         id: "by-024-fresh",
         name: "Fresh",
         stream: "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
-        genre: "Поп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РџРѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#334155", "#1E293B"]
     },
     {
-        id: "by-025-megamix-новое-радио",
-        name: "Megamix Новое радио",
+        id: "by-025-megamix-РЅРѕРІРѕРµ-СЂР°РґРёРѕ",
+        name: "Megamix РќРѕРІРѕРµ СЂР°РґРёРѕ",
         stream: "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
-        genre: "Танцевальная",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РўР°РЅС†РµРІР°Р»СЊРЅР°СЏ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
@@ -10288,115 +10288,115 @@ window.STATIONS = [
         id: "by-026-wake-up-show",
         name: "Wake Up Show",
         stream: "https://live.novoeradio.by:444/live/novoeradio_wakeupshow_aac128/icecast.audio",
-        genre: "Танцевальная",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РўР°РЅС†РµРІР°Р»СЊРЅР°СЏ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
     },
     {
-        id: "by-027-первое-союзное-радиоё",
-        name: "Первое союзное радиоё",
+        id: "by-027-РїРµСЂРІРѕРµ-СЃРѕСЋР·РЅРѕРµ-СЂР°РґРёРѕС‘",
+        name: "РџРµСЂРІРѕРµ СЃРѕСЋР·РЅРѕРµ СЂР°РґРёРѕС‘",
         stream: "https://souz.hostingradio.ru:80/souz128.mp3",
-        genre: "Новости",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РќРѕРІРѕСЃС‚Рё",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#BE185D", "#9D174D"]
     },
     {
-        id: "by-028-радио-123",
-        name: "Радио 123",
+        id: "by-028-СЂР°РґРёРѕ-123",
+        name: "Р Р°РґРёРѕ 123",
         stream: "http://de1.internet-radio.com:8173/stream",
-        genre: "Разное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р Р°Р·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#7C3AED", "#5B21B6"]
     },
     {
-        id: "by-029-радио-беларусь-fmradio-b",
-        name: "Радио Беларусь FM/Radio Belarus FM",
+        id: "by-029-СЂР°РґРёРѕ-Р±РµР»Р°СЂСѓСЃСЊ-fmradio-b",
+        name: "Р Р°РґРёРѕ Р‘РµР»Р°СЂСѓСЃСЊ FM/Radio Belarus FM",
         stream: "http://stream2.datacenter.by:8009/belarusfm",
-        genre: "Новости",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РќРѕРІРѕСЃС‚Рё",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#B45309", "#92400E"]
     },
     {
-        id: "by-030-радио-беларусьradio-bela",
-        name: "Радио Беларусь/Radio Belarus",
+        id: "by-030-СЂР°РґРёРѕ-Р±РµР»Р°СЂСѓСЃСЊradio-bela",
+        name: "Р Р°РґРёРѕ Р‘РµР»Р°СЂСѓСЃСЊ/Radio Belarus",
         stream: "http://stream2.datacenter.by:8008/belarus",
-        genre: "Новости",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РќРѕРІРѕСЃС‚Рё",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#047857", "#065F46"]
     },
     {
-        id: "by-031-радио-брест-1048-fm",
-        name: "Радио Брест 104.8 Fm",
+        id: "by-031-СЂР°РґРёРѕ-Р±СЂРµСЃС‚-1048-fm",
+        name: "Р Р°РґРёРѕ Р‘СЂРµСЃС‚ 104.8 Fm",
         stream: "http://178.124.131.35:8012/trkbrest",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#C2410C", "#9A3412"]
     },
     {
-        id: "by-032-радио-минск",
-        name: "Радио Минск",
+        id: "by-032-СЂР°РґРёРѕ-РјРёРЅСЃРє",
+        name: "Р Р°РґРёРѕ РњРёРЅСЃРє",
         stream: "https://radio.mk.by:8443/radiominsk",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#334155", "#1E293B"]
     },
     {
-        id: "by-033-радио-relax-беларусь",
-        name: "Радио Relax Беларусь",
+        id: "by-033-СЂР°РґРёРѕ-relax-Р±РµР»Р°СЂСѓСЃСЊ",
+        name: "Р Р°РґРёРѕ Relax Р‘РµР»Р°СЂСѓСЃСЊ",
         stream: "https://live.humorfm.by:8443/radiorelax",
-        genre: "Лаунж",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р›Р°СѓРЅР¶",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
     },
     {
-        id: "by-034-народное",
-        name: "Народное",
+        id: "by-034-РЅР°СЂРѕРґРЅРѕРµ",
+        name: "РќР°СЂРѕРґРЅРѕРµ",
         stream: "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
-        genre: "Фолк",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р¤РѕР»Рє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
@@ -10405,11 +10405,11 @@ window.STATIONS = [
         id: "by-035-radar-lossless-radio",
         name: "RADAR Lossless radio",
         stream: "https://radioradar.online/listen/radar/radar.ogg",
-        genre: "Танцевальная",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РўР°РЅС†РµРІР°Р»СЊРЅР°СЏ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#BE185D", "#9D174D"]
@@ -10418,141 +10418,141 @@ window.STATIONS = [
         id: "by-036-radar-lossy",
         name: "RADAR Lossy",
         stream: "https://radioradar.online/listen/radar/yablo.aac",
-        genre: "Танцевальная",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РўР°РЅС†РµРІР°Р»СЊРЅР°СЏ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#7C3AED", "#5B21B6"]
     },
     {
-        id: "by-037-радио-скуф",
-        name: "Радио Скуф",
+        id: "by-037-СЂР°РґРёРѕ-СЃРєСѓС„",
+        name: "Р Р°РґРёРѕ РЎРєСѓС„",
         stream: "https://live.radioskuf.com:1075/stream",
-        genre: "Разное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р Р°Р·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#B45309", "#92400E"]
     },
     {
-        id: "by-038-центр-fm",
-        name: "Центр FM",
+        id: "by-038-С†РµРЅС‚СЂ-fm",
+        name: "Р¦РµРЅС‚СЂ FM",
         stream: "https://stream2.datacenter.by/stream",
-        genre: "Танцевальная",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РўР°РЅС†РµРІР°Р»СЊРЅР°СЏ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#047857", "#065F46"]
     },
     {
-        id: "by-039-радио-мир-в-беларуси",
-        name: "Радио Мир в Беларуси",
+        id: "by-039-СЂР°РґРёРѕ-РјРёСЂ-РІ-Р±РµР»Р°СЂСѓСЃРё",
+        name: "Р Р°РґРёРѕ РњРёСЂ РІ Р‘РµР»Р°СЂСѓСЃРё",
         stream: "https://media1.datacenter.by:1936/radiomir/radiomir/chunklist_w1845238396.m3u8",
-        genre: "Разговорное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р Р°Р·РіРѕРІРѕСЂРЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#C2410C", "#9A3412"]
     },
     {
-        id: "by-040-молодечно-fm",
-        name: "Молодечно FM",
+        id: "by-040-РјРѕР»РѕРґРµС‡РЅРѕ-fm",
+        name: "РњРѕР»РѕРґРµС‡РЅРѕ FM",
         stream: "https://radio.tvs.by:8089/Radio/index.m3u8",
-        genre: "Разное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р Р°Р·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#334155", "#1E293B"]
     },
     {
-        id: "by-041-правда-радио",
-        name: "Правда Радио",
+        id: "by-041-РїСЂР°РІРґР°-СЂР°РґРёРѕ",
+        name: "РџСЂР°РІРґР° Р Р°РґРёРѕ",
         stream: "https://stream2.datacenter.by/gomelskayapravda?type=.mp3",
-        genre: "Разговорное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р Р°Р·РіРѕРІРѕСЂРЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
     },
     {
-        id: "by-042-радио-кит",
-        name: "Радио КИТ",
+        id: "by-042-СЂР°РґРёРѕ-РєРёС‚",
+        name: "Р Р°РґРёРѕ РљРРў",
         stream: "https://radiokit.by:8443/RadioKitDance",
-        genre: "Разное",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р Р°Р·РЅРѕРµ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
     },
     {
-        id: "by-043-радио-родничок",
-        name: "Радио РОДничок",
+        id: "by-043-СЂР°РґРёРѕ-СЂРѕРґРЅРёС‡РѕРє",
+        name: "Р Р°РґРёРѕ Р РћР”РЅРёС‡РѕРє",
         stream: "https://a1.radioheart.ru:9035/RH20329",
-        genre: "Фолк",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р¤РѕР»Рє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#BE185D", "#9D174D"]
     },
     {
-        id: "by-044-рокс-fm",
-        name: "Рокс FM",
+        id: "by-044-СЂРѕРєСЃ-fm",
+        name: "Р РѕРєСЃ FM",
         stream: "https://stream.roks.com:8443/live256",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#7C3AED", "#5B21B6"]
     },
     {
-        id: "by-045-радио-столица-беларусь",
-        name: "Радио Столица Беларусь",
+        id: "by-045-СЂР°РґРёРѕ-СЃС‚РѕР»РёС†Р°-Р±РµР»Р°СЂСѓСЃСЊ",
+        name: "Р Р°РґРёРѕ РЎС‚РѕР»РёС†Р° Р‘РµР»Р°СЂСѓСЃСЊ",
         stream: "https://media2.datacenter.by/stream/stalica/stream",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#B45309", "#92400E"]
     },
     {
-        id: "by-046-юмор-fm-беларусь",
-        name: "Юмор FM Беларусь",
+        id: "by-046-СЋРјРѕСЂ-fm-Р±РµР»Р°СЂСѓСЃСЊ",
+        name: "Р®РјРѕСЂ FM Р‘РµР»Р°СЂСѓСЃСЊ",
         stream: "https://live.humorfm.by:8443/veseloeradio",
-        genre: "Юмор",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р®РјРѕСЂ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#047857", "#065F46"]
@@ -10561,50 +10561,50 @@ window.STATIONS = [
         id: "by-047-hiphop-by",
         name: "Hiphop By",
         stream: "http://online.hiphop.by:9000/8000",
-        genre: "Хип-хоп",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "РҐРёРї-С…РѕРї",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#C2410C", "#9A3412"]
     },
     {
-        id: "by-048-тёплое-радио-нетоп-fm",
-        name: "Тёплое Радио Нетоп FM",
+        id: "by-048-С‚С‘РїР»РѕРµ-СЂР°РґРёРѕ-РЅРµС‚РѕРї-fm",
+        name: "РўС‘РїР»РѕРµ Р Р°РґРёРѕ РќРµС‚РѕРї FM",
         stream: "http://radio2.teploe.net:8000/teploeradio",
-        genre: "Ретро",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РµС‚СЂРѕ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#334155", "#1E293B"]
     },
     {
-        id: "by-049-легенды-fm-hits",
-        name: "Легенды FM Hits",
+        id: "by-049-Р»РµРіРµРЅРґС‹-fm-hits",
+        name: "Р›РµРіРµРЅРґС‹ FM Hits",
         stream: "http://live.legendy.by:8000/legendyfm",
-        genre: "Ретро",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РµС‚СЂРѕ",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#0F766E", "#115E59"]
     },
     {
-        id: "by-050-радыё-рацыя",
-        name: "Радыё Рацыя",
+        id: "by-050-СЂР°РґС‹С‘-СЂР°С†С‹СЏ",
+        name: "Р Р°РґС‹С‘ Р Р°С†С‹СЏ",
         stream: "http://air.racyja.com:8000/racja128",
-        genre: "Рок",
-        description: "Прямой эфир онлайн.",
-        listeners: "Прямой эфир",
-        city: "Беларусь",
-        tags: ["Беларусь", "Прямой эфир"],
+        genre: "Р РѕРє",
+        description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+        listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+        city: "Р‘РµР»Р°СЂСѓСЃСЊ",
+        tags: ["Р‘РµР»Р°СЂСѓСЃСЊ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
         logoUrl: null,
         badge: "BY",
         color: ["#1D4ED8", "#1E40AF"]
@@ -10613,11 +10613,11 @@ window.STATIONS = [
     id: "uz-001-alo-fm",
     name: "A'lo FM",
     stream: "http://tabassum.uz:9000/alo_low",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "http://tabassum.uz/templates/tabassum/images/logoalo.png",
     badge: "UZ",
     color: ["#0099B5", "#007A8E"]
@@ -10626,11 +10626,11 @@ window.STATIONS = [
     id: "uz-002-sezam-fm",
     name: "Sezam FM",
     stream: "https://stream.zeno.fm/70r1uhccrchvv",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://www.google.com/s2/favicons?domain=sezamfm.com&sz=256",
     badge: "UZ",
     color: ["#7C3AED", "#6D28D9"]
@@ -10639,11 +10639,11 @@ window.STATIONS = [
     id: "uz-003-timsol-online",
     name: "Timsol Online Radiosi",
     stream: "https://stream.zeno.fm/cqtrku1o8bbuv",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://www.google.com/s2/favicons?domain=timsolfm.uz&sz=256",
     badge: "UZ",
     color: ["#0099B5", "#007A8E"]
@@ -10652,11 +10652,11 @@ window.STATIONS = [
     id: "uz-004-nokis-fm",
     name: "No'kis FM",
     stream: "http://185.196.214.70:8000/live",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Нукус, Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РќСѓРєСѓСЃ, РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://www.google.com/s2/favicons?domain=nukusfm.uz&sz=256",
     badge: "UZ",
     color: ["#D97706", "#B45309"]
@@ -10665,11 +10665,11 @@ window.STATIONS = [
     id: "uz-005-radio-markaz",
     name: "Radio Markaz Online",
     stream: "http://mediamarkaz.com:8000/radiomarkaz",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "http://mediamarkaz.com/assets/css/images/logo-radiomarkaz.png",
     badge: "UZ",
     color: ["#0099B5", "#007A8E"]
@@ -10678,11 +10678,11 @@ window.STATIONS = [
     id: "uz-006-temp-fm",
     name: "Temp FM",
     stream: "https://tempradio-live.uz/streamaac",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://temp.fm/favicon.png",
     badge: "UZ",
     color: ["#E11D48", "#BE123C"]
@@ -10691,11 +10691,11 @@ window.STATIONS = [
     id: "uz-007-radio-maxima",
     name: "Radio Maxima",
     stream: "https://classicfm.uz:8444/maxima.ogg",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Поп", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџРѕРї", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://www.google.com/s2/favicons?domain=maxima.uz&sz=256",
     badge: "UZ",
     color: ["#DC2626", "#B91C1C"]
@@ -10704,11 +10704,11 @@ window.STATIONS = [
     id: "uz-008-radio-ozbegim-taronasi",
     name: "Radio O'zbegim Taronasi",
     stream: "https://fm101.uz:9943/fm101_low.aac",
-    genre: "Народная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Народная", "Прямой эфир"],
+    genre: "РќР°СЂРѕРґРЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РќР°СЂРѕРґРЅР°СЏ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "http://fm101.uz/wp-content/uploads/logo-152.png",
     badge: "UZ",
     color: ["#059669", "#047857"]
@@ -10717,24 +10717,24 @@ window.STATIONS = [
     id: "uz-009-navroz-fm",
     name: "Navroz FM",
     stream: "http://navruzfm.uz:9000/navruz_low",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://www.google.com/s2/favicons?domain=navruzfm.uz&sz=256",
     badge: "UZ",
     color: ["#0099B5", "#007A8E"]
   },
   {
     id: "uz-010-radio-grand-fm",
-    name: "Радио Гранд FM",
+    name: "Р Р°РґРёРѕ Р“СЂР°РЅРґ FM",
     stream: "https://str1.tvcom.uz/RADIO-GRAND/shoutcast",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Ташкент, Узбекистан",
-    tags: ["Узбекистан", "Поп", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РўР°С€РєРµРЅС‚, РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџРѕРї", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://www.google.com/s2/favicons?domain=grand.uz&sz=256",
     badge: "UZ",
     color: ["#7C3AED", "#6D28D9"]
@@ -10743,11 +10743,11 @@ window.STATIONS = [
     id: "uz-011-retro-fm",
     name: "Retro FM Uzbekistan",
     stream: "https://classicfm.uz:8444/retrofm.ogg",
-    genre: "Ретро",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Ретро", "80е", "90е"],
+    genre: "Р РµС‚СЂРѕ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "Р РµС‚СЂРѕ", "80Рµ", "90Рµ"],
     logoUrl: "https://retrofm.uz/images/logo.png",
     badge: "UZ",
     color: ["#B45309", "#92400E"]
@@ -10756,11 +10756,11 @@ window.STATIONS = [
     id: "uz-012-radio-ozodlik",
     name: "Radio Ozodlik Uzbek",
     stream: "https://n09.radiojar.com/9mdte4apn3quv",
-    genre: "Новости",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Новости", "Прямой эфир"],
+    genre: "РќРѕРІРѕСЃС‚Рё",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РќРѕРІРѕСЃС‚Рё", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://ozodlik.org/Content/responsive/RFE/img/webApp/ico-152x152.png",
     badge: "UZ",
     color: ["#1D4ED8", "#1E40AF"]
@@ -10769,11 +10769,11 @@ window.STATIONS = [
     id: "uz-013-yoshlar-ovozi",
     name: "Yoshlar Ovozi",
     stream: "http://ns10.jethost.uz:8000/yoshlarovoziaac",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Ташкент, Узбекистан",
-    tags: ["Узбекистан", "Поп", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РўР°С€РєРµРЅС‚, РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџРѕРї", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "http://muz.uz/favicon.ico",
     badge: "UZ",
     color: ["#0099B5", "#007A8E"]
@@ -10782,11 +10782,11 @@ window.STATIONS = [
     id: "uz-014-oriat-dono",
     name: "ORIAT Dono Radio",
     stream: "https://live.oriatdono.uz/dono/shoutcast",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://oriatdono.uz/templates/uz/images/fav.webp",
     badge: "UZ",
     color: ["#0D9488", "#0F766E"]
@@ -10795,11 +10795,11 @@ window.STATIONS = [
     id: "uz-015-qalbim-navosi",
     name: "Qalbim Navosi",
     stream: "https://live.qalbimnavosi.uz/qalbimnavosi",
-    genre: "Поп",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Ташкент, Узбекистан",
-    tags: ["Узбекистан", "Поп", "Прямой эфир"],
+    genre: "РџРѕРї",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РўР°С€РєРµРЅС‚, РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РџРѕРї", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://qalbimnavosi.uz/tmp/images/default.jpg",
     badge: "UZ",
     color: ["#7C3AED", "#6D28D9"]
@@ -10808,13 +10808,911 @@ window.STATIONS = [
     id: "uz-016-islom-uz",
     name: "Islom.uz",
     stream: "https://radio.islom.uz/islomuz",
-    genre: "Религиозная",
-    description: "Прямой эфир онлайн.",
-    listeners: "Прямой эфир",
-    city: "Узбекистан",
-    tags: ["Узбекистан", "Ислам", "Прямой эфир"],
+    genre: "Р РµР»РёРіРёРѕР·РЅР°СЏ",
+    description: "РџСЂСЏРјРѕР№ СЌС„РёСЂ РѕРЅР»Р°Р№РЅ.",
+    listeners: "РџСЂСЏРјРѕР№ СЌС„РёСЂ",
+    city: "РЈР·Р±РµРєРёСЃС‚Р°РЅ",
+    tags: ["РЈР·Р±РµРєРёСЃС‚Р°РЅ", "РСЃР»Р°Рј", "РџСЂСЏРјРѕР№ СЌС„РёСЂ"],
     logoUrl: "https://islom.uz/logoweb.jpg",
     badge: "UZ",
     color: ["#065F46", "#047857"]
+  }
+];,
+  {
+    id: "am-001-armenian-christian-radio-bashde-radi",
+    name: "Armenian Christian Radio - Bashde Radio",
+    stream: "https://streams.radio.co/sa0bf8ec29/listen",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/bashde-org-armenian-christian-radio-bashde-radio/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-002-радио-ереванские-ночи",
+    name: "РАДИО \"Ереванские ночи\"",
+    stream: "http://icecast.yerevannights.com/YerevanNights",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/yerevannights-com-radio-erevanskie-nochi/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-003-fm-105-5",
+    name: "FM 105.5",
+    stream: "http://14842.cloudrad.io:9536/live",
+    genre: "Джаз",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Джаз", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/1055-am-fm-105-5/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-004-radio-sputnik",
+    name: "Radio Sputnik Արմենիա",
+    stream: "https://riavoice.gcdn.co/voicearm1",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/armeniasputnik-am-radio-sputnik/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-005-radio-jan",
+    name: "Radio Jan",
+    stream: "http://s7.voscast.com:10258/radiojan",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiojan-am-radio-jan/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-006-lratvakan-radio",
+    name: "Lratvakan Radio",
+    stream: "http://212.34.233.78:8000/live",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/lratvakan-am-lratvakan-radio/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-007-radio-jazz-fm",
+    name: "Radio Jazz FM",
+    stream: "https://am.radioaurora.am/jz",
+    genre: "Джаз",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Джаз", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/jazzfm-am-radio-jazz-fm/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-008-радио-шансон",
+    name: "Радио Шансон",
+    stream: "http://eu.stream4cast.com:8070/;stream.mp3",
+    genre: "Шансон",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Шансон", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/chanson-am-radio-shanson/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-009-armenian-gospel-radio",
+    name: "Armenian Gospel Radio",
+    stream: "https://s8.myradiostream.com/15554/listen.mp3",
+    genre: "Религиозная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Религиозная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/armgospelradio-com-armenian-gospel-radio/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-010-radio-xfm",
+    name: "Radio XFM",
+    stream: "http://eu.stream4cast.com:8050/stream",
+    genre: "Рок",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Рок", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/xfm-am-radio-xfm/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-011-radio-energy",
+    name: "Radio Energy",
+    stream: "https://eu.stream4cast.com/proxy/energyfm/stream",
+    genre: "Танцевальная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Танцевальная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/energyfm-am-radio-energy/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-012-yerevan-fm-101-9",
+    name: "Yerevan FM 101.9",
+    stream: "https://eu1.stream4cast.com/proxy/arradioi/stream",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/yerevanfm-am-yerevan-fm-101-9/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-013-nshkhar",
+    name: "NSHKHAR",
+    stream: "https://cast5.my-control-panel.com/proxy/mher/stream",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/artsakhdiocese-am-nshkhar/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-014-radio-muzofan",
+    name: "Radio Muzofan",
+    stream: "https://radio.muzofan.net/radio/newlive",
+    genre: "Танцевальная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Танцевальная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radio-muzofan-net-radio-muzofan/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-015-kiss-fm-armenia",
+    name: "Kiss FM Armenia",
+    stream: "https://am.radioaurora.am/kiss",
+    genre: "Танцевальная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Танцевальная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/kissfm-am-kiss-fm-armenia/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-016-lav-radio-mix",
+    name: "Lav Radio Mix",
+    stream: "https://eu.stream4cast.com/proxy/lavradiomix/stream",
+    genre: "Танцевальная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Танцевальная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/lavradio-am-lav-radio-mix/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-017-mfm-music-radio",
+    name: "MFM Music Radio",
+    stream: "https://eu.stream4cast.com/proxy/mfmradio/stream",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/mfm-am-mfm-music-radio/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-018-radio-aurora",
+    name: "Radio Aurora",
+    stream: "https://am.radioaurora.am/al.mp3",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radioaurora-am-radio-aurora/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-019-radio-marshall",
+    name: "Radio Marshall",
+    stream: "http://eu.stream4cast.com:8030/;stream.mp3",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiomarshall-am-radio-marshall/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-020-radio-van",
+    name: "Radio Van",
+    stream: "http://media.radiovan.am:8000/96_stereo",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiovan-fm-radio-van/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-021-radio-yan",
+    name: "Radio YAN",
+    stream: "http://83.169.36.75:8000/stream",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radioyan-com-radio-yan/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-022-radio-yan-patriotic",
+    name: "Radio YAN Patriotic",
+    stream: "http://83.169.36.75:8001/stream",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radioyan-com-radio-yan-patriotic/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-023-public-radio-of-armenia",
+    name: "Public Radio of Armenia",
+    stream: "https://eu1.stream4cast.com/proxy/publicra/stream",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/en-armradio-am-public-radio-of-armenia/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-024-lav-radio",
+    name: "Lav Radio",
+    stream: "https://eu.stream4cast.com/proxy/lavradio/stream",
+    genre: "Танцевальная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Танцевальная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/lavradio-am-lav-radio/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-025-radio-yeraz",
+    name: "Radio Yeraz",
+    stream: "http://149.255.60.194:8008/stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radioyeraz-com-radio-yeraz/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-026-радио-импульс",
+    name: "Радио Импульс",
+    stream: "http://212.34.233.78:8005/music",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/horovel-lratvakan-am-radio-impuls/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-027-radio-hay",
+    name: "Radio Hay",
+    stream: "http://14678.cloudrad.io:9440/live",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiohay-am-radio-hay/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-028-nor-radyo",
+    name: "Nor Radyo",
+    stream: "http://www.norradyo.com:8000/live",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/norradyo-com-nor-radyo/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-029-radio-fama",
+    name: "Radio Fama",
+    stream: "http://eu.stream4cast.com:8036/stream/;",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiofama-am-radio-fama/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-030-imusic-am-jammin",
+    name: "IMusic.am-jammin",
+    stream: "https://hinstream.imusic.am/523889244946992450/NkZCdzlkL28vd3ZDYVp4MkFxazhEOERYSDlKY2FQMWtlbnhoUm8ramc5RT0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-jammin/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-031-imusic-am-classic",
+    name: "IMusic.am-classic",
+    stream: "https://hinstream.imusic.am/2441765578956582400/UVY3cmRYZlRnL0kxT3ZZUS81Qk0rdjVScnZsSjhxb21uMzdsaDFITGQzUT0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-classic/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-032-radio-azalia",
+    name: "Radio Azalia",
+    stream: "https://stream.zeno.fm/s865660v7hhvv",
+    genre: "Фолк",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Фолк", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/zeno-fm-radio-azalia/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-033-radio-mariam",
+    name: "Radio Mariam",
+    stream: "https://live.radiomariam.am/RadioMariam",
+    genre: "Религиозная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Религиозная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiomariam-am-radio-mariam/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-034-online-radio-armenia",
+    name: "Online Radio Armenia",
+    stream: "https://onlineradio.out.airtime.pro/onlineradio_b",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/onlineradio-am-online-radio-armenia/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-035-radio-menq",
+    name: "Radio Menq",
+    stream: "http://109.68.120.226:8000/menq128",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiomenq-blogspot-ru-radio-menq/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-036-vem-radio",
+    name: "Vem Radio",
+    stream: "https://eu1.stream4cast.com/proxy/vemradio/stream",
+    genre: "Религиозная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Религиозная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/vem-am-vem-radio/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-037-radio-van-gyumri-fm-97-9",
+    name: "Radio Van Gyumri FM 97.9",
+    stream: "http://uk23freenew.listen2myradio.com:3093/;",
+    genre: "Новости",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Новости", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiovangyumri-am-radio-van-gyumri-fm-97-9/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-038-aw-abovyan",
+    name: "AW Abovyan",
+    stream: "https://armenia.radioantennaweb.com/Abovyan",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/antennaweb-it-aw-abovyan/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-039-aw-gyumri",
+    name: "AW Gyumri",
+    stream: "https://armenia.radioantennaweb.com/Gyumri",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/antennaweb-it-aw-gyumri/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-040-aw-kotayk",
+    name: "AW Kotayk",
+    stream: "https://armenia.radioantennaweb.com/Hrazdan",
+    genre: "Джаз",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Джаз", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/antennaweb-it-aw-kotayk/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-041-aw-shirak",
+    name: "AW Shirak",
+    stream: "https://armenia.radioantennaweb.com/Shirak",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/antennaweb-it-aw-shirak/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-042-aw-yerevan",
+    name: "AW Yerevan",
+    stream: "https://armenia.radioantennaweb.com/Yerevan",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/antennaweb-it-aw-yerevan/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-043-imusic-am-retro",
+    name: "IMusic.am-retro",
+    stream: "https://hinstream.imusic.am/2313945833636447700/NnV1aE5wblZGalNqZWcwNHEyTWVBK05Fc3NlZC9rU3o2eWtSbXBaS2djaz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-retro/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-044-imusic-am-in-car",
+    name: "IMusic.am-in car",
+    stream: "https://hinstream.imusic.am/3307328907533213000/anRlaUgrVXNMRjBRT2hPbkgxZGRPT0lleHE0aHd0QVZMNllGbDY3dzlocz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-in-car/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-045-imusic-am-arm",
+    name: "IMusic.am-ARM",
+    stream: "https://hinstream.imusic.am/2013054138209560000/RUZTK2M3Q244blVLeUZtSFVkVHZpZ3psb1Q5UkczVWJQTUJsei83VTEvaz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-arm/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-046-imusic-am-trending",
+    name: "IMusic.am-Trending",
+    stream: "https://hinstream.imusic.am/2926395130025864700/b0EwS3FYR1Z2RkRPYnBUSnloUXVMQTZXejVKSEJyZnlRVzYvS21HVjNldz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-trending/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-047-imusic-am-radio-jazz",
+    name: "IMusic.am-Radio Jazz",
+    stream: "https://hinstream.imusic.am/1857443734970992400/clR0Uy9wWjlPZFIweHdjbHBXV1ZoU0NxWXMwZk5iR3k0U3l2NzJFdlBCdz0=//ilyov_stream",
+    genre: "Джаз",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Джаз", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-radio-jazz/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-048-imusic-am-jazzve",
+    name: "IMusic.am-jazzve",
+    stream: "https://hinstream.imusic.am/42020059773054350/c1o2MzlTckVkUGNVQk5ZRkNrZ1NxQT09//ilyov_stream",
+    genre: "Джаз",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Джаз", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-jazzve/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-049-imusic-am-dalma-garden-mall",
+    name: "IMusic.am-Dalma Garden Mall",
+    stream: "https://hinstream.imusic.am/2306552355547604500/dXg1VURaVHdsWS84V2FpakJEYU1tV081R2lMeCtET2R1UkdrZzliU2U1Yz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-dalma-garden-mall/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-050-imusic-am-parma-radio",
+    name: "IMusic.am-Parma Radio",
+    stream: "https://hinstream.imusic.am/3071568178781773000/VENIaHBZeXJqMHo0TWd3YmtjNUltT1U5dVVyK0JJWmlHZFFxQ2xRbm1kST0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-parma-radio/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-051-imusic-am-sas",
+    name: "IMusic.am-SAS",
+    stream: "https://hinstream.imusic.am/1761921961079/bkNBVTBLMVBySERjb2pwYkFxS25wMW9lWHRjbW5QaEFXWlhHcDJkRDBjQT0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-sas/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-052-imusic-am-evocabank",
+    name: "IMusic.am-Evocabank",
+    stream: "https://hinstream.imusic.am/2318448066149340700/MldhMmVtZndZWi9QM3puWXhRYURwbGpMTXNJaVY3UjZFT1h6S1JWUm1qST0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-evocabank/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-053-imusic-am-gotcha",
+    name: "IMusic.am-gotcha",
+    stream: "https://hinstream.imusic.am/2001626463374879700/eDVCTzlQUmtHUldNL0pwcnFneUR6TEhLbjhhZG42RXhBYmNpYTVWclo2UT0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-gotcha/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-054-imusic-am-zovq-supermarrket",
+    name: "IMusic.am-Zovq Supermarrket",
+    stream: "https://hinstream.imusic.am/964490574480134000/SkJOZG1wZWcxai9ScllwVFB0akllQT09//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-zovq-supermarrket/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-055-imusic-am-coffee-house",
+    name: "IMusic.am-Coffee House",
+    stream: "https://hinstream.imusic.am/1697781895084641500/bjdkSGFqTXZvcTR2Zis5SC9CcnU5L3QxeWNKT08wK0pLeEtvMkNEamJRcz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-coffee-house/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-056-imusic-am-orrange-gym",
+    name: "IMusic.am-Orrange Gym",
+    stream: "https://hinstream.imusic.am/1761924210404/VVFPOCtjWlFuT1lLMWpFT21BTnA2SEtBbHRaQWY3MVErL3gxNDFFc3grbz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-orrange-gym/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-057-imusic-am-duson",
+    name: "IMusic.am-Duson",
+    stream: "https://hinstream.imusic.am/2345428907977985500/UGs4WTRZOElseG44N0FsOC9RTGhvbkdnK0VFc0ZIdXJqMVphNFBKc01oRT0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-duson/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-058-imusic-am-celio-radio",
+    name: "IMusic.am-Celio Radio",
+    stream: "https://hinstream.imusic.am/680114780121532500/U1ZzYVRBTmE0TlllSzhvVm51TmFtemt4VE96bXEvSDhVTEZtdFdnWW9jMD0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-celio-radio/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-059-imusic-am-gg-classic",
+    name: "IMusic.am-gg Classic",
+    stream: "https://hinstream.imusic.am/1118847261856122100/bmtBS0xuY1JzSitYUzlzRENyVUo2K0QreXlNWVlIMXY5eWZKS3F6Zyt2Yz0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-gg-classic/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-060-imusic-am-gg-jazz",
+    name: "IMusic.am-gg Jazz",
+    stream: "https://hinstream.imusic.am/3814574507584795/NlJ0WFZXczhhT21OT1JQa2hiMkJlQT09//ilyov_stream",
+    genre: "Джаз",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Джаз", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-gg-jazz/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-061-imusic-am-gg-trending",
+    name: "IMusic.am-gg Trending",
+    stream: "https://hinstream.imusic.am/1622637253763903500/TmUwRWtXSmN4ZG14cndtWXRqallERGpNU2dXU2VWSUZsWXkyNE1FMGV3MD0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-gg-trending/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
+  },
+  {
+    id: "am-062-imusic-am-gg-armenian",
+    name: "IMusic.am-gg Armenian",
+    stream: "https://hinstream.imusic.am/1389895485868799200/dUo4OEJ2aE0xVGpHcHRnODdzZ1BNbld0bXArZVNudTdNcEFmdnNIbVkzMD0=//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-gg-armenian/webp/",
+    badge: "AM",
+    color: ["#BE185D", "#9D174D"]
+  },
+  {
+    id: "am-063-imusic-am-christmas-radio-imus",
+    name: "IMusic.am-Christmas Radio - IMUS...",
+    stream: "https://hinstream.imusic.am/23949896237564270/bFQvTEhjNitNdlcxQ0lrZHNwa3J3QT09//ilyov_stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/imusic-am-imusic-am-christmas-radio-imus/webp/",
+    badge: "AM",
+    color: ["#334155", "#1E293B"]
+  },
+  {
+    id: "am-064-luys-tv-western-armenian-tv",
+    name: "Luys TV Western Armenian TV",
+    stream: "https://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/luys-tv-luys-tv-western-armenian-tv/webp/",
+    badge: "AM",
+    color: ["#B91C1C", "#7F1D1D"]
+  },
+  {
+    id: "am-065-radio-mariam-armenia",
+    name: "Radio Mariam Armenia",
+    stream: "http://dreamsiteradiocp.com:8056/stream",
+    genre: "Религиозная",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Религиозная", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/radiomariam-am-radio-mariam-armenia/webp/",
+    badge: "AM",
+    color: ["#1D4ED8", "#1E3A8A"]
+  },
+  {
+    id: "am-066-mec-amor-fm",
+    name: "MEC-Amor FM",
+    stream: "https://freeuk23.listen2myradio.com/live.mp3",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/metsamor-radio12345-com-mec-amor-fm/webp/",
+    badge: "AM",
+    color: ["#059669", "#065F46"]
+  },
+  {
+    id: "am-067-pop-fm",
+    name: "POP FM",
+    stream: "https://eu1.stream4cast.com/proxy/pop/stream",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/popfm-am-pop-fm/webp/",
+    badge: "AM",
+    color: ["#7C3AED", "#5B21B6"]
+  },
+  {
+    id: "am-068-xfm-radio",
+    name: "XFM Radio",
+    stream: "https://eu.stream4cast.com/proxy/xfmradio/stream",
+    genre: "Рок",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Рок", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/xfm-am-xfm-radio/webp/",
+    badge: "AM",
+    color: ["#D97706", "#92400E"]
+  },
+  {
+    id: "am-069-сити-фм",
+    name: "Сити-ФМ",
+    stream: "https://icecast-rian.cdnvideo.ru/voicearm1",
+    genre: "Поп",
+    description: "Прямой эфир онлайн.",
+    listeners: "Прямой эфир",
+    city: "Армения",
+    tags: ["Армения", "Поп", "Прямой эфир"],
+    logoUrl: "https://radiolar.online/images/1/fm106-am-siti-fm/webp/",
+    badge: "AM",
+    color: ["#0D9488", "#0F766E"]
   }
 ];

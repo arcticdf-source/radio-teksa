@@ -137,6 +137,10 @@
       return "Узбекистан";
     }
 
+    if (tags.some((tag) => tag.includes("армени")) || haystack.includes("армени") || badge === "AM") {
+      return "Армения";
+    }
+
     return "Россия";
   }
 
