@@ -895,9 +895,13 @@ input::placeholder {
 
   .mobile-now-playing {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(120px, 34vw);
+    order: 5;
+    width: 100%;
+    grid-template-columns: minmax(0, 1fr) minmax(152px, 38vw);
     grid-template-areas:
       "copy vinyl"
+      "controls controls"
+      "status status"
       "visualizer visualizer";
     align-items: start;
     gap: 18px;
@@ -946,6 +950,7 @@ input::placeholder {
   }
 
   .mobile-control-row {
+    grid-area: controls;
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 56px;
     gap: 10px;
@@ -954,12 +959,18 @@ input::placeholder {
   .mobile-control-row .primary-button,
   .mobile-control-row .ghost-button,
   .mobile-control-row .icon-button {
+    display: inline-flex;
+    align-items: center;
     width: 100%;
     min-height: 56px;
     justify-content: center;
+    text-align: center;
+    white-space: normal;
+    line-height: 1.15;
   }
 
   .mobile-status-row {
+    grid-area: status;
     justify-content: flex-start;
   }
 
@@ -968,12 +979,13 @@ input::placeholder {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding-top: 10px;
+    min-height: 156px;
+    padding-top: 4px;
   }
 
   .mobile-vinyl-disc {
-    width: min(33vw, 136px);
-    height: min(33vw, 136px);
+    width: min(38vw, 164px);
+    height: min(38vw, 164px);
   }
 
   .mobile-visualizer {
@@ -1399,6 +1411,14 @@ input::placeholder {
     flex: 0 0 auto;
   }
 
+  .topbar-shortcuts {
+    order: 4;
+    width: 100%;
+    justify-content: flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
   .mobile-now-playing {
     display: grid;
   }
@@ -1408,23 +1428,31 @@ input::placeholder {
   .topbar-nav { display: none; }
   .topbar-search { max-width: 100%; }
   .mobile-now-playing {
-    grid-template-columns: minmax(0, 1fr) 112px;
+    grid-template-columns: minmax(0, 1fr) 132px;
     gap: 16px;
   }
   .mobile-vinyl-disc {
-    width: 112px;
-    height: 112px;
+    width: 132px;
+    height: 132px;
+  }
+  .mobile-control-row {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 54px;
+  }
+  .mobile-control-row .primary-button,
+  .mobile-control-row .ghost-button {
+    padding: 14px 16px;
+    font-size: 0.98rem;
   }
   .topbar-shortcuts {
     width: 100%;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 10px;
     flex-wrap: wrap;
   }
   .topbar-link-btn {
     min-height: 50px;
     padding: 0 14px;
-    flex: 1 1 calc(50% - 40px);
+    flex: 1 1 calc(50% - 30px);
   }
   .topbar-util-btn {
     width: 50px;
