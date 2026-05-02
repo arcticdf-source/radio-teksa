@@ -1436,7 +1436,18 @@ input::placeholder {
     height: 132px;
   }
   .mobile-control-row {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 54px;
+    grid-template-columns: minmax(0, 1fr) 54px 132px;
+    grid-template-areas: "next favorite play";
+    align-items: stretch;
+  }
+  .mobile-control-row .primary-button {
+    grid-area: play;
+  }
+  .mobile-control-row .ghost-button {
+    grid-area: next;
+  }
+  .mobile-control-row .icon-button {
+    grid-area: favorite;
   }
   .mobile-control-row .primary-button,
   .mobile-control-row .ghost-button {
@@ -1445,18 +1456,29 @@ input::placeholder {
   }
   .topbar-shortcuts {
     width: 100%;
-    justify-content: flex-start;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: stretch;
+    justify-content: stretch;
     gap: 10px;
-    flex-wrap: wrap;
+    flex-wrap: unset;
   }
   .topbar-link-btn {
     min-height: 50px;
     padding: 0 14px;
-    flex: 1 1 calc(50% - 30px);
+    width: 100%;
+    min-width: 0;
+    flex: 0 0 auto;
   }
   .topbar-util-btn {
     width: 50px;
     height: 50px;
+  }
+  #bookmark-btn {
+    grid-column: 1;
+  }
+  #pwa-install-btn {
+    grid-column: 2;
   }
   .browse-topbar {
     flex-wrap: wrap;
