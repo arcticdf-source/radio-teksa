@@ -96,6 +96,46 @@
           </div>
         </div>
 
+        <section class="mobile-now-playing" aria-label="Текущая станция">
+          <div class="mobile-now-playing-copy">
+            <p class="eyebrow">Сейчас в эфире</p>
+            <div class="hero-station-row mobile-hero-station-row">
+              <div class="station-badge" data-mobile-hero-badge>GS</div>
+              <div>
+                <h2 class="mobile-current-title" data-mobile-hero-title>Радио онлайн</h2>
+                <p class="current-description mobile-current-description" data-mobile-hero-description>
+                  Выберите станцию и слушайте прямой эфир.
+                </p>
+              </div>
+            </div>
+
+            <div class="tag-row mobile-tag-row" data-mobile-hero-tags></div>
+
+            <div class="control-row mobile-control-row">
+              <button class="primary-button" data-mobile-play-toggle type="button">Слушать</button>
+              <button class="ghost-button" data-mobile-next-station type="button">Случайная станция</button>
+              <button class="icon-button" data-mobile-favorite-toggle type="button" aria-label="Добавить в избранное">
+                ☆
+              </button>
+            </div>
+
+            <div class="status-row mobile-status-row">
+              <span data-mobile-play-state>Готово к воспроизведению</span>
+            </div>
+
+            <div class="visualizer mobile-visualizer" aria-hidden="true">
+              <span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+            </div>
+          </div>
+
+          <div class="mobile-now-playing-vinyl">
+            <div class="vinyl-disc mobile-vinyl-disc" data-mobile-vinyl-disc>
+              <div class="vinyl-grooves"></div>
+              <div class="vinyl-label" data-mobile-vinyl-label>GS</div>
+            </div>
+          </div>
+        </section>
+
         <div class="topbar-shortcuts" aria-label="Переход к фильтрам">
           <a class="topbar-link-btn" href="./genres.html">Жанры</a>
           <a class="topbar-link-btn" href="./countries.html">Страны</a>

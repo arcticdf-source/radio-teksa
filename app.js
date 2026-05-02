@@ -219,11 +219,19 @@ const sleepTimer = document.querySelector("#sleep-timer");
 const playToggle = document.querySelector("#play-toggle");
 const nextStation = document.querySelector("#next-station");
 const favoriteToggle = document.querySelector("#favorite-toggle");
+const mobilePlayToggle = document.querySelector("[data-mobile-play-toggle]");
+const mobileNextStation = document.querySelector("[data-mobile-next-station]");
+const mobileFavoriteToggle = document.querySelector("[data-mobile-favorite-toggle]");
 const currentTitle = document.querySelector("#current-title");
 const currentDescription = document.querySelector("#current-description");
 const currentTags = document.querySelector("#current-tags");
 const playState = document.querySelector("#play-state");
 const stationBadge = document.querySelector("#station-badge");
+const mobileCurrentTitle = document.querySelector("[data-mobile-hero-title]");
+const mobileCurrentDescription = document.querySelector("[data-mobile-hero-description]");
+const mobileCurrentTags = document.querySelector("[data-mobile-hero-tags]");
+const mobilePlayState = document.querySelector("[data-mobile-play-state]");
+const mobileStationBadge = document.querySelector("[data-mobile-hero-badge]");
 const favoritesSummary = document.querySelector("#favorites-summary strong");
 const queueList = document.querySelector("#queue-list");
 const stationGrid = document.querySelector("#station-grid");
@@ -231,10 +239,23 @@ const genreFilters = document.querySelector("#genre-filters");
 const searchSuggestions = document.querySelector("#search-suggestions");
 const vinylDisc = document.querySelector("#vinyl-disc");
 const vinylLabel = document.querySelector("#vinyl-label");
+const mobileVinylDisc = document.querySelector("[data-mobile-vinyl-disc]");
+const mobileVinylLabel = document.querySelector("[data-mobile-vinyl-label]");
 const topbarNav = document.querySelector("#topbar-nav");
 const mainLayout = document.querySelector("#main-layout");
 const genreView = document.querySelector("#genre-view");
 const cityView = document.querySelector("#city-view");
+
+const heroTitles = [currentTitle, mobileCurrentTitle].filter(Boolean);
+const heroDescriptions = [currentDescription, mobileCurrentDescription].filter(Boolean);
+const heroTagRows = [currentTags, mobileCurrentTags].filter(Boolean);
+const heroStates = [playState, mobilePlayState].filter(Boolean);
+const heroBadges = [stationBadge, mobileStationBadge].filter(Boolean);
+const playToggles = [playToggle, mobilePlayToggle].filter(Boolean);
+const favoriteToggles = [favoriteToggle, mobileFavoriteToggle].filter(Boolean);
+const nextStationButtons = [nextStation, mobileNextStation].filter(Boolean);
+const vinylDiscs = [vinylDisc, mobileVinylDisc].filter(Boolean);
+const vinylLabels = [vinylLabel, mobileVinylLabel].filter(Boolean);
 
 const genres = ["Все", ...new Set(stations.map((station) => station.genre))];
 
@@ -459,6 +480,7 @@ async function probeStream(stream, timeoutMs = 9000) {
       clearTimeout(timer);
       audio.removeEventListener("loadedmetadata", onLoadedMetadata);
       audio.removeEventListener("canplay", onCanPlay);
+      audio.removeEventListener("progress", onProgress);
       audio.removeEventListener("error", onError);
       cleanup();
       resolve(result);
@@ -466,6 +488,7 @@ async function probeStream(stream, timeoutMs = 9000) {
 
     const onLoadedMetadata = () => finish(true);
     const onCanPlay = () => finish(true);
+    const onProgress = () => finish(true);
     const onError = () => finish(false);
     const onHlsError = (event, data) => {
       if (data?.fatal) {
@@ -477,6 +500,7 @@ async function probeStream(stream, timeoutMs = 9000) {
 
     audio.addEventListener("loadedmetadata", onLoadedMetadata, { once: true });
     audio.addEventListener("canplay", onCanPlay, { once: true });
+    audio.addEventListener("progress", onProgress, { once: true });
     audio.addEventListener("error", onError, { once: true });
 
     try {
@@ -660,35 +684,53 @@ function setGradient(element, [start, end]) {
 function renderHero() {
   const station = getStation(state.currentId);
 
-  currentTitle.textContent = station.name;
-  currentDescription.textContent = station.description;
-  if (station.logoUrl) {
-    stationBadge.innerHTML = `<img src="${station.logoUrl}" alt="${station.name}" />`;
-  } else {
-    stationBadge.textContent = station.badge;
-    setGradient(stationBadge, station.color);
-  }
+  heroTitles.forEach((element) => {
+    element.textContent = station.name;
+  });
 
-  currentTags.innerHTML = station.tags
-    .map((tag) => `<span class="tag">${tag}</span>`)
-    .join("");
+  heroDescriptions.forEach((element) => {
+    element.textContent = station.description;
+  });
 
-  favoriteToggle.textContent = state.favorites.has(station.id) ? "★" : "☆";
-  favoriteToggle.classList.toggle("active", state.favorites.has(station.id));
-  playToggle.textContent = state.isPlaying ? "Пауза" : "Слушать";
+  heroBadges.forEach((element) => {
+    if (station.logoUrl) {
+      element.innerHTML = `<img src="${station.logoUrl}" alt="${station.name}" />`;
+      element.style.background = "";
+    } else {
+      element.textContent = station.badge;
+      setGradient(element, station.color);
+    }
+  });
+
+  heroTagRows.forEach((element) => {
+    element.innerHTML = station.tags
+      .map((tag) => `<span class="tag">${tag}</span>`)
+      .join("");
+  });
+
+  favoriteToggles.forEach((element) => {
+    element.textContent = state.favorites.has(station.id) ? "★" : "☆";
+    element.classList.toggle("active", state.favorites.has(station.id));
+  });
+
+  playToggles.forEach((element) => {
+    element.textContent = state.isPlaying ? "Пауза" : "Слушать";
+  });
 
   // Update vinyl label
-  if (vinylLabel) {
+  vinylLabels.forEach((element) => {
     if (station.logoUrl) {
-      vinylLabel.innerHTML = `<img src="${station.logoUrl}" alt="${station.name}" />`;
+      element.innerHTML = `<img src="${station.logoUrl}" alt="${station.name}" />`;
+      element.style.background = "";
     } else {
-      vinylLabel.innerHTML = station.badge;
-      vinylLabel.style.background = `linear-gradient(135deg, ${station.color[0]}, ${station.color[1]})`;
+      element.innerHTML = station.badge;
+      element.style.background = `linear-gradient(135deg, ${station.color[0]}, ${station.color[1]})`;
     }
-  }
-  if (vinylDisc) {
-    vinylDisc.classList.toggle("playing", state.isPlaying);
-  }
+  });
+
+  vinylDiscs.forEach((element) => {
+    element.classList.toggle("playing", state.isPlaying);
+  });
 }
 
 function renderQueue() {
@@ -840,7 +882,9 @@ function setView(view) {
 }
 
 function updateStatus(message) {
-  playState.textContent = message;
+  heroStates.forEach((element) => {
+    element.textContent = message;
+  });
 }
 
 async function playCurrentStation() {
@@ -993,10 +1037,21 @@ sleepTimer.addEventListener("change", (event) => {
   handleSleepTimer(Number(event.target.value));
 });
 
-playToggle.addEventListener("click", togglePlayback);
-nextStation.addEventListener("click", pickRandomStation);
-favoriteToggle.addEventListener("click", toggleFavorite);
-if (vinylDisc) vinylDisc.addEventListener("click", togglePlayback);
+playToggles.forEach((element) => {
+  element.addEventListener("click", togglePlayback);
+});
+
+nextStationButtons.forEach((element) => {
+  element.addEventListener("click", pickRandomStation);
+});
+
+favoriteToggles.forEach((element) => {
+  element.addEventListener("click", toggleFavorite);
+});
+
+vinylDiscs.forEach((element) => {
+  element.addEventListener("click", togglePlayback);
+});
 
 queueList.addEventListener("click", (event) => {
   const item = event.target.closest("[data-station-id]");
